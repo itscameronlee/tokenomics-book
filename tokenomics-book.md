@@ -12,7 +12,7 @@ by [MattyTokenomics](https://www.notion.so/Tokenomics-for-Builders-The-Comprehen
 - [**HackerNoon - Tokenomics: What Developers Should Know Before Launching a Token**](https://hackernoon.com/tokenomics-what-developers-should-know-before-launching-a-token)
 - [**1st Place Smoothie Awards**](https://smoothie.so/product/content/tokenomics-for-builders/9ej1n1el)
 
-!https://smoothie-awards.s3.us-west-1.amazonaws.com/projects/icons/a08dced8-658c-49e3-a83c-c09e541c979b.png
+![Alt text](images/a08dced8-658c-49e3-a83c-c09e541c979b.png)
 
 ### Table of Contents
 
@@ -186,9 +186,9 @@ The bootstrapping problem affects **every** marketplace business. And it’s a b
 
 To see why let’s visualize how valuable Uber is to users in aggregate (network value) compared to the total number of users in the network (size of the network):
 
-[Source*:* [The Network Effects Bible](https://www.nfx.com/post/network-effects-bible)](https://www.nfx.com/_next/image?url=https%3A%2F%2Fcontent.nfx.com%2Fwp-content%2Fuploads%2F2019%2F07%2FCritical-Mass.png&w=3840&q=75)
+![Source*:* [The Network Effects Bible](https://www.nfx.com/post/network-effects-bible)](images/Critical-Mass.webp)
 
-Source*:* [The Network Effects Bible](https://www.nfx.com/post/network-effects-bible)
+Source: [The Network Effects Bible](https://www.nfx.com/post/network-effects-bible)
 
 Notice that network value drastically increases per unit of size beyond the point of critical mass. Once Uber amasses enough drivers and riders, each new rider and driver not only inherits a high amount of existing value in the network but also adds significant marginal value.
 
@@ -217,9 +217,9 @@ Because network effects also apply to blockchain products. In fact, nearly every
 
 Network effects are not a theoretical concept that only shows up in MBA courses or VC blog posts. We can observe the quantified impact of Binance’s network effect with our own eyes.
 
-![Source*:* [Kaiko Research: April 4, 2022](https://blog.kaiko.com/tether-market-liquidity-shows-strong-improvement-9a02afd613a1)](https://miro.medium.com/max/1400/0*SLuqXnnuWKy9Bb15.png)
+![](images/0_SLuqXnnuWKy9Bb15.png)
 
-Source*:* [Kaiko Research: April 4, 2022](https://blog.kaiko.com/tether-market-liquidity-shows-strong-improvement-9a02afd613a1)
+Source: [Kaiko Research: April 4, 2022](https://blog.kaiko.com/tether-market-liquidity-shows-strong-improvement-9a02afd613a1)
 
 In the above graphic, the younger and smaller exchanges have higher slippage costs than Binance. Network effects are so powerful because they become a self-reinforcing cycle:
 
@@ -254,7 +254,7 @@ Like most non-blockchain tech companies, Uber can rely on its [proprietary techn
 
 On the other hand, Uniswap’s network effect is its *only* advantage other than brand loyalty.
 
-![Source: **[Aggregators in Web2 vs Web3](https://messari.io/report/aggregators-in-web2-vs-web3?utm_source=twitter_messaricrypto&utm_medium=organic_social&utm_campaign=aggregators_in_web3)**](https://cdn.sanity.io/images/2bt0j8lu/production/71bb7bb18e43ea7e5ebb5da8f7cbadf73c051a0e-1600x900.png?w=900&fit=max&auto=format&dpr=3)
+![](images/71bb7bb18e43ea7e5ebb5da8f7cbad.webp)
 
 Source: **[Aggregators in Web2 vs Web3](https://messari.io/report/aggregators-in-web2-vs-web3?utm_source=twitter_messaricrypto&utm_medium=organic_social&utm_campaign=aggregators_in_web3)**
 
@@ -270,7 +270,7 @@ As we’ll cover more in [Chapter 1.6](https://www.notion.so/1-6-A-Must-Know-His
 
 To get a better sense of how tokens can help overcome this problem, consider the below chart of Filecoin’s network utility, split into 3 stages: building network capacity, scaling up, and reaching maturity/defensibility.
 
-![Source: **[Filecoin Tokenomics Explained](https://academy.shrimpy.io/post/filecoin-tokenomics-explained)**](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/5f27b61f-bcb0-442a-95e3-bd258aea2bd6/Untitled.png)
+![](images/filecoin-tokenomics.png)
 
 Source: **[Filecoin Tokenomics Explained](https://academy.shrimpy.io/post/filecoin-tokenomics-explained)**
 
@@ -278,9 +278,9 @@ As we’ve discussed, the problem is that at the left side of the chart, when Fi
 
 This above chart of Filecoin’s network utility is essentially the “traditional network effect” portion of the chart below. Tokens come in as the green line, smoothing out total network utility so that even when Filecoin first launches, there is a draw for users to adopt the network.
 
-[Source*:* [The Web3 Playbook: Using Token Incentives to Bootstrap New Networks](https://twitter.com/cdixon/status/1444072365822857219?s=20&t=cBEs2jtFd6iTKpWOQvxofQ)](https://pbs.twimg.com/media/FApbdHkVUAITw7C?format=png&name=small)
+![](images/FApbdHkVUAITw7C.png)
 
-Source*:* [The Web3 Playbook: Using Token Incentives to Bootstrap New Networks](https://twitter.com/cdixon/status/1444072365822857219?s=20&t=cBEs2jtFd6iTKpWOQvxofQ)
+Source: [The Web3 Playbook: Using Token Incentives to Bootstrap New Networks](https://twitter.com/cdixon/status/1444072365822857219?s=20&t=cBEs2jtFd6iTKpWOQvxofQ)
 
 Conversely, launching a decentralized product without a token can make it very difficult to overcome the bootstrapping effect. For example, the decentralized messaging protocol Nostr, relies on people to run servers, called relays, to pass around the messages and content end-users send and create. Running a server has costs, meaning that supply-side users are incurring expenses even before there is a sufficient number of demand-side users willing to compensate relays in order to use the service.
 
@@ -327,7 +327,7 @@ Early AirBnB hosts were pivotal to the ultimate success and growth of the produc
 
 As a new primitive of digital ownership, tokens enable new forms of community-owned networks, products, and organizations. In this context, **network users and contributors**, not third-party private shareholders, are the beneficiaries of the product’s monetization.
 
-![Source: [Deep Dive on Decentralization](https://youtu.be/rW8GrxQYPbI?t=153)](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/c3490a47-9983-4e8a-82c9-b8eeb263ade3/Screen_Shot_2022-07-25_at_2.49.40_PM.png)
+![](images/decentralization-important.png)
 
 Source: [Deep Dive on Decentralization](https://youtu.be/rW8GrxQYPbI?t=153)
 
@@ -339,7 +339,7 @@ Regulatory hurdles impose a real-world constraint to “token-based ownership”
 
 Trent McConaghy, the founder of the [Ocean Protocol](https://oceanprotocol.com/), originally expressed how tokens enabled new forms of decentralized ownership in his “Web3 Sustainability Loop”.
 
-![Source: [The Web3 Sustainability Loop](https://blog.oceanprotocol.com/the-web3-sustainability-loop-b2a4097a36e)](https://miro.medium.com/max/1400/1*43iAeAJGzWMbRIkgD7Av0A.png)
+![](images/web3-sustainability-loop.png)
 
 Source: [The Web3 Sustainability Loop](https://blog.oceanprotocol.com/the-web3-sustainability-loop-b2a4097a36e)
 
