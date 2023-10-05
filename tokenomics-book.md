@@ -6,7 +6,7 @@ by [MattyTokenomics](https://www.notion.so/Tokenomics-for-Builders-The-Comprehen
 
 *This document and all resources, threads, models, and materials linked to within are for informational purposes only. None of this document’s contents, nor the contents linked to within, should be construed as legal advice, or financial advice, technical advice, investment advice, or representations in any way regarding any legal, technical, financial, or investment matters by the author. The author is not a lawyer or financial advisor in any jurisdiction, and highly encourages readers to engage with registered professionals to ensure compliance with any and all relevant laws and regulations.*
 
-## Press & Awards for ***********************Tokenomics for Builders***********************
+## Press & Awards for **Tokenomics for Builders**
 
 - [**CryptoDaily - Unlocking The Secrets To Successful Tokenomics**](https://cryptodaily.co.uk/2023/09/unlocking-the-secrets-to-successful-tokenomics-an-interview-with-matty-token-economics)
 - [**HackerNoon - Tokenomics: What Developers Should Know Before Launching a Token**](https://hackernoon.com/tokenomics-what-developers-should-know-before-launching-a-token)
@@ -121,21 +121,21 @@ As a crypto builder, tokenomics matter because you can not force your users to d
 
 - Bitcoin can not *force* miners to secure the network, nor can it *prevent* a miner from attempting a >50% attack
 - Curve can not *force* users to keep liquidity in the protocol, nor can it *prevent* liquidity providers from dumping liquidity rewards as soon as possible
-- Decentralized stablecoins like RAI or LUSD can not ****force**** the free market to maintain the peg, nor can they *******prevent******* traders from trying to manipulate the price
+- Decentralized stablecoins like RAI or LUSD can not **force** the free market to maintain the peg, nor can they **prevent** traders from trying to manipulate the price
 
 > 💡 This is one reason why many governments feel threatened by blockchain technology. The state has a monopoly on force - for example, since abandoning the gold standard, the only thing backing the US Dollar is the threat of violence from the military and judicial system. But if the world migrates to protocols where no one can *force* anyone else to do something against their will, the state’s force becomes irrelevant, and their control begins to erode.
 
-So, if you can’t *****force***** users to behave how you want them to, what can you do? You can *direct* user behavior by creating the right incentives:
+So, if you can’t **force** users to behave how you want them to, what can you do? You can *direct* user behavior by creating the right incentives:
 
-- Bitcoin can not *****force***** miners to add hash power to the network, but it directs them to do so by ************incentiviz************i************ng************ them with block rewards and network transaction fees
-- Curve can not *force* users to provide liquidity, but it directs them to do so by *************incentivizing************* them with CRV token rewards (which represent rights to governance control and a share of protocol revenues from trading fees)
-- RAI or LUSD can not *****force***** users to maintain the peg, but they direct them to do so by *************incentivizing************* them to sell when above target price and buy when below target price
+- Bitcoin can not **force** miners to add hash power to the network, but it directs them to do so by **incentiviz**i**ng** them with block rewards and network transaction fees
+- Curve can not *force* users to provide liquidity, but it directs them to do so by **incentivizing** them with CRV token rewards (which represent rights to governance control and a share of protocol revenues from trading fees)
+- RAI or LUSD can not **force** users to maintain the peg, but they direct them to do so by **incentivizing** them to sell when above target price and buy when below target price
 
 Without proper incentives to reward desired behavior and deter undesired behavior, Bitcoin would not be secure from >50% attacks, Curve would struggle to retain liquidity, and decentralized stablecoins like RAI or LUSD would not maintain their peg.
 
 When we’re talking about tokenomics, we’re fundamentally talking about incentives that can make or break your product.
 
-While this may *****sound***** straightforward - “it’s just about incentives, that’s simple enough” - getting incentives right can be deceptively tricky. And the difficult thing about building blockchain products and balancing these incentives is that there’s very little room for error - it’s much easier for a centralized solution to recover from a misstep, since they can force changes on users, than a less centralized one which can not.
+While this may **sound** straightforward - “it’s just about incentives, that’s simple enough” - getting incentives right can be deceptively tricky. And the difficult thing about building blockchain products and balancing these incentives is that there’s very little room for error - it’s much easier for a centralized solution to recover from a misstep, since they can force changes on users, than a less centralized one which can not.
 
 https://twitter.com/jessewldn/status/1683805696297406465?s=20
 
@@ -171,18 +171,18 @@ They’re all two-sided marketplaces:
 
 Like all two-sided marketplaces, they each faced the “bootstrapping problem” or “cold start problem” when they launched. It’s a “chicken and egg” situation - which came first?
 
-- Uber is only useful to ******riders****** if there are already lots of *******drivers******* available on the app.
-- But… Uber is only useful to *******drivers******* if there are lots of ******riders****** already requesting rides.
+- Uber is only useful to **riders** if there are already lots of **drivers** available on the app.
+- But… Uber is only useful to **drivers** if there are lots of **riders** already requesting rides.
 
 So, if you just started Uber and want to grow the company:
 
-********************************To get drivers on the app you need existing riders on the app, but…********************************
+**To get drivers on the app you need existing riders on the app, but…**
 
-******************To get riders on the app, you need existing drivers on the app, but…******************
+**To get riders on the app, you need existing drivers on the app, but…**
 
-********(repeat)********
+**(repeat)**
 
-The bootstrapping problem affects **********every********** marketplace business. And it’s a big problem for any new product because it makes it difficult to compete with existing big players.
+The bootstrapping problem affects **every** marketplace business. And it’s a big problem for any new product because it makes it difficult to compete with existing big players.
 
 To see why let’s visualize how valuable Uber is to users in aggregate (network value) compared to the total number of users in the network (size of the network):
 
@@ -206,7 +206,7 @@ As a result, tech-powered industries [tend to exhibit *winner-take-all*](https:/
 
 None of these are blockchain products though, so why should you care?
 
-Because network effects also apply to blockchain products. In fact, nearly every blockchain product is an *******n-sided******* marketplace business model - even centralized products like Binance.
+Because network effects also apply to blockchain products. In fact, nearly every blockchain product is an **n-sided** marketplace business model - even centralized products like Binance.
 
 | Product | Number of Sides | Parties Involved |
 | --- | --- | --- |
@@ -225,7 +225,7 @@ In the above graphic, the younger and smaller exchanges have higher slippage cos
 
 *More liquidity means lower slippage…*
 
-***************Lower slippage means more traders placing trades…***************
+**Lower slippage means more traders placing trades…**
 
 *More trading activity means more fees and/or spreads to earn…*
 
@@ -234,7 +234,7 @@ In the above graphic, the younger and smaller exchanges have higher slippage cos
 *(repeat)*
  
 
-Not only do network effects also apply to blockchain products, they’re an even ******bigger****** piece of defensibility for blockchain products vs traditional tech products. Consider the below example of starting a competitor to Uber, vs starting a competitor to Uniswap.
+Not only do network effects also apply to blockchain products, they’re an even **bigger** piece of defensibility for blockchain products vs traditional tech products. Consider the below example of starting a competitor to Uber, vs starting a competitor to Uniswap.
 
 **Create a Web2 Uber Competitor**
 
@@ -254,9 +254,9 @@ Like most non-blockchain tech companies, Uber can rely on its [proprietary techn
 
 On the other hand, Uniswap’s network effect is its *only* advantage other than brand loyalty.
 
-![Source: ****[Aggregators in Web2 vs Web3](https://messari.io/report/aggregators-in-web2-vs-web3?utm_source=twitter_messaricrypto&utm_medium=organic_social&utm_campaign=aggregators_in_web3)****](https://cdn.sanity.io/images/2bt0j8lu/production/71bb7bb18e43ea7e5ebb5da8f7cbadf73c051a0e-1600x900.png?w=900&fit=max&auto=format&dpr=3)
+![Source: **[Aggregators in Web2 vs Web3](https://messari.io/report/aggregators-in-web2-vs-web3?utm_source=twitter_messaricrypto&utm_medium=organic_social&utm_campaign=aggregators_in_web3)**](https://cdn.sanity.io/images/2bt0j8lu/production/71bb7bb18e43ea7e5ebb5da8f7cbadf73c051a0e-1600x900.png?w=900&fit=max&auto=format&dpr=3)
 
-Source: ****[Aggregators in Web2 vs Web3](https://messari.io/report/aggregators-in-web2-vs-web3?utm_source=twitter_messaricrypto&utm_medium=organic_social&utm_campaign=aggregators_in_web3)****
+Source: **[Aggregators in Web2 vs Web3](https://messari.io/report/aggregators-in-web2-vs-web3?utm_source=twitter_messaricrypto&utm_medium=organic_social&utm_campaign=aggregators_in_web3)**
 
 The above Messari chart depicts this dynamic. Imagine you’re building a Web2 aggregator, you need to fight tooth and nail to get your competitors’ proprietary data. But a Web3 aggregator can read the publicly available data right from the blockchain.
 
@@ -270,9 +270,9 @@ As we’ll cover more in [Chapter 1.6](https://www.notion.so/1-6-A-Must-Know-His
 
 To get a better sense of how tokens can help overcome this problem, consider the below chart of Filecoin’s network utility, split into 3 stages: building network capacity, scaling up, and reaching maturity/defensibility.
 
-![Source: ****[Filecoin Tokenomics Explained](https://academy.shrimpy.io/post/filecoin-tokenomics-explained)****](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/5f27b61f-bcb0-442a-95e3-bd258aea2bd6/Untitled.png)
+![Source: **[Filecoin Tokenomics Explained](https://academy.shrimpy.io/post/filecoin-tokenomics-explained)**](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/5f27b61f-bcb0-442a-95e3-bd258aea2bd6/Untitled.png)
 
-Source: ****[Filecoin Tokenomics Explained](https://academy.shrimpy.io/post/filecoin-tokenomics-explained)****
+Source: **[Filecoin Tokenomics Explained](https://academy.shrimpy.io/post/filecoin-tokenomics-explained)**
 
 As we’ve discussed, the problem is that at the left side of the chart, when Filecoin is first launching, network utility is effectively zero - there is no reason for new supply-side users or new demand-side users to join.
 
@@ -294,7 +294,7 @@ Had it taken a different approach, a token could have been one possible means fo
 
 If your product can’t stand on its own, and users don’t use it for any reason other than earning token rewards, then such rewards will attract the wrong kind of users.
 
-Network effects kick in once a product unlocks a *large enough value* to each user. That is correlated to, but not identical to, having a large number of users. Attracting *********value add********* users is important:
+Network effects kick in once a product unlocks a *large enough value* to each user. That is correlated to, but not identical to, having a large number of users. Attracting **value add** users is important:
 
 - An Uber driver who only provides rides when surge pricing hits 4x does not add as much value to Uber’s network as a driver who provides rides as their full-time job.
 - Play-to-earn game Axie Infinity’s highly inflationary tokenomics helped amass millions of daily active players. But unlike the value-add players of games like WoW, EVE Online, CS:GO, or Dota 2, most Axie Infinity players weren’t playing the game for enjoyment. Token rewards accelerated the adoption curve by amassing a high number of profit-motivated “value-extracting” users. The result? A drop of [>50% in daily active players and a crash of >95% in the price of AXS](https://afkgaming.com/esports/news/axie-infinity-active-user-count-drops-to-below-1m-for-the-first-time-in-8-months) from their respective peaks.
@@ -302,7 +302,7 @@ Network effects kick in once a product unlocks a *large enough value* to each us
 
 - Despite building network capacity with FIL emissions, Filecoin has yet to find meaningful demand, with only 5%-10% of the network capacity being utilized. Additional demand-side users are relatively much more valuable to the network than additional supply - at least for the time being.
 
->⚠️ While tokenomics ***can*** help overcome the bootstrapping problem, when done poorly, such as handing out tokens to reward ********any******** network activity instead of rewarding value add activities, tokens can actually be net destructive to network value and growth. We’ll discuss more on this topic, the pros and cons of a token, and how to tell when a product may be ready to launch a token in [Chapter 1.4](https://www.notion.so/1-4-Does-Every-Project-Need-a-Token-79f30dc5e5d34fcca18b7fbcfff3792f?pvs=21).
+>⚠️ While tokenomics **can** help overcome the bootstrapping problem, when done poorly, such as handing out tokens to reward **any** network activity instead of rewarding value add activities, tokens can actually be net destructive to network value and growth. We’ll discuss more on this topic, the pros and cons of a token, and how to tell when a product may be ready to launch a token in [Chapter 1.4](https://www.notion.so/1-4-Does-Every-Project-Need-a-Token-79f30dc5e5d34fcca18b7fbcfff3792f?pvs=21).
 
 For now, keep in mind that tokenomics can play a crucial role in building network effects, and if you want to maximize your chances to be resilient to competitors and succeed in the long run, maximizing network effects is key.
 
@@ -325,7 +325,7 @@ This is inefficient - raising money from VCs in exchange for ownership and spend
 
 Early AirBnB hosts were pivotal to the ultimate success and growth of the product - and hosts today continue to be. They would make for great owners of AirBnB, something AirBnB is well aware of. In fact, the company has previously asked the SEC [how they can give shares to hosts](https://www.cbsnews.com/news/airbnb-wants-to-give-shares-in-its-business-to-hosts) - current regulations only permit giving shares to employees and investors, not users. Thanks Gary.
 
-As a new primitive of digital ownership, tokens enable new forms of community-owned networks, products, and organizations. In this context, ********************network users and contributors********************, not third-party private shareholders, are the beneficiaries of the product’s monetization.
+As a new primitive of digital ownership, tokens enable new forms of community-owned networks, products, and organizations. In this context, **network users and contributors**, not third-party private shareholders, are the beneficiaries of the product’s monetization.
 
 ![Source: [Deep Dive on Decentralization](https://youtu.be/rW8GrxQYPbI?t=153)](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/c3490a47-9983-4e8a-82c9-b8eeb263ade3/Screen_Shot_2022-07-25_at_2.49.40_PM.png)
 
@@ -344,7 +344,7 @@ Trent McConaghy, the founder of the [Ocean Protocol](https://oceanprotocol.com/)
 Source: [The Web3 Sustainability Loop](https://blog.oceanprotocol.com/the-web3-sustainability-loop-b2a4097a36e)
 
 > **At its heart is a loop, designed for “snowball effect” growth of the ecosystem. The Workers (center) do *work* to help grow the Web3 Project Ecosystem (right). Apps and services generate revenue, using the Web3 project’s tools. A non-extractive fraction of that revenue is looped back (arrow looping from right to left) as Network revenue to the Web3 community.**
-****Source: [The Web3 Sustainability Loop](https://blog.oceanprotocol.com/the-web3-sustainability-loop-b2a4097a36e)**
+**Source: [The Web3 Sustainability Loop](https://blog.oceanprotocol.com/the-web3-sustainability-loop-b2a4097a36e)**
 > 
 
 Trent arguably too narrowly defined a few components, such as the “Workers” at the center of the network, as well as the “Buy & Burn” and “Governance Token” mechanisms, but the core concepts remain.
@@ -417,9 +417,9 @@ These are all elements **related to a protocol's tokenomics, but tokenomics is a
 Source: [What Is Tokenomics and Why Does It Matter?](https://academy.binance.com/en/articles/what-is-tokenomics-and-why-does-it-matter)
 > 
 
-Often when founders, protocols, and white papers discuss tokenomics, they almost exclusively discuss ***********supply-side*********** aspects: max supply, emissions rate, allocation, vesting periods, etc.
+Often when founders, protocols, and white papers discuss tokenomics, they almost exclusively discuss **supply-side** aspects: max supply, emissions rate, allocation, vesting periods, etc.
 
-Why? Because, unlike **********demand**********, every aspect of *supply* is entirely under the founding team’s control (at least until launch). But this lazy approach, focusing on only one aspect of tokenomics, leads to poor outcomes - no amount of supply manipulation can make a useless token into a useful one.
+Why? Because, unlike **demand**, every aspect of *supply* is entirely under the founding team’s control (at least until launch). But this lazy approach, focusing on only one aspect of tokenomics, leads to poor outcomes - no amount of supply manipulation can make a useless token into a useful one.
 
 https://twitter.com/DermanCapital/status/1550261330740903936?s=20
 
@@ -437,13 +437,13 @@ Every network contains four components:
     Source: [On Engineering Economic Systems](https://medium.com/block-science/on-engineering-economic-systems-1cff055d3a5f)
     
 
-In this context, tokenomics are specifically designed rules and parameters by which the ***set of methods*** operate in order to incentivize the ***community of agents*** to reach ***consensus*** and perform other actions that will add new entries to the ***ledger of transactions.***
+In this context, tokenomics are specifically designed rules and parameters by which the **set of methods** operate in order to incentivize the **community of agents** to reach **consensus** and perform other actions that will add new entries to the **ledger of transactions.**
 
 Part of Bitcoin’s tokenomics is to reward a miner each time a block is mined. This block reward is called a [coinbase](https://www.javatpoint.com/coinbase-transaction), not to be confused with Coinbase with a capital ‘C’, the centralized exchange.
 
-The coinbase (one method in our ***set of methods***), follows rules and parameters set in Bitcoin’s emissions schedule to incentivize ***agents*** (miners) to secure the network and maintain ***consensus*** about the ************************ledger of transactions************************.
+The coinbase (one method in our **set of methods**), follows rules and parameters set in Bitcoin’s emissions schedule to incentivize **agents** (miners) to secure the network and maintain **consensus** about the **ledger of transactions**.
 
-Part of Curve’s tokenomics is to reward liquidity providers with pool fees. Each time an ***agent*** (trader) calls the ‘TokenExchange’ ***method*** to place a trade, it follows coded rules and parameters to charge a specific fee and allocate some portion of that fee to incentivize a different set of ***agents*** (liquidity providers) to provide liquidity, with all these actions settling to the ************************ledger of transactions.************************
+Part of Curve’s tokenomics is to reward liquidity providers with pool fees. Each time an **agent** (trader) calls the ‘TokenExchange’ **method** to place a trade, it follows coded rules and parameters to charge a specific fee and allocate some portion of that fee to incentivize a different set of **agents** (liquidity providers) to provide liquidity, with all these actions settling to the **ledger of transactions.**
 
 Tokenomics always involves some element of incentivizing an agent to take (or abstain from) a certain behavior. For this reason, tokenomics is perhaps best viewed as user behavior engineering.
 
@@ -498,7 +498,7 @@ Below is an excerpt from a real conversation I had with an aspiring builder. Tho
 
 **Me**: Hmm. That doesn't make much sense imo. The purpose and value of the token has virtually nothing to do with the usage of the quiz platform. It seems like you might as well be building a DEX at that point.
 
-******************Founder:****************** so what's your advice on building the revenue and value?
+**Founder:** so what's your advice on building the revenue and value?
 
 **Me**: Well that’s the million-dollar question. Blockchain products are not fundamentally different than Web2 in the sense that you still need to build something people want to use badly enough that they are willing to pay to use it. And to do that requires solving a problem. It all comes back to the basics: a) what problem are you solving? b) who has this problem? c) how much (if anything) would they be willing to pay to solve this problem?
 
@@ -509,7 +509,7 @@ This founder made the classic mistake of falling in love with the technology or 
 
 And there is absolutely nothing wrong with releasing a piece of *software* that doesn’t explicitly solve a problem if you’re doing it as a learning project or an experiment.
 
-But releasing a transferrable *****token***** (especially one designed to capture fees and incentivize user behavior) for a software product that does not solve a problem is ****************never**************** a good idea.
+But releasing a transferrable **token** (especially one designed to capture fees and incentivize user behavior) for a software product that does not solve a problem is **never** a good idea.
 
 Why? Because even if you give 100% of the token supply away for free or do a “fair launch”, you may still be taking on legal and regulatory risks and will create a community that blames you personally if the token falls in price (yes, even if you give it away for free, as we’ll see in [Chapter 1.4](https://www.notion.so/1-4-Does-Every-Project-Need-a-Token-79f30dc5e5d34fcca18b7fbcfff3792f?pvs=21)).
 
@@ -525,7 +525,7 @@ Even Bitcoin itself had to solve a problem(s):
 - Problem: electronic money held in banks can be frozen, stolen, or seized if the government decides it doesn’t like what you’re saying or doing or if the bank collapses
 - Problem: peer-to-peer and cross-border payments are slow, expensive, and entirely at the mercy of 3rd party for-profit corporations and government entities
 
-Plenty of people disagree about whether Bitcoin is the ****best**** or *****only***** solution to these problems, but almost everyone agrees that Bitcoin is at least one option people have for these problems.
+Plenty of people disagree about whether Bitcoin is the **best** or **only** solution to these problems, but almost everyone agrees that Bitcoin is at least one option people have for these problems.
 
 Coins and tokens, even Bitcoin itself, do not have value simply because they exist - they have value because they solve a problem.
 
@@ -533,7 +533,7 @@ Coins and tokens, even Bitcoin itself, do not have value simply because they exi
 
 Once you have a problem to solve, you still need an actual solution to that problem (i.e. a product).
 
-Your token is generally ***not*** the same thing as your product:
+Your token is generally **not** the same thing as your product:
 
 - Your product is what you’re building to solve user problems.
 - Your token is a digital representation of some resource or relationship within your product. It enables or improves a core feature of your product.
@@ -553,7 +553,7 @@ But UNI, despite some clear problems with its tokenomics around value capture an
 
 Maker DAO could have conceivably launched decentralized borrowing/lending without its MKR token by releasing smart contracts for using CDPs (collateralized debt positions) to mint DAI. No MKR token is required to publish a smart contract, post ETH collateral to a smart contract vault, or mint an ERC-20 token (DAI). MKR isn’t even strictly needed for decentralized governance of the protocol, in theory, ETH could be used for governance votes.
 
-Strictly speaking, the core product, CDP vaults, does not ****need**** the MKR token to exist. That said, MKR makes Maker DAO’s decentralized CDP product much stronger by helping to [overcome bootstrapping challenges](https://www.reddit.com/r/MakerDAO/comments/5oyr28/maker_ico_and_polychain/), improving protocol resiliency (via [recapitalizing the protocol in extreme market events](https://cointelegraph.com/news/the-makerdao-auction-is-happening-heres-what-to-expect)), and increasing community engagement through ‘skin-in-the-game’ signaling, distributed ownership, governance involvement, and deflationary rewards.
+Strictly speaking, the core product, CDP vaults, does not **need** the MKR token to exist. That said, MKR makes Maker DAO’s decentralized CDP product much stronger by helping to [overcome bootstrapping challenges](https://www.reddit.com/r/MakerDAO/comments/5oyr28/maker_ico_and_polychain/), improving protocol resiliency (via [recapitalizing the protocol in extreme market events](https://cointelegraph.com/news/the-makerdao-auction-is-happening-heres-what-to-expect)), and increasing community engagement through ‘skin-in-the-game’ signaling, distributed ownership, governance involvement, and deflationary rewards.
 - Chainlink vs LINK token
 
 Chainlink uses LINK to reward oracles with fees for their services, and for oracles to post collateral that can be slashed, incentivizing them to be truthful. Yet a liquid stable coin like DAI, or even ETH itself, could conceivably fill the same role: oracles post DAI collateral, users of oracles pay fees in DAI, and oracles are rewarded with a share of those DAI user fees.
@@ -568,7 +568,7 @@ Yet ETH allows for generalizing decentralized computing to more use cases by rew
 
 The Bitcoin network is one of the largest, most decentralized networks in existence, responsible for securing the finality of BTC transactions and settlements. For years, people considered the Bitcoin network as only valuable due to processing settlement of BTC transactions, drawing little to no distinction between the Bitcoin network as a product and BTC as a coin itself.
 
-But with the flurry of Ordinals and BRC-20 activity in 2023, as well as smart contract L2s for Bitcoin such as Stacks and sidechains such as RSK, more builders and users are beginning to see the Bitcoin network as a product that offers secure settlement finality for *******any******* use case, including but not limited to BTC transactions.
+But with the flurry of Ordinals and BRC-20 activity in 2023, as well as smart contract L2s for Bitcoin such as Stacks and sidechains such as RSK, more builders and users are beginning to see the Bitcoin network as a product that offers secure settlement finality for **any** use case, including but not limited to BTC transactions.
 
 The point is **not** that UNI, MKR, LINK, or ETH tokens shouldn’t exist or that they don’t serve any purpose. The point is…
 
@@ -581,7 +581,7 @@ Too many builders think launching a token will solve all their problems, and the
 
 This is akin to first setting a goal to raise VC funding, and then working backward to design a cool new technology product so you can raise money.
 
-It ***can*** work, but it never gives you the best chance of success. It’s the wrong approach.
+It **can** work, but it never gives you the best chance of success. It’s the wrong approach.
 
 # Good Tokenomics are Not Sufficient
 
@@ -589,7 +589,7 @@ We’ll talk a lot more specifically about what makes tokenomics good or bad in 
 
 For now, remember that good tokenomics can make a good product great, and bad tokenomics can destroy even the best products.
 
-Even so, you still want to worry first and foremost about solving a real problem with a good product, and ****then**** worry about getting your tokenomics right.
+Even so, you still want to worry first and foremost about solving a real problem with a good product, and **then** worry about getting your tokenomics right.
 
 Why? Because emitting tokens can help acquire, retain, engage, and coordinate users - but only if users care about the token in the first place.
 
@@ -696,17 +696,17 @@ Before you run off and launch a token, there’s an important wrinkle to keep in
 
 **Low Frequency Interactions**
 
-Behaviors like providing liquidity, adding TVL to a yield aggregator, or staking tokens in a validator node require a relatively **********low frequency********** of engagement.
+Behaviors like providing liquidity, adding TVL to a yield aggregator, or staking tokens in a validator node require a relatively **low frequency** of engagement.
 
 Users have to manually initiate providing liquidity, but then their liquidity continues adding value to the system as long as they leave it there, no further actions are needed, until they manually choose to submit a transaction to withdraw.
 
-The users do not need to remain actively engaged, yet the protocol still benefits the entire time from their **************************low-frequency************************** engagements.
+The users do not need to remain actively engaged, yet the protocol still benefits the entire time from their **low-frequency** engagements.
 
 **High Frequency Interactions**
 
-What about user behaviors that require a ******high frequency****** of engagement, such as actively participating in governance votes, creating content, or actively curating lists? Suddenly, it becomes much more difficult to avoid side effects or exploits. Cautionary tales for failed ************high frequency************ engagement mechanisms abound:
+What about user behaviors that require a **high frequency** of engagement, such as actively participating in governance votes, creating content, or actively curating lists? Suddenly, it becomes much more difficult to avoid side effects or exploits. Cautionary tales for failed **high frequency** engagement mechanisms abound:
 
-- Posting and curating content, such as social media, is an example of a **************high frequency************** engagement. Steemit attempted to reward frequent engagement, and ensure quality by rewarding curation but ended up [incentivizing botting and high quantities of low quality content](https://arxiv.org/pdf/1904.07310.pdf).
+- Posting and curating content, such as social media, is an example of a **high frequency** engagement. Steemit attempted to reward frequent engagement, and ensure quality by rewarding curation but ended up [incentivizing botting and high quantities of low quality content](https://arxiv.org/pdf/1904.07310.pdf).
 - DAOs, even those as popular as Bankless DAO, consistently [struggle to meet the required minimum level of votes](https://forum.bankless.community/t/gse-and-quorum-the-daos-options-to-repair-governance-processes/2861) (quorum). Amusingly, the proposal adding a new quorum requirement to Bankless DAO itself did not reach quorum!
 
 Ideally, DAO members do their research, make informed decisions, and actively participate in every proposal. Yet blindly rewarding the act of voting would simply incentivize low-quality proposal spam and uninformed voting in order to earn rewards.
@@ -716,14 +716,14 @@ How to better encourage **high frequency** participation in DAOs remains [an ope
 - Community engagement is another difficult area to reward. While reputation tokens can play a role, particularly in strongly knit communities where social signaling is highly valued, but in many cases, users don’t necessarily care about earning social clout (reputation) without at least the possibility of future monetary rewards. Many builders have assumed that if reputation tokens also have a monetary value (i.e. can be sold), then reputation becomes more valuable, improving community engagement. In practice though, when reputation itself can be purchased, this can [undermine the value of reputation and social signaling in the community](https://future.com/reputation-based-systems/), resulting in less cohesion and engagement.
 - Play-to-earn games such as Axie Infinity want their players to remain loyal players, but rewarding in-game actions incentives activities that may harm the playing experience for legitimate players, such as [bots taking over the game](https://twitter.com/LevanKvirkvelia/status/1564290386138464256) and excessive inflation of in-game currencies. This can quickly spiral out of control because as more bots show up, the game experience becomes worse for players, leading to fewer players who might actually spend money on the game (in-game items, skins, extra lives, etc) whereas bots do not spend money, thus the fundamentals of the game’s economy further deteriorates.
 
-It takes a bit more creativity, careful design, experimentation, and simulation to balance rewards and find the right incentives for **************high frequency************** engagement. Here are a few examples of mechanisms that, while not perfect, are a step in the right direction for **************high frequency************** engagements:
+It takes a bit more creativity, careful design, experimentation, and simulation to balance rewards and find the right incentives for **high frequency** engagement. Here are a few examples of mechanisms that, while not perfect, are a step in the right direction for **high frequency** engagements:
 
 - Sam Williams, the founder of Arweave, mentions the example of a [scooter-sharing company in his lecture on mechanism design](https://youtu.be/gCFlGLbI_kE?t=493). Ideally, the scooter company wants users to return the scooters they use each day to their starting locations so that they are in the ideal areas for the morning commute. One mechanism for a decentralized approach would be to offer discounted, or even negative cost (ie pay users), rides that begin where most trips end, and end where most trips begin - thus redistributing scooters to where they are most needed.
 - Curve’s “vote escrowed” mechanism introduces a time-based decay in voting power. Users that want to maximize their voting power need to consistently “renew” their voting power, which can translate into more consistent engagement overall - something most DAOs struggle with. It should be noted too though that even in Curve’s case, this mechanism resulted in an unforeseen side effect, with protocols like Convex aggregating locked CRV tokens and essentially tokenizing “maximum vote locked” CRV tokens as their own Convex tokens.
 - Maker DAO incentives frequent governance engagement by aligning the economic interests of MKR holders with the success or failure of DAI’s collateralization and adoption. Even then, a [30% turnout rate represents a ‘high turnout’ vote for MKR](https://blockworks.co/news/makerdao-votes-against-a-more-streamlined-leadership) - there’s room for further improvement.
 
 <aside>
-💡 It’s relatively easier to design mechanisms for incentivizing behaviors that require a *low frequency* of engagement, such as providing liquidity or mining. It is much more difficult to design mechanisms that incentivize user behaviors that require a **************high frequency************** of engagement (such as) without creating potential exploits and abuses. Even then, all incentives come with tradeoffs, and it's important to think through and simulate the possible side effects beforehand.
+💡 It’s relatively easier to design mechanisms for incentivizing behaviors that require a *low frequency* of engagement, such as providing liquidity or mining. It is much more difficult to design mechanisms that incentivize user behaviors that require a **high frequency** of engagement (such as) without creating potential exploits and abuses. Even then, all incentives come with tradeoffs, and it's important to think through and simulate the possible side effects beforehand.
 
 </aside>
 
@@ -800,13 +800,13 @@ While possible to reduce doubt by “playing ball”, doing so is costly and tim
 
 - Stacks, a smart contract L2 for Bitcoin, [registered its ICO as a securities offering with the SEC](https://decrypt.co/9076/blockstack-nets-23-million-historic-sec-qualified-token-sale-ico)
 - INX, a trading platform, became the [“first SEC registered token IPO”](https://news.bitcoin.com/inx-becomes-the-first-sec-registered-ipo-to-accept-crypto/)
-- Note that a number of coins have raised via Reg-D offerings (almost all VC token sales are by this route) - but these type offerings mostly exclude non-accredited investors and are explicitly ******exempt****** from needing to register with the SEC
+- Note that a number of coins have raised via Reg-D offerings (almost all VC token sales are by this route) - but these type offerings mostly exclude non-accredited investors and are explicitly **exempt** from needing to register with the SEC
 
-Modern builders must recognize that the market has changed drastically since just a few years ago. Just because a protocol used a certain tokenomics design before, and has not yet been sued, does ******not****** mean that design is free of legal or regulatory risks.
+Modern builders must recognize that the market has changed drastically since just a few years ago. Just because a protocol used a certain tokenomics design before, and has not yet been sued, does **not** mean that design is free of legal or regulatory risks.
 
 For example, just because Curve pays revenues to token holders, and Binance does buybacks and burns, does not mean you can do so without any risk.
 
-[Chapter 2.7 Legal Opinion](https://www.notion.so/2-7-Legal-Opinion-Structure-94f04489ede3424fbc66e358fa5f317c?pvs=21) of this guide covers some *********potential********* best practices for legal concerns for informational and educational purposes only - builders should take these risks seriously and ************always************ consult a legal professional before launching a token.
+[Chapter 2.7 Legal Opinion](https://www.notion.so/2-7-Legal-Opinion-Structure-94f04489ede3424fbc66e358fa5f317c?pvs=21) of this guide covers some **potential** best practices for legal concerns for informational and educational purposes only - builders should take these risks seriously and **always** consult a legal professional before launching a token.
 
 <aside>
 💡 Regulation is only becoming *more* important, not less, to blockchain builders. Not taking regulation seriously can be a death blow to your protocol, waste years of life, drain millions of your dollars, and possibly send you to prison. Tokenomics aspects like emissions, value accrual, and utility all play a big role in the degree of legal risk protocols take on.
@@ -819,40 +819,40 @@ For example, just because Curve pays revenues to token holders, and Binance does
 
 ### Product Revenues
 
-For the vast majority of blockchain products and protocols, success is ultimately defined in terms of revenues. Metrics like users, TVL, and trade volume are proxies for revenue. And high growth rates in these proxies are considered favorable because they indicate the possibility of ******future****** revenues, not because they are end goals themselves.
+For the vast majority of blockchain products and protocols, success is ultimately defined in terms of revenues. Metrics like users, TVL, and trade volume are proxies for revenue. And high growth rates in these proxies are considered favorable because they indicate the possibility of **future** revenues, not because they are end goals themselves.
 
 Remember that solving a problem with a good product always comes first and foremost - if no one will pay to use your product, then your revenues will always be zero, no matter your tokenomics.
 
 That said, if we compare two otherwise equivalent products, tokenomics become the most important determinant of your blockchain product’s revenues because they directly impact user adoption, usage, and retention.
 
-Note that your product ********creating******** value for users and your product *********capturing********* value as revenue are two different things.
+Note that your product **creating** value for users and your product **capturing** value as revenue are two different things.
 
-Uniswap has created quite a lot of value for its users - it enables liquidity providers to earn trading fees, and traders to make trades at lower costs and without relying on a custodial, centralized exchange. That’s very valuable to both liquidity providers and traders alike - it’s value the Uniswap product has *******created******* for users.
+Uniswap has created quite a lot of value for its users - it enables liquidity providers to earn trading fees, and traders to make trades at lower costs and without relying on a custodial, centralized exchange. That’s very valuable to both liquidity providers and traders alike - it’s value the Uniswap product has **created** for users.
 
 However, to date, Uniswap itself has not *captured* any of the value it has created. Uniswap does not collect any fees from users of its service.
 
-To help make this distinction between *******created******* value and ********captured******** value more concrete, let’s consider an example:
+To help make this distinction between **created** value and **captured** value more concrete, let’s consider an example:
 
 > Imagine you have $1,000 USDC and want to buy Ethereum. For simplicity, imagine making the trade on a centralized exchange would be free, but you don’t want the additional custodial risks, signup process, withdraw delays, and KYC burdens of a centralized exchange. Imagine you’re willing to pay $10 in fees to avoid all these hassles.
 
-By offering you a liquid, decentralized exchange, Uniswap has *******created******* $10 of value for you, since how much you value all the benefits of a DEX over a CEX.
+By offering you a liquid, decentralized exchange, Uniswap has **created** $10 of value for you, since how much you value all the benefits of a DEX over a CEX.
 
 If the Uniswap treasury charges you $3 to make the trade, then using Uniswap is still a net positive value to you of $7.
 
-$10 of value is *******created*******, you keep $7 of that value, and Uniswap’s treasury ********captures******** $3 of value.
+$10 of value is **created**, you keep $7 of that value, and Uniswap’s treasury **captures** $3 of value.
 
-In reality, Uniswap does not currently collect any fees, so even though it *******creates******* value, Uniswap itself ********captures******** no value.
+In reality, Uniswap does not currently collect any fees, so even though it **creates** value, Uniswap itself **captures** no value.
 > 
 
-Savvy reads will note that the fact that the Uniswap protocol does not *******capture******* value is a problem - but the *protocol* not earning any revenue is a separate topic from the UNI ********token******** itself not accruing any value - we’ll discuss that in the next section.
+Savvy reads will note that the fact that the Uniswap protocol does not **capture** value is a problem - but the *protocol* not earning any revenue is a separate topic from the UNI **token** itself not accruing any value - we’ll discuss that in the next section.
 
 Now that Uniswap is trying to turn on fees, they’re facing more pushback than if perhaps they had been collecting a fee to begin with. (Curve also technically launched with no fees, but turned on fees less than a month after launching, whereas Uniswap waited several years).
 
 https://twitter.com/mhonkasalo/status/1552994507838349313?s=20&t=bDpjYZ5oxZ5blaAgTwA1AA
 
-As a builder, you need to keep both value ********creation******** and value ********capture******** in mind - and the regulatory concerns that might come with certain value capture approaches.
+As a builder, you need to keep both value **creation** and value **capture** in mind - and the regulatory concerns that might come with certain value capture approaches.
 
-A short, promotional period of no fees is one thing (Curve), but sustained periods of no fees that get users accustomed to zero fees may mean it’s harder to turn a fee on after the fact than to have one on the begin with. As such, it may be wise to find a legally compliant way for your protocol to *******capture******* value as soon as possible.
+A short, promotional period of no fees is one thing (Curve), but sustained periods of no fees that get users accustomed to zero fees may mean it’s harder to turn a fee on after the fact than to have one on the begin with. As such, it may be wise to find a legally compliant way for your protocol to **capture** value as soon as possible.
 
 <aside>
 💡 Just because your product *creates* value does not necessarily mean it *captures* any of that value - it depends on your business model and tokenomics.
@@ -863,13 +863,13 @@ A short, promotional period of no fees is one thing (Curve), but sustained perio
 
 Once your product has *created* value, and *captured* a portion of that created value, your tokenomics become even more relevant. How the value captured by your protocol benefits token holders is entirely determined by your tokenomics.
 
-Given our discussion of Uniswap above, you may already be asking yourself “if the Uniswap product does not ******capture****** any value (does not earn any revenue) why does the UNI token itself have any value?”
+Given our discussion of Uniswap above, you may already be asking yourself “if the Uniswap product does not **capture** any value (does not earn any revenue) why does the UNI token itself have any value?”
 
-All current UNI holders are relying on the possibility that Uniswap will eventually start *********capturing********* value, and that this [value will ******accrue****** to the token via mechanisms as future cash flows](https://gov.uniswap.org/t/uniswap-objective-function/21005), such as revenue distributions or buybacks.
+All current UNI holders are relying on the possibility that Uniswap will eventually start **capturing** value, and that this [value will **accrue** to the token via mechanisms as future cash flows](https://gov.uniswap.org/t/uniswap-objective-function/21005), such as revenue distributions or buybacks.
 
-While it may be beneficial to have value *******capture******* from day one to avoid Uniswap’s problem of facing user pushback to later turning fees on, value *******accrual******* to your token does not necessarily need to happen immediately.
+While it may be beneficial to have value **capture** from day one to avoid Uniswap’s problem of facing user pushback to later turning fees on, value **accrual** to your token does not necessarily need to happen immediately.
 
-For example, even though Curve *********captured********* fees extremely shortly after launching, those fees were simply held by the protocol - the token did not *********accrue********* this value via any direct means (other than the promise of a governance vote approving access to those funds). It wasn’t until about a year after creating and capturing value that Curve began [distributing protocol revenues to token holders](https://www.coindesk.com/markets/2020/09/19/stablecoin-dex-curve-will-kick-off-a-dividend-on-its-crv-token-today/), thus directly accruing value to the token.
+For example, even though Curve **captured** fees extremely shortly after launching, those fees were simply held by the protocol - the token did not **accrue** this value via any direct means (other than the promise of a governance vote approving access to those funds). It wasn’t until about a year after creating and capturing value that Curve began [distributing protocol revenues to token holders](https://www.coindesk.com/markets/2020/09/19/stablecoin-dex-curve-will-kick-off-a-dividend-on-its-crv-token-today/), thus directly accruing value to the token.
 
 Every builder and protocol faces a paradox when it comes to value accrual. Optimizing for token price (so called ”number go up”) at the expense of security, utility, and long-term sustainability ironically makes your protocol more volatile and susceptible to crashes and exploits.
 
@@ -880,7 +880,7 @@ https://twitter.com/Flynnjamm/status/1310268817138884608?s=20
 But until the market further matures, projects with ponzi scheme tokenomics (ponzinomics) that optimize for short-term pump-and-dumps will still occasionally make headlines - especially on the way back down as they collapse. Stronger industry standards for tokenomics best practices among builders like yourselves can play a big role in reducing the harm these scam projects cause to the industry.
 
 <aside>
-💡 Once you have a product that *******creates******* user value, it may be beneficial to *******capture******* value as early as possible - even if that value does not *******accrue******* to the token. This may avoid the problems Uniswap is facing trying to add fees later on. Curve ********captured******** value starting early on, but the token didn’t ******accrue****** any of that value until a year later. Today, Curve and CRV token holders earn protocol revenues, while UNI token holders still don’t…
+💡 Once you have a product that **creates** user value, it may be beneficial to **capture** value as early as possible - even if that value does not **accrue** to the token. This may avoid the problems Uniswap is facing trying to add fees later on. Curve **captured** value starting early on, but the token didn’t **accrue** any of that value until a year later. Today, Curve and CRV token holders earn protocol revenues, while UNI token holders still don’t…
 
 </aside>
 
@@ -891,7 +891,7 @@ But until the market further matures, projects with ponzi scheme tokenomics (pon
 - Your tokenomics is not the same thing as your product. In nearly all cases, the product *could* exist without the token, but the token can not exist (sustainably) without the product
 - Great products, or great product concepts at the very least, come first, before the token and tokenomics, not the other way around. In the cases of Uniswap, Maker DAO and Chainlink, their tokenomics make an already good product even stronger
 - Enabling user ownership is an extremely powerful advantage of Web3 models for user retention - one that [Web2 companies are trying to emulate](https://finance.yahoo.com/news/ouch-airbnb-hosts-missed-email-193020536.html)
-- It’s relatively easier to design mechanisms for incentivizing behaviors that require a *low frequency* of engagement, such as providing liquidity or mining. It is much more difficult to design mechanisms that incentivize user behaviors that require a **************high frequency************** of engagement (such as) without creating potential exploits and abuses. Even then, all incentives come with tradeoffs, and it’s important to think through and simulate the potential side effects beforehand.
+- It’s relatively easier to design mechanisms for incentivizing behaviors that require a *low frequency* of engagement, such as providing liquidity or mining. It is much more difficult to design mechanisms that incentivize user behaviors that require a **high frequency** of engagement (such as) without creating potential exploits and abuses. Even then, all incentives come with tradeoffs, and it’s important to think through and simulate the potential side effects beforehand.
 - Poorly designed tokenomics create economic risks that smart contracts audits are not designed to catch - they are not errors in code, but errors in incentive structures that can result in everything from poor user experience (ex. Solana’s downtime or Steemit’s spam content) to total protocol collapse (ex. Terra, Iron Finance, Mango).
 - Regulation is only becoming *more* important, not less, to blockchain builders, with the [SEC clamping down on Coinbase](https://www.sec.gov/news/press-release/2022-127) and by extension accusing at least [9 tokens of making unregistered securities offerings](https://decrypt.co/105693/sec-coinbase-lists-nine-crypto-tokens-securities), as well as the recent [sanctioning of specific Tornado Cash](https://home.treasury.gov/news/press-releases/jy0916) (a currency mixing service), the subsequent [censorship of addresses associated with Tornado Cash transactions](https://tokenist.com/tornado-cashs-usdc-frozen-as-stablecoin-censorship-fears-grow/), and even the [arrest of a developer in the Netherlands who contributed to Tornado Cash’s open source code](https://www.coindesk.com/layer2/2022/08/12/an-alleged-tornado-cash-developer-was-arrested-are-you-next/).
 - Just because your product *creates* value does not necessarily mean it *captures* any of that value - it depends on your business model and tokenomics
@@ -933,11 +933,11 @@ Good Product + Good Tokenomics = Game Changes
 
 Imagine a fictional Web3 competitor to Uber with a native token, UBR. Imagine the product itself is functioning well and already has riders and drivers using it.
 
-Let’s consider a couple of possible tokenomics designs for this fictional UBR token by using a simplified version of the ***Incentives Mechanism Framework*** from the [Tokenomics Design Canvas](https://www.notion.so/Tokenomics-Design-Canvas-9b15bbd593504e9cbb91f82f95f75ca9?pvs=21). We’ll cover the full canvas step by step in Part Two of this guide.
+Let’s consider a couple of possible tokenomics designs for this fictional UBR token by using a simplified version of the **Incentives Mechanism Framework** from the [Tokenomics Design Canvas](https://www.notion.so/Tokenomics-Design-Canvas-9b15bbd593504e9cbb91f82f95f75ca9?pvs=21). We’ll cover the full canvas step by step in Part Two of this guide.
 
 **UBR Tokenomics - Alternative A**
 
-************************************************************************************************************Simplified version of Incentives Mechanism Framework from the [Tokenomics Design Canvas](https://www.notion.so/Tokenomics-Design-Canvas-9b15bbd593504e9cbb91f82f95f75ca9?pvs=21)***
+**Simplified version of Incentives Mechanism Framework from the [Tokenomics Design Canvas](https://www.notion.so/Tokenomics-Design-Canvas-9b15bbd593504e9cbb91f82f95f75ca9?pvs=21)**
 
 | (A) Role | (B) Desired Behaviors | (C) Frictions to Desired Behaviors | (F) Incentive Mechanisms |
 | --- | --- | --- | --- |
@@ -960,7 +960,7 @@ Now let’s look at the same exact product, but with the tokenomics below, in Al
 
 **UBR Tokenomics - Alternative B**
 
-************************************************************************************************************Simplified version of Incentives Mechanism Framework from the [Tokenomics Design Canvas](https://www.notion.so/Tokenomics-Design-Canvas-9b15bbd593504e9cbb91f82f95f75ca9?pvs=21)***
+**Simplified version of Incentives Mechanism Framework from the [Tokenomics Design Canvas](https://www.notion.so/Tokenomics-Design-Canvas-9b15bbd593504e9cbb91f82f95f75ca9?pvs=21)**
 
 | (A) Role | (B) Desired Behaviors | (C) Frictions to Desired Behaviors | (F) Incentive Mechanisms |
 | --- | --- | --- | --- |
@@ -1022,7 +1022,7 @@ In [Chapter 2.5 Supply Policy](https://www.notion.so/2-5-Supply-Policy-ff3f8ab21
 
 The more important thing to keep in mind is that rewarding contributors is a key piece of win-win-win tokenomics because it aligns the success of contributors with the success of users and the protocol itself.
 
-Tokens that ****only**** exist to reward contributors and early insiders (ponzinomics), do not maximize long-term protocol success, as they’re missing the other core elements of win-win-win tokenomics.
+Tokens that **only** exist to reward contributors and early insiders (ponzinomics), do not maximize long-term protocol success, as they’re missing the other core elements of win-win-win tokenomics.
 
 ## Improve the Product
 
@@ -1032,7 +1032,7 @@ Good tokenomics also improve the product by making it better, faster, cheaper, o
 - MKR, LQTY  - more community engagement and adoption
 - LINK, RPL - more stability and simplicity
 
-As discussed in the previous chapter, one could reasonably argue that none of these tokens strictly ****need**** to exist - but they each improve their respective products.
+As discussed in the previous chapter, one could reasonably argue that none of these tokens strictly **need** to exist - but they each improve their respective products.
 
 <aside>
 💡 How the token improves the product is a key distinction between good tokenomics and bad tokenomics. When the token does not make the product better in a clear way (other than raising money), it’s a strong sign that the token has not been well designed.
@@ -1051,7 +1051,7 @@ While it’s possible to have at least some form of distributed computing withou
 
 Similarly, the tokenomics of decentralized governance communities such as Maker DAO and Curve improve their respective products by increasing community engagement and incentives alignment.
 
-Tokens in each of these cases improve the product. While the product generally ******can****** exist without a token, it is a stronger product because the token exists.
+Tokens in each of these cases improve the product. While the product generally **can** exist without a token, it is a stronger product because the token exists.
 
 ## Benefit Holders
 
@@ -1072,7 +1072,7 @@ Oftentimes their reasoning is along the lines of: “Well Bitcoin is a store of 
 Source: Alex Bulkin, [Cryptoeconomics Is Hard](https://blog.coinfund.io/cryptoeconomics-is-hard-ad401b2428b9)**
 > 
 
-This is problematic because they design tokenomics models that ****rely**** on these assumptions.
+This is problematic because they design tokenomics models that **rely** on these assumptions.
 
 But both assumptions (medium-of-exchange and store-of-value) are virtually always wrong.
 
@@ -1092,7 +1092,7 @@ But… if the UBR driver sells those 10 UBR tokens for USD immediately after rec
 
 Even if millions of rides are being paid for in UBR, if riders just buy UBR tokens when they need to spend them, and drivers sell those UBR tokens the moment they receive them, the price does not change - in fact, the UBR token is effectively worthless, as it is in effect nothing but a conduit for making a USD payment but with additional frictions in the way.
 
-This “speed of how quickly UBR token changes hands” is what is known in economics as the ******[velocity of money](https://www.investopedia.com/terms/v/velocity.asp). The velocity of money can be expressed as a number, defined as the number of times a monetary unit changes hands over a single year.
+This “speed of how quickly UBR token changes hands” is what is known in economics as the **[velocity of money](https://www.investopedia.com/terms/v/velocity.asp). The velocity of money can be expressed as a number, defined as the number of times a monetary unit changes hands over a single year.
 
 In our case above, since riders and drivers are constantly swapping UBR tokens, the average number of times each UBR token changes hands per year will be extremely high. For each ride, tokens are changing hands 3 times:
 
@@ -1120,15 +1120,15 @@ Let’s look at some real-world examples of similar products that have different
 
 While Curve, GMX, and Uniswap are all roughly similar products, their tokenomics are drastically different. Tokens that benefit holders, all else equal, stand a better chance to win out in the long run.
 
-As a final note on benefitting token holders, you need to be aware that certain mechanisms, such as Curve or GMX protocol revenue distributions, may carry significant regulatory risk. You should always speak to a legal professional ******before****** launching your token.
+As a final note on benefitting token holders, you need to be aware that certain mechanisms, such as Curve or GMX protocol revenue distributions, may carry significant regulatory risk. You should always speak to a legal professional **before** launching your token.
 
 ## Example of Good Tokenomics
 
-Remember, there is no one “correct” or “best” set of tokenomics. To help cement what good tokenomics can look like in real-world situations, see the example below of the complete ***Incentives Mechanism Framework*** from the ************************************************************************[Tokenomics Design Canvas](https://www.notion.so/Tokenomics-Design-Canvas-9b15bbd593504e9cbb91f82f95f75ca9?pvs=21).**
+Remember, there is no one “correct” or “best” set of tokenomics. To help cement what good tokenomics can look like in real-world situations, see the example below of the complete **Incentives Mechanism Framework** from the **[Tokenomics Design Canvas](https://www.notion.so/Tokenomics-Design-Canvas-9b15bbd593504e9cbb91f82f95f75ca9?pvs=21).**
 
 **Maker DAO’s **Tokenomics**
 
-************************************************************************************************************Incentives Mechanism Framework from the [Tokenomics Design Canvas](https://www.notion.so/Tokenomics-Design-Canvas-9b15bbd593504e9cbb91f82f95f75ca9?pvs=21)***
+**Incentives Mechanism Framework from the [Tokenomics Design Canvas](https://www.notion.so/Tokenomics-Design-Canvas-9b15bbd593504e9cbb91f82f95f75ca9?pvs=21)**
 
 | (A) Role | (B) Desired Behaviors | (C) Frictions to Desired Behaviors | (D) Undesired Behaviors | (E) Motivations for Undesired Behaviors | (F) Incentive Mechanisms | (G) Disincentive Mechanisms | (H) Mechanism Conflicts | (I) Possible Resolutions & Open Questions |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -1146,37 +1146,37 @@ Unfortunately, it’s all too common that builders try to compensate for a usele
 
 One of the biggest warning signs that you are falling into this design trap is if you’re optimizing your tokenomics for ridiculously high APYs or similar marketing gimmicks. Such high APYs are not sustainable for a simple reason - they must be fueled by inflationary token emissions.
 
-All else equal, a 1,000% APY from token emissions is the same thing as a 1,000% nominal **********inflation********** rate. Suddenly that APR doesn’t sound so appealing, does it?
+All else equal, a 1,000% APY from token emissions is the same thing as a 1,000% nominal **inflation** rate. Suddenly that APR doesn’t sound so appealing, does it?
 
 The [relationship from real world Cosmos ecosystem data is not 1:1](https://lookerstudio.google.com/reporting/a9479025-42eb-4161-a941-336a683a20e5/page/c7pAD), but the overall point stands.
 
-Even ***if*** the APY is being funded by a legitimate growth in protocol revenues, there is only so long that even the fastest-growing products in the world can sustain that rate of growth. Sooner or later (usually sooner), the growth rate drastically slows down - that high of an APY is not sustainable.
+Even **if** the APY is being funded by a legitimate growth in protocol revenues, there is only so long that even the fastest-growing products in the world can sustain that rate of growth. Sooner or later (usually sooner), the growth rate drastically slows down - that high of an APY is not sustainable.
 
 It’s a mistake to try and design to provide flashy APYs, even if your competitors are doing so, because when a downturn comes they will collapse - and if you’re trying to match them on APY, your protocol will collapse as well.
 
-A bear market doesn’t change the fact that a good product legitimately creates value. But it will expose any product that hasn’t been creating value, and instead has been using unsustainable tokenomics to merely ********transfer******** value.
+A bear market doesn’t change the fact that a good product legitimately creates value. But it will expose any product that hasn’t been creating value, and instead has been using unsustainable tokenomics to merely **transfer** value.
 
 > “**Tokenomics should channel value towards those who create that value, prioritizing value *distribution* (aligned with value creation) towards high-utility groups over value *transfer* between participants.”
 Source:** [Token Design for Serious People](https://jumpcrypto.com/token-design-for-serious-people/)
 > 
 
-A skeptic could argue that if tokens are meant to benefit holders and reward early adopters to overcome the bootstrapping problem, then all forms of tokenomics are meant to ********transfer******** wealth. But this is not a strong argument.
+A skeptic could argue that if tokens are meant to benefit holders and reward early adopters to overcome the bootstrapping problem, then all forms of tokenomics are meant to **transfer** wealth. But this is not a strong argument.
 
-Consider the CRV token. Yes, all else equal the longer you’ve been using Curve, the more CRV tokens you will have accumulated and the more protocol revenues you can earn. But the fundamental product itself, the AMM, *****creates***** user value and earns revenue. The longer you have been providing liquidity to Curve, the more you have been responsible for helping to create that value - the more right you have to earn a ************distribution************ of that *********created********* value.
+Consider the CRV token. Yes, all else equal the longer you’ve been using Curve, the more CRV tokens you will have accumulated and the more protocol revenues you can earn. But the fundamental product itself, the AMM, **creates** user value and earns revenue. The longer you have been providing liquidity to Curve, the more you have been responsible for helping to create that value - the more right you have to earn a **distribution** of that **created** value.
 
-This is fundamentally different than the ********transfer******** of value from a new user to an old user. New users use Curve because they want to trade and doing so has value - so they pay a fee to do so. This fee is then distributed to parties roughly in line with their level of historical contribution to the value created by Curve as a product**************.**************
+This is fundamentally different than the **transfer** of value from a new user to an old user. New users use Curve because they want to trade and doing so has value - so they pay a fee to do so. This fee is then distributed to parties roughly in line with their level of historical contribution to the value created by Curve as a product**.**
 
 Is it perfect? No.
 
-Is the value distributed ******exactly****** in proportion to the value created? No.
+Is the value distributed **exactly** in proportion to the value created? No.
 
-But is it fundamentally different from ponzinomic value ********transfer******** models? Yes.
+But is it fundamentally different from ponzinomic value **transfer** models? Yes.
 
-To see why, consider the stark contrast of tokenomics in which news users’ economic activity is directly *****transfer*****r*****ed***** to existing users, and the product does not create any value, people only use it in the hopes that future users’ economic activity will be directly **************transferred************** to them.
+To see why, consider the stark contrast of tokenomics in which news users’ economic activity is directly **transfer**r**ed** to existing users, and the product does not create any value, people only use it in the hopes that future users’ economic activity will be directly **transferred** to them.
 
 When it first launched, Olympus DAO heavily advertised unsustainably high APYs that were a product of directly taking incoming capital from new users and distributing the economic rights to that capital (in the form of distributing new OHM tokens backed by the treasury) to existing users.
 
-At first, this value ********transfer******** design appeared to work well - but it only works while more and more capital is coming in and the token price continues to go up. When the inevitable happened, and growth slowed, a death spiral kicked in. The end result left the vast majority of users badly burned, with OHM’s market cap dropping more than 95% from its peak.
+At first, this value **transfer** design appeared to work well - but it only works while more and more capital is coming in and the token price continues to go up. When the inevitable happened, and growth slowed, a death spiral kicked in. The end result left the vast majority of users badly burned, with OHM’s market cap dropping more than 95% from its peak.
 
 The product did not create any value - the entire product was essentially just a fundraising mechanism for an investment fund that paid most incoming funds out to early investors and retained some for insiders (via a clever mechanism that ensured only the team’s share was protected from dilution).
 
@@ -1188,14 +1188,14 @@ We’ll discuss “protocol owned liquidity” and OHM’s unique tokenomics and
 
 OHM has since drastically pivoted, completely changing its marketing, tokenomics, and product features, entirely abandoning the ponzinomic staking yield.
 
-Ironically, whereas their original pitch was around OHM’s strength due to owning its own liquidity (protocol owned liquidity), their [more recent pivots specifically boast about ********reducing******** protocol owned liquidity](https://twitter.com/OlympusDAO/status/1671964440458305538?s=20). And their about-face does not change the fact that its original iteration was purely a ponzi fundraising mechanism that burned many more people than it ever benefited, because all it did was directly ********transfer******** wealth from new token buyers to existing token buyers.
+Ironically, whereas their original pitch was around OHM’s strength due to owning its own liquidity (protocol owned liquidity), their [more recent pivots specifically boast about **reducing** protocol owned liquidity](https://twitter.com/OlympusDAO/status/1671964440458305538?s=20). And their about-face does not change the fact that its original iteration was purely a ponzi fundraising mechanism that burned many more people than it ever benefited, because all it did was directly **transfer** wealth from new token buyers to existing token buyers.
 
 https://twitter.com/MimirSolutions/status/1486122927850405889?s=20
 
-While these tokenomics may not meet the ********textbook******** definition of a ponzi scheme, they are very clearly not sustainable - even OHM itself would have to agree since they abandoned the tokenomics model in question.
+While these tokenomics may not meet the **textbook** definition of a ponzi scheme, they are very clearly not sustainable - even OHM itself would have to agree since they abandoned the tokenomics model in question.
 
 <aside>
-💡 Just like traditional tech products, blockchain products must ******create****** value, not just a token that ****************transfers**************** it from new users to existing users, to enjoy long-term success.
+💡 Just like traditional tech products, blockchain products must **create** value, not just a token that **transfers** it from new users to existing users, to enjoy long-term success.
 
 </aside>
 
@@ -1207,7 +1207,7 @@ https://twitter.com/terra_money/status/1396780954006429698?s=20
 
 Relying on collateral is not inherently bad practice. For algorithmic stablecoins like DAI, RAI, and LUSD, or lending markets like Aave, it's necessary.
 
-Yet relying on collateral ******always****** introduces new risks, and systems with collateral must build resilience via safety measures, risk controls, and backstops necessary for the system can handle the natural price volatility of the collateral assets. We’ll cover a framework to help builders do just this in Part Two of this guide.
+Yet relying on collateral **always** introduces new risks, and systems with collateral must build resilience via safety measures, risk controls, and backstops necessary for the system can handle the natural price volatility of the collateral assets. We’ll cover a framework to help builders do just this in Part Two of this guide.
 
 For instance, Maker DAO’s DAI uses systems such as multiple forms of collateral, conservative levels of over-collateralization, a [battle-tested process for recapitalization if necessary in black swan events](https://cointelegraph.com/news/the-makerdao-auction-is-happening-heres-what-to-expect), and flexible parameters that can be adjusted to maintain the peg in a variety of conditions (instead of being hardcoded like in UST’s case).
 
@@ -1223,9 +1223,9 @@ Though they have more recently made some questionable decisions that introduce c
 
 So what makes Maker DAO different? What has it done well when so many other protocols have yet to strike a better balance?
 
-- Maker DAO’s product, the DAI stablecoin, *******creates******* value by solving a user problem: crypto is too volatile for some use cases
-- The protocol has a clear value *******capture******* mechanism
-- The MKR token has a clear value *******accrual******* mechanism
+- Maker DAO’s product, the DAI stablecoin, **creates** value by solving a user problem: crypto is too volatile for some use cases
+- The protocol has a clear value **capture** mechanism
+- The MKR token has a clear value **accrual** mechanism
 - Maker DAO has a strong, governance-empowered community
 - MKR token holders have skin in the game - they take on the risk of dilution if the protocol becomes undercollateralized and in return for benefitting from protocol revenues
 
@@ -1243,7 +1243,7 @@ Compared to Maker, such a protocol would need to constantly “reacquire” thei
 
 https://twitter.com/RyanWatkins_/status/1323318971635015681?s=20&t=6jvfMQDYwSY9P0Vy4lXd5w
 
-Remember, most products don’t strictly ****need**** a token. Some of the most popular and successful tokenomics models in recent years though have given token holders “skin in the game” or enabled other more direct forms of user ownership.
+Remember, most products don’t strictly **need** a token. Some of the most popular and successful tokenomics models in recent years though have given token holders “skin in the game” or enabled other more direct forms of user ownership.
 
 User ownership, like all ownership, is a centralizing force if the alternative is a protocol with no governance, no ownership, and immutable code, like Bitcoin.
 
@@ -1255,7 +1255,7 @@ Curve, GMX, and Olympus DAO are also examples of protocols that, like MKR, attem
 
 - CRV’s vote escrow mechanism means that the longer you commit to holding CRV the more influence you have on governance votes including directing liquidity rewards.
 - GMX’s emissions rewards are distributed in an illiquid form that prevents immediate dumping, meaning mercenary capital behavior has a substantially different risk-reward profile than on other platforms and ensuring that the users who care about earning rewards are the types of users that are willing to make longer-term commitments.
-- OHM’s [8,000% APYs](https://milesperday.com/2022/02/how-i-lost-85-staking-olympus-ohm-crypto-coins/) and heavy marketing of its [“dangerously oversimplified” (3,3) game theory meme](https://www.youtube.com/watch?v=lL13Puz-oSE&t=512s) attempted to align token holders with the protocol by trying to bribe them to stake their tokens forever and never sell. While in theory ****some**** small part of OHM token holders’ value was aligned with the success of OHM as a protocol and its treasury, in practice any returns generated by the treasury itself were dwarfed by the inflationary staking APY. This meant that instead of being aligned with the protocol’s success, holders were actually aligned with doing whatever it took to attract ever-increasing amounts of short-term speculator capital ([even when these holders knew the model was an unsustainable ponzi](https://twitter.com/FreddieRaynolds/status/1445284106783367171?s=20)). As expected, it then crashed 95% and [attracted hundreds of millions of dollars in lawsuits](https://www.businessinsider.com/olympusdao-founder-zeus-real-name-lawsuit-says-2022-8?r=US&IR=T).
+- OHM’s [8,000% APYs](https://milesperday.com/2022/02/how-i-lost-85-staking-olympus-ohm-crypto-coins/) and heavy marketing of its [“dangerously oversimplified” (3,3) game theory meme](https://www.youtube.com/watch?v=lL13Puz-oSE&t=512s) attempted to align token holders with the protocol by trying to bribe them to stake their tokens forever and never sell. While in theory **some** small part of OHM token holders’ value was aligned with the success of OHM as a protocol and its treasury, in practice any returns generated by the treasury itself were dwarfed by the inflationary staking APY. This meant that instead of being aligned with the protocol’s success, holders were actually aligned with doing whatever it took to attract ever-increasing amounts of short-term speculator capital ([even when these holders knew the model was an unsustainable ponzi](https://twitter.com/FreddieRaynolds/status/1445284106783367171?s=20)). As expected, it then crashed 95% and [attracted hundreds of millions of dollars in lawsuits](https://www.businessinsider.com/olympusdao-founder-zeus-real-name-lawsuit-says-2022-8?r=US&IR=T).
 
 It’s no easy feat to replicate the success of protocols like Maker, Curve, and GMX, but builders would be wise to draw some clear takeaways. Designing sustainable win-win-win tokenomics that benefit holders, improve the product, and reward contributors fosters an engaged community with skin in the game maximizes your protocol’s chances of long-term success.
 
@@ -1267,7 +1267,7 @@ It’s no easy feat to replicate the success of protocols like Maker, Curve, and
     - The builders win (note ”fair launches” are not necessarily best)
     - The product wins
     - The holders win
-- Bad tokenomics designs can be recognized from their unsustainable claims, untested assumptions, misaligned incentives for user behavior vs desired user behavior, reliance on “price go up”, or reliance on ****************transferring**************** the economic activity of new users directly to old users instead of *creating* value and *distributing* that value
+- Bad tokenomics designs can be recognized from their unsustainable claims, untested assumptions, misaligned incentives for user behavior vs desired user behavior, reliance on “price go up”, or reliance on **transferring** the economic activity of new users directly to old users instead of *creating* value and *distributing* that value
 - Be especially wary about your token mechanisms when designing products that involve collateral assets and/or oracles
 - While builders may be wary of chasing users off with tokenomics that ask holders to take on risks, designs that offer holders both benefits and put their skin in the game may actually lead to the best results
 
@@ -1287,9 +1287,9 @@ It’s no easy feat to replicate the success of protocols like Maker, Curve, and
 
 # 1.4 Does Every Project Need a Token?
 
-To get right to the question posed by this chapter’s title… No. Not every project *****needs***** a token.
+To get right to the question posed by this chapter’s title… No. Not every project **needs** a token.
 
-And even products that can launch a token with win-win-win tokenomics (discussed in the last chapter), do not necessarily need to launch a token *********right now*********.
+And even products that can launch a token with win-win-win tokenomics (discussed in the last chapter), do not necessarily need to launch a token **right now**.
 
 This is especially true because if you plan ahead, you can always launch a token later, but it’s difficult to gracefully “unlaunch” a token.
 
@@ -1308,7 +1308,7 @@ In this chapter, we’ll explore some Pros and Cons of launching a token, and co
 
 We’ve already discussed in [p](https://www.notion.so/1-1-Why-does-Tokenomics-Matter-64e59b8103c643d89ddeea6b5348a97e?pvs=21)revious chapters how, when done well, tokenomics can help attract and retain users.
 
-The difficult part is to reward the ********right******** behaviors that will attract loyal, long-term users, and ensure the protocol is able to eventually generate sufficient utility value and/or revenues to make token emissions less inflationary.
+The difficult part is to reward the **right** behaviors that will attract loyal, long-term users, and ensure the protocol is able to eventually generate sufficient utility value and/or revenues to make token emissions less inflationary.
 
 Highly inflationary token emissions are not sustainable for the long term - eventually, the token price will crash, making it worthless for the purpose of acquiring or retaining users.
 
@@ -1335,13 +1335,13 @@ While community ownership has the potential to improve network engagement, secur
 
 https://twitter.com/TokenBrice/status/1567552522809753604?s=20
 
-Protocols like Liquity have purposefully avoided community governance by design, opting for an immutable protocol. Their native LQTY token is not a governance token but still aids in overcoming the bootstrapping problem by distributing protocol revenues, thus incentivizing holders to grow the network. It achieves *******************community ownership******************* without requiring **********************community governance**********************.
+Protocols like Liquity have purposefully avoided community governance by design, opting for an immutable protocol. Their native LQTY token is not a governance token but still aids in overcoming the bootstrapping problem by distributing protocol revenues, thus incentivizing holders to grow the network. It achieves **community ownership** without requiring **community governance**.
 
 ## Fundraising
 
-**********This section is not an endorsement for launching a token as an unregistered security offering. It does not represent legal or financial advice. Always consult your own legal representation before launching a token.**********
+**This section is not an endorsement for launching a token as an unregistered security offering. It does not represent legal or financial advice. Always consult your own legal representation before launching a token.**
 
-Raising money via a token can certainly make it easier to raise more capital and/or at better valuations. That said, launching a token, especially one that is sold to raise money, ******always****** carries regulatory considerations.
+Raising money via a token can certainly make it easier to raise more capital and/or at better valuations. That said, launching a token, especially one that is sold to raise money, **always** carries regulatory considerations.
 
 That is not to say every fundraise carries the same risks. It is possible to raise investment that is registered, or which is exempt from registration, with the SEC. For example, Bitcoin L2 Stacks conducted an ICO via a [registered offering with the SEC](https://decrypt.co/9076/blockstack-nets-23-million-historic-sec-qualified-token-sale-ico).
 
@@ -1351,7 +1351,7 @@ Structured as Reg-D offerings, agreements such as Simple Agreement for Future To
 
 “The SAFT Project” [offers a template SAFT](https://saftproject.com/) that builders who are fundraising may find helpful and Legal Nodes offers further [information about token warrants](https://legalnodes.com/template/token-warrant) as well as this [template token warrant](https://docs.google.com/document/d/1F4H11jLPFt1s0fs9rfxImemKIU1kxViX/edit?usp=sharing&ouid=113048252102766915163&rtpof=true&sd=true) - but this is not legal advice and you should always consult your own legal counsel to see if these templates are applicable to your situation. 
 
-Note that since the [XRP vs SEC court case ruling in July 2023](https://www.reuters.com/legal/us-judge-says-sec-lawsuit-vs-ripple-labs-can-proceed-trial-some-claims-2023-07-13), judge Analisa Torres’ ruling that sales of XRP to institutional investors represented a securities offering has been frequently misunderstood. The ruling does not mean that selling tokens to VCs inherently violates securities law, or that doing so makes the token itself a security. In both Web2 and Web3, it is common practice to raise money from securities offerings to VCs ***without*** registering with the SEC via a [Reg-D offering](https://carta.com/blog/regulation-d/). These offerings are *exempt* from the usual requirements to register securities offerings with the SEC, as long as certain criteria are met.
+Note that since the [XRP vs SEC court case ruling in July 2023](https://www.reuters.com/legal/us-judge-says-sec-lawsuit-vs-ripple-labs-can-proceed-trial-some-claims-2023-07-13), judge Analisa Torres’ ruling that sales of XRP to institutional investors represented a securities offering has been frequently misunderstood. The ruling does not mean that selling tokens to VCs inherently violates securities law, or that doing so makes the token itself a security. In both Web2 and Web3, it is common practice to raise money from securities offerings to VCs **without** registering with the SEC via a [Reg-D offering](https://carta.com/blog/regulation-d/). These offerings are *exempt* from the usual requirements to register securities offerings with the SEC, as long as certain criteria are met.
 
 Reg-D exists to help streamline economic activity. Imagine if every time a Web2 startup wanted to raise a Seed round they had to register with the SEC like an IPO, and wait for qualification. It’d be incredibly hard, expensive, and slow for new companies to raise money and build new tech.
 
@@ -1361,7 +1361,7 @@ https://twitter.com/Orlando_btc/status/1679596100079190016?s=20
 
 For companies that raise money via both equity (traditional shares) and via tokens, there is not yet an industry standard for how these relate. It’s largely up to the company and its investors whether equity investors are automatically granted pro-rata share tokens, are granted the right to buy tokens at a particular price (token warrant), are granted a [MFN clause](https://capbase.com/most-favored-nation-mfn-clause-in-startup-investing-what-it-is-and-how-it-works/) for any future token sales, or have no special rights to any future token sales.
 
-Based on conversations with VCs, accelerators, incubators, and angel investors with hundreds of aggregate crypto investments, the majority expressed they ******prefer****** to invest in token form, or at least with the option of a token.
+Based on conversations with VCs, accelerators, incubators, and angel investors with hundreds of aggregate crypto investments, the majority expressed they **prefer** to invest in token form, or at least with the option of a token.
 
 Why? Because tokens can offer more liquidity than traditional equity shares, even after accounting for vesting schedules. Additionally, many investors expressed that they see higher returns in their token investments vs traditional equity. Whether justified or not, tokens tended to carry valuation premiums to traditional shares of companies with comparable fundamentals.
 
@@ -1398,9 +1398,9 @@ Lastly, a token can enable new business models, products, and user experiences t
 
 For example, it’d be impossible to securely extend the use case of distributed computing to cover economic transactions as well without the proper security derived by economic incentives (ie the ETH token for the Ethereum network).
 
-However, it’s important to be honest with yourself about this benefit. Most protocols that have a token don’t have win-win-win tokenomics. And very few protocols strictly ****need**** a token.
+However, it’s important to be honest with yourself about this benefit. Most protocols that have a token don’t have win-win-win tokenomics. And very few protocols strictly **need** a token.
 
-It’s possible you don’t ****need**** a token, but that a token would make your product better. But it’s important to keep yourself honest and remember what makes for good tokenomics (win-win-win).
+It’s possible you don’t **need** a token, but that a token would make your product better. But it’s important to keep yourself honest and remember what makes for good tokenomics (win-win-win).
 
 Otherwise, it’s all too easy to fall into the trap of assuming you need a token and that you need it right now. Rushing to launch a hastily designed token can do a lot more harm to your product and community than waiting to launch a better-designed token when you’re ready.
 
@@ -1448,7 +1448,7 @@ One of the biggest oversights founders make is not realizing how much of their t
 > 
 
 <aside>
-⚠️ Once your token is live, it’s not a matter of **if** it will be a resource drain, but a question of ********how much******** of a drain it will be.
+⚠️ Once your token is live, it’s not a matter of **if** it will be a resource drain, but a question of **how much** of a drain it will be.
 
 </aside>
 
@@ -1464,7 +1464,7 @@ The only way to protect against this risk is to not launch a token until you’r
 
 If users are required to first acquire, earn, or purchase your token in order to use your product or join your community, this can actually add friction to onboarding more users, and result in the product growing slower than without a token.
 
-To return to the Web3 Uber example discussed in previous chapters, imagine instead of being able to pay in USD and use UBR tokens to get a discount, all users ****must**** pay with UBR tokens.
+To return to the Web3 Uber example discussed in previous chapters, imagine instead of being able to pay in USD and use UBR tokens to get a discount, all users **must** pay with UBR tokens.
 
 You’ve just made it much more difficult and added a few more steps for people who don’t already have a crypto wallet or who don’t already have enough UBR tokens to use your product.
 
@@ -1494,7 +1494,7 @@ Bringing in new users is a necessary step to overcoming the bootstrapping proble
 While tokens can help reach critical mass, those users must be retained to have a lasting impact. Many builders take this for granted, and overlook the devil in the details:
 
 - AMMs like Uniswap and Curve are generally viewed as clear examples of where a token helped overcome the bootstrapping problem in aggregate. But when looking closer at specific pools, [experiments with token incentive programs have shown mixed results](https://medium.com/gauntlet-networks/uniswap-liquidity-mining-analysis-14c739c54a9d) for kickstarting higher TVL and fees that persist after the program ends.
-- Infrastructure plays like Filecoin and Helium have largely been successful at bootstrapping ****supply-side**** users. But Filecoin has a large excess storage capacity ([active deals have tended to be only 5%-10% of network capacity](https://dashboard.starboard.ventures/capacity-services)) and Helium is still [struggling to onboard paying demand-side users](https://blockworks.co/news/where-is-the-revenue-helium-investors-inquire). Network effects can only be reached with a critical mass of both supply-side and demand-side users.
+- Infrastructure plays like Filecoin and Helium have largely been successful at bootstrapping **supply-side** users. But Filecoin has a large excess storage capacity ([active deals have tended to be only 5%-10% of network capacity](https://dashboard.starboard.ventures/capacity-services)) and Helium is still [struggling to onboard paying demand-side users](https://blockworks.co/news/where-is-the-revenue-helium-investors-inquire). Network effects can only be reached with a critical mass of both supply-side and demand-side users.
 
 These examples underscore just how important it is to get token incentives right, and how difficult it can be when you look beneath the surface.
 
@@ -1557,7 +1557,7 @@ Even if you need a token at some point, you probably aren’t ready to launch on
 - Launching a token has both pros and cons, builders need to carefully weigh them, as once launched, it’s very difficult to gracefully “unlaunch” a token - doing so almost always wastes time and damages reputation
 - Pros: easier fundraising, benefit user acquisition, enable community ownership, support multichain, and enable new products
 - Cons: reputation risk/damage, legal risks, distracts resources from core product, create additional complexities and economic exploit risks that smart contract audits are not designed to catch
-- The simple framework at the end of the chapter can help to quickly evaluate if a token is right for your product, and if ***now*** is the right time
+- The simple framework at the end of the chapter can help to quickly evaluate if a token is right for your product, and if **now** is the right time
 
 # Additional Resources
 
@@ -1577,7 +1577,7 @@ First and foremost, builders need to understand that no universally accepted, fo
 
 How individual tokens are classified will differ depending on who you ask, including varying between regulatory jurisdictions. The majority of jurisdictions have not ruled definitively on specific tokens, but many have provided much more comprehensive guidance than the United States, particularly Switzerland and Singapore.
 
-These definitions help provide ****some**** degree of objectivity to token-type classifications, and are useful for builders to be familiar with, especially since so many crypto projects have foundations or other legal entities in Switzerland or Singapore.
+These definitions help provide **some** degree of objectivity to token-type classifications, and are useful for builders to be familiar with, especially since so many crypto projects have foundations or other legal entities in Switzerland or Singapore.
 
 Yet even in Switzerland and Singapore, how a particular token may be classified remains a subjective question. Complicating the matter is the fact that most tokens possess a mix of characteristics that make them difficult to classify.
 
@@ -1624,7 +1624,7 @@ Represent an ownership interest in an underlying asset. This includes tokens tha
     - Are sold with the expectation of profit
 
 <aside>
-💡 Though FINMA guidance distinguishes between payment tokens, utility tokens, and assets tokens, it explicitly mentions these classes are ******************************not mutually exclusive******************************.
+💡 Though FINMA guidance distinguishes between payment tokens, utility tokens, and assets tokens, it explicitly mentions these classes are **not mutually exclusive**.
 
 </aside>
 
@@ -1670,7 +1670,7 @@ Japan (FSA), Canada (CSA), Hong Kong (SFC), South Korea (FSC), Estonia (EFSA), t
 
 While there are of course differences between jurisdictions, unlike the actions of regulators in the United States, most jurisdictions are similar in acknowledging types of tokens other than securities tokens.
 
-That said, there are no known cases of final, definitive rulings on the classification of any particular token - with the potential exception of LBRY, KIN (Kik), and TON (Telegram) being found by United States courts to be security tokens. While the SEC has made similar allegations against a number of other tokens, including XRP, to date the courts have yet to find the tokens themselves are securities, even though ******************sales of the token****************** may be, in certain circumstances, a securities offering.
+That said, there are no known cases of final, definitive rulings on the classification of any particular token - with the potential exception of LBRY, KIN (Kik), and TON (Telegram) being found by United States courts to be security tokens. While the SEC has made similar allegations against a number of other tokens, including XRP, to date the courts have yet to find the tokens themselves are securities, even though **sales of the token** may be, in certain circumstances, a securities offering.
 
 Further muddying the waters is the fact that even the jurisdictions with relatively sophisticated guidance still have blind spots. 
 
@@ -1688,7 +1688,7 @@ Yet even in the United States, which has issued virtually no blockchain specific
 
 By their very nature, Security Tokens can not be censorship resistant and decentralized in the same way tokens controlled by immutable code can be.
 
-But that does not necessarily mean Security Tokens have no appropriate use cases. For example, Security Tokens may ultimately be the only viable path for RWA blockchain products, since RWA product ****always**** have centralized points of failure that can be censored and shutdown by regulators, and thus need to be in full compliance.
+But that does not necessarily mean Security Tokens have no appropriate use cases. For example, Security Tokens may ultimately be the only viable path for RWA blockchain products, since RWA product **always** have centralized points of failure that can be censored and shutdown by regulators, and thus need to be in full compliance.
 
 Infrastructure platforms such as [Fireblocks](https://www.fireblocks.com/platforms/tokenization/), and [1X](https://tokenist.com/private-securities-exchange-1x-launches-in-singapore-with-4-1-million-worth-of-security-tokens-listed) in Singapore, offer infrastructure to support compliant tokenization and issuance of Security Tokens, and have helped facilitate offerings for tokenized bonds, REITs, preferred stock, and more.
 
@@ -1697,7 +1697,7 @@ Infrastructure platforms such as [Fireblocks](https://www.fireblocks.com/platfor
 *Any of the below token types may be found to be a security by a regulatory body. Do not rely on the below token classifications as legal advice, they are for informational purposes only. Always consult a registered legal professional to ensure compliance with any and all relevant laws and regulations.*
 
 <aside>
-💡 While some of the classifications listed below, such as medium of exchange tokens, are virtually always fungible ****************************tokens in practice, the below classifications are not strictly limited to fungible tokens. Distinguishing between fungible tokens or non-fungible tokens (NFTs) is largely orthogonal to the below classifications.
+💡 While some of the classifications listed below, such as medium of exchange tokens, are virtually always fungible **tokens in practice, the below classifications are not strictly limited to fungible tokens. Distinguishing between fungible tokens or non-fungible tokens (NFTs) is largely orthogonal to the below classifications.
 
 </aside>
 
@@ -1707,7 +1707,7 @@ Infrastructure platforms such as [Fireblocks](https://www.fireblocks.com/platfor
 
 Reputation tokens track the social credibility of a community member within a given community. By their very nature, these tokens are not fungible across communities. For example, while a person may be very credible in a legal community as a talented lawyer, that does not necessarily give them credibility in a community of musicians.
 
-Reputation tokens do not necessarily have to fungible ******within****** a community either - reputation could be represented by NFTs, similar to different roles in a Discord server. In fact, these tokens may not be transferrable at all (soulbound tokens). While this has obvious downsides, since some form of originating logic or party must govern how reputation is initially assigned, and if or how it can be earned, it also protects against vote-buying or other attacks that can occur when reputation is for sale.
+Reputation tokens do not necessarily have to fungible **within** a community either - reputation could be represented by NFTs, similar to different roles in a Discord server. In fact, these tokens may not be transferrable at all (soulbound tokens). While this has obvious downsides, since some form of originating logic or party must govern how reputation is initially assigned, and if or how it can be earned, it also protects against vote-buying or other attacks that can occur when reputation is for sale.
 
 ![**Source: [Reputation vs Tokens](https://medium.com/daostack/reputation-vs-tokens-6d7642c7a538)**](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/85deda6f-e668-4883-ae3a-8aaea705b7e3/Untitled.png)
 
@@ -1723,7 +1723,7 @@ Store of value tokens primarily exist to retain or increase their purchasing pow
 **Source: [Understanding Token Velocity](https://multicoin.capital/2017/12/08/understanding-token-velocity/)**
 > 
 
-The reality is that almost no coins or tokens have much large scale credible market acceptance as a store of value of inflation hedge other than BTC or ETH. Even then, both have hotly debated counterpoints from *****within***** their own communities - namely that BTC can’t maintain its security in the future without [eventually increasing supply above 21mm](https://thebitcoinmanual.com/articles/btc-tail-emissions-debate/), and that ETH, despite its claims, is [not ultrasound money](https://joncharbonneau.substack.com/p/eth-is-not-ultrasound-money-part).
+The reality is that almost no coins or tokens have much large scale credible market acceptance as a store of value of inflation hedge other than BTC or ETH. Even then, both have hotly debated counterpoints from **within** their own communities - namely that BTC can’t maintain its security in the future without [eventually increasing supply above 21mm](https://thebitcoinmanual.com/articles/btc-tail-emissions-debate/), and that ETH, despite its claims, is [not ultrasound money](https://joncharbonneau.substack.com/p/eth-is-not-ultrasound-money-part).
 
 If even BTC and ETH have been unable to establish clear market acceptance as a store of value, you can see why builders are naive to assume that their token will inherently act as a store of value.
 
@@ -1749,7 +1749,7 @@ For better or worse, stablecoins have largely proven themselves to be the prefer
 
 **Source: [The State of Stablecoins](https://research.kaiko.com/insights/the-state-of-stablecoins)**
 
-The dominance of stablecoins as ***the*** crypto industry’s preferred medium of exchange holds true even when comparing to Bitcoin itself (which, was in Satoshi’s own words, was designed to be "a peer-to-peer electronic cash system”).
+The dominance of stablecoins as **the** crypto industry’s preferred medium of exchange holds true even when comparing to Bitcoin itself (which, was in Satoshi’s own words, was designed to be "a peer-to-peer electronic cash system”).
 
 If even Bitcoin itself serves less of a medium of exchange role than stablecoins, then you can see how wildly uninformed it is for builders to assume their token will serve a medium of exchange role.
 
@@ -1757,7 +1757,7 @@ https://x.com/nic__carter/status/1701521505300189415?s=20
 
 It is therefore generally unwise to launch a non-stablecoin token meant to function as a medium of exchange unless within a very specific economy, such as an in-game currency in a gaming economy.
 
-Ironically, even if a token were able to become a *******general******* medium of exchange, the more it is used as a medium of exchange, the more its velocity of money increases, and all else equal, the less valuable the token becomes.
+Ironically, even if a token were able to become a **general** medium of exchange, the more it is used as a medium of exchange, the more its velocity of money increases, and all else equal, the less valuable the token becomes.
 
 This is at the heart of the inherent conflict between being a “store of value” and a “medium of exchange”, and amateur builders not only convince themselves their token will automatically function as one of these roles (already extremely difficult), they naively assume their token will function as both!
 
@@ -1773,11 +1773,11 @@ For instance, Liquity’s LQTY token is not a governance token, but distributes 
 
 Examples of stakeholder tokens which do happen to carry governance rights include MKR, CRV, GMX, and many more.
 
-While stakeholder tokens may represent more legal or regulatory risk due to the explicit alignment of incentives, builders should not conflate ***********stakeholders*********** with *****shareholders*****.
+While stakeholder tokens may represent more legal or regulatory risk due to the explicit alignment of incentives, builders should not conflate **stakeholders** with **shareholders**.
 
 For better or worse, one can have a stake in a product’s outcome without necessarily possessing everything that it means to be a shareholder such as voting rights and legal claims.
 
-An employee at a company is a ***********stakeholder***********, as their salary depends on the ongoing operations of the company, even if they do not own any equity or have voting rights in the company.
+An employee at a company is a **stakeholder**, as their salary depends on the ongoing operations of the company, even if they do not own any equity or have voting rights in the company.
 
 Of course, regulators may not see it that way for any given token, and may choose to view popular stakeholder tokens such as MKR, CRV, GMX, YFI, LQTY, HEGIC, and others as securities. Builders should take note that it is likely they may draw more regulatory risk for a stakeholder token.
 
@@ -1810,7 +1810,7 @@ For example, [PAXG represents tokenized gold](https://paxos.com/paxgold/), and i
 
 Conversely, UST was not, strictly speaking, ever redeemable for 1 USD - it was simply redeemable for $1 worth of LUNA. When the total market cap of UST exceeded the total market cap of LUNA, it became impossible to redeem every UST for $1 worth of LUNA. In aggregate, UST was no longer redeemable, which created the death spiral bank run to redeem UST while still possible.
 
-Redeemability establishes and maintains a peg, and losing redeemability can cause catastrophic depegs. Though it is the most explicit and strongest peg mechanism, it is not the ****only**** peg mechanism. Builders planning on launching a stable or pegged token must think very carefully about the incentive mechanisms at play, and how the market is explicitly incentivized to safely and consistently keep the token price at the target price.
+Redeemability establishes and maintains a peg, and losing redeemability can cause catastrophic depegs. Though it is the most explicit and strongest peg mechanism, it is not the **only** peg mechanism. Builders planning on launching a stable or pegged token must think very carefully about the incentive mechanisms at play, and how the market is explicitly incentivized to safely and consistently keep the token price at the target price.
 
 We’ll discuss stablecoins further in [Chapter 1.6](https://www.notion.so/1-6-A-Must-Know-History-of-Tokenomics-562de02145a64a9aa529425db7b3339d?pvs=21).
 
@@ -1830,13 +1830,13 @@ https://twitter.com/AriDavidPaul/status/1597571226008178689?s=20
 
 In addition to being conflated with ownership, governance is often made out to be a strict necessity for any decentralized product or protocol. Once again, counter examples such as BTC and LQTY show this is not the case.
 
-Community governance ***can*** be helpful - but it is not always so beneficial. Governance token [holders are not necessarily protected from being rugged](https://twitter.com/spreekaway/status/1682390046824091648) simply by funds being controlled by community governance.
+Community governance **can** be helpful - but it is not always so beneficial. Governance token [holders are not necessarily protected from being rugged](https://twitter.com/spreekaway/status/1682390046824091648) simply by funds being controlled by community governance.
 
 And governance does not necessarily make your product stronger or more resilient. When the stability of the system depends on key parameters and the values of these parameters are set by governance, instead of ossified design choices or market equilibriums, the system assumes that governance voters will be rational, informed, and active participants. The problem is, most average users of complex DeFi products do not possess the knowledge required to properly run risk management of such products. The recent “CRV debt contagion” threat created by over-leveraging across some of the most popular governance-run DeFi lending protocols is an excellent example of governance jeopardizing the product, rather than benefitting it.
 
 https://twitter.com/euler_mab/status/1687055214736457728?s=20
 
-The reality is that governance tokens *always* ****open your product to at least some risk of abuse, exploit, or sabotage. This is especially true when governance tokens are tradeable, since anyone with deep enough pockets can acquire the required number of tokens to steal funds or otherwise harm the project. While in theory, this would require purchasing 50% or more of total supply, in reality since the turnout for most governance voting is so low it would require drastically less than 50% of total supply.
+The reality is that governance tokens *always* **open your product to at least some risk of abuse, exploit, or sabotage. This is especially true when governance tokens are tradeable, since anyone with deep enough pockets can acquire the required number of tokens to steal funds or otherwise harm the project. While in theory, this would require purchasing 50% or more of total supply, in reality since the turnout for most governance voting is so low it would require drastically less than 50% of total supply.
 
 In fact, one study of on-chain data found typical voter turnout at 10% or less, meaning that a malicious party would only need to control a tiny portion of the total supply to do damage.
 
@@ -1886,13 +1886,13 @@ Whether having utility makes a given token a utility token or not is subjective.
 
 It’s entirely possible that a regulatory, or any other party, chooses to define a token that has utility as some other type of token, or as both a utility token and another type of token.
 
-Thus, while builders have often tended to act as if launching a token with ***any*** degree of utility provides some regulatory cover by allowing them to call the token a utility token, this is largely a myth. Imparting utility into a token as an after thought does not necessarily reduce regulatory risk.
+Thus, while builders have often tended to act as if launching a token with **any** degree of utility provides some regulatory cover by allowing them to call the token a utility token, this is largely a myth. Imparting utility into a token as an after thought does not necessarily reduce regulatory risk.
 
 Nor is it likely to improve your product’s user experience. For instance, you may have immediately noticed from the Filecoin, Binance, and Maker examples above, there is often an inherent conflict between a token’s utility and its friction to user adoption.
 
 At one extreme, largely any product could add token gating as a utility. This is a very strong form of utility - the token is literally the only way to use the product if users are required to pay with the native token or hold a certain number of tokens in order to use the product. But it also creates a great deal of friction to user adoption. Instead of just being able to use your product, users have to first deal with acquiring your token.
 
-In a middle ground, the token ***can*** be used, perhaps to unlock additional features or get preferential pricing, but is not strictly required to use the product. This is slightly weaker utility, but drastically less friction.
+In a middle ground, the token **can** be used, perhaps to unlock additional features or get preferential pricing, but is not strictly required to use the product. This is slightly weaker utility, but drastically less friction.
 
 And at the other extreme, users don’t have any need at all for the token in order to use the product (though they may still want to become stakeholders or hold tokens for reasons other than utility). Tokens have no direct utility, though friction isn’t much less than the middle ground approach.
 
@@ -1906,9 +1906,9 @@ And at the other extreme, users don’t have any need at all for the token in or
 The below list cover some of the most common forms of token utility, though it is not necessarily exhaustive:
 
 - **Usage Fees**
-Tokens provide utility in that they are required to ********pay for******** a product or service such as gas fees, an in-game currency, or product credits.
+Tokens provide utility in that they are required to **pay for** a product or service such as gas fees, an in-game currency, or product credits.
 - **Access Rights (i.e. token gating)**
-Tokens have utility in that they are either required to *access* an app or service at all (all-or-none), or they are required to access tiered, premium, or add-on features. This can include both access required to either *use* a product or service, or access required to *******provide******* a product of service (i.e. FIL for storage providers or LINK for oracle providers).
+Tokens have utility in that they are either required to *access* an app or service at all (all-or-none), or they are required to access tiered, premium, or add-on features. This can include both access required to either *use* a product or service, or access required to **provide** a product of service (i.e. FIL for storage providers or LINK for oracle providers).
 
 - **Discounts**
 Tokens have an economic utility due to providing a discount to purchase a good or use a service. This discount could be one-time, akin to a redeemable coupon or loyalty reward. In this case, tokens are spent or burned to incur the discount, such as spending BNB tokens for reduced trading fees.
@@ -1917,7 +1917,7 @@ Or the discount can be perpetual, akin to a reward class or loyalty tier. In thi
 - **Social Participation**
 The token possesses a social signaling utility, identifying the holder’s status, affiliation, or membership with a particular group. This is generally, though not always, a weaker form of utility as it is highly subjective.
 
-Generally speaking, NFTs may be better suited than fungible tokens to social utility. Fungible tokens ***can*** retain a social utility, especially in cases where token balances are a proxy for reputation, but tradeable tokens generally do not preserve a reputation bearing property, since if reputation can be purchased, it loses at least part of its meaning.
+Generally speaking, NFTs may be better suited than fungible tokens to social utility. Fungible tokens **can** retain a social utility, especially in cases where token balances are a proxy for reputation, but tradeable tokens generally do not preserve a reputation bearing property, since if reputation can be purchased, it loses at least part of its meaning.
 - **Economic Participation**
 The token provides economic utility, such as a share of protocol revenues or compensation for taking on risks (such as insurance coverage).
 
@@ -1939,7 +1939,7 @@ The ability to trade a token and speculate on its future price is not a form of 
 The mere presence of price volatility and ability to speculate adds no value to the product or token.
 
 - **Collateral for Loans**
-The ability to borrow against a token is also not a form of utility, feature, or capability. It is an inherent property of ***any*** asset with a non-zero value, and if an asset has zero value, then it can’t be used as collateral anyway!
+The ability to borrow against a token is also not a form of utility, feature, or capability. It is an inherent property of **any** asset with a non-zero value, and if an asset has zero value, then it can’t be used as collateral anyway!
 
 Holding a token or asset purely for the purpose of borrowing against it does not make that asset useful, unless it posses some additional utility or benefits unrelated to serving as collateral.
 - **Staking Funded by Net Inflation**
@@ -2021,7 +2021,7 @@ Another interesting possibility is for Bitcoin L2s to use Bitcoin as the core se
 
 Whichever argument you personally side with, the future of Bitcoin remains one of the most significant open questions about incentives and economic security in all of blockchain.
 
-************************************Additional Resources************************************
+**Additional Resources**
 
 - Paper, [Bitcoin: A Peer-to-Peer Electronic Cash System](https://bitcoinwhitepaper.co/)
 - Paper, [On the Instability of Bitcoin Without the Block Reward](https://www.cs.princeton.edu/~arvindn/publications/mining_CCS.pdf)
@@ -2040,7 +2040,7 @@ Obviously economic risks and exploit vectors differ in PoS vs PoW, though the (i
 
 Though staking was originally introduced in the context of a consensus mechanism (PoS), the term “staking” has since become more generalized to simply mean “locking up tokens” even when doing so does not provide any specific value or purpose. This form of non-Proof-of-Stake rewards are discussed later in this chapter in “Staking Rewards (Non-PoS)”, and we’ll also discuss the specifics of “The Merge” later this chapter as well.
 
-************************************Additional Resources************************************
+**Additional Resources**
 
 - YouTube, [A Tale of Two Protocol Designs](https://www.youtube.com/watch?v=Fk7Tc99orS0&list=PLa_a2TnKITJ9YiVWcfJ7TDjTvYL4TXBIQ&index=4) (PoW vs PoS)
 - Paper, [Staking Pools on Blockchains](https://arxiv.org/pdf/2203.05838.pdf)
@@ -2048,7 +2048,7 @@ Though staking was originally introduced in the context of a consensus mechanism
 
 # Initial Coin Offerings (ICOs), Jul 2013
 
-Contrary to popular opinion, Ethereum was ***not*** the very first ICO. The first ICO was Mastercoin (now called Omni), though the terminology “ICO” did not exist at the time.
+Contrary to popular opinion, Ethereum was **not** the very first ICO. The first ICO was Mastercoin (now called Omni), though the terminology “ICO” did not exist at the time.
 
 Mastercoin’s ICO was a month-long raise in July 2013 during which anyone could send bitcoin to the Mastercoin Exodus Bitcoin address to fund the development of the protocol. The sale raised about 5,120 bitcoin, which was worth approximately $500,000 at the time.
 
@@ -2069,7 +2069,7 @@ ICOs are no longer commonplace and have given way to private sales, VC rounds, N
 
 </aside>
 
-************************************Additional Resources************************************
+**Additional Resources**
 
 - Paper, [MasterCoin - A Second-Generation Protocol on the Bitcoin Blockchain for Creating and Trading New Currencies](https://github.com/bitsblocks/mastercoin-whitepaper/blob/master/index.md)
 - Paper, [Digital Tulips? Returns to Investors in Initial Coin Offerings](https://deliverypdf.ssrn.com/delivery.php?ID=742110126119070020107067104097029127062041020052054087069122090029067090031112107088102031125025020116062125088070092120118088057017017032053110084073119124003102009061056073029104010080099112074005013087096021087124121030099021082105030102127123103&EXT=pdf&INDEX=TRUE)
@@ -2104,7 +2104,7 @@ https://twitter.com/Auri_0x/status/1584469757931057153?s=20
 
 </aside>
 
-************************************Additional Resources************************************
+**Additional Resources**
 
 - Wiki, [Auroracoin](https://en.wikipedia.org/wiki/Auroracoin)
 - Dashboadrd, [UNI Airdroppers - Where are they Now?](https://dune.com/jhackworth/uniswap-airdroppers)
@@ -2116,7 +2116,7 @@ https://twitter.com/Auri_0x/status/1584469757931057153?s=20
 
 # Computations, not (Just) Currencies, Aug 2014
 
-While Bitcoin revolutionized ********currency********, the original Ethereum whitepaper by Vitalik Buterin envisioned generalized Bitcoin’s state transition mechanism to enable generalized applications and computation - a world computer.
+While Bitcoin revolutionized **currency**, the original Ethereum whitepaper by Vitalik Buterin envisioned generalized Bitcoin’s state transition mechanism to enable generalized applications and computation - a world computer.
 
 Early experiments on Bitcoin such as Mastercoin’s “colored coins” explored minting new currencies, but Vitalik envisioned extending blockchain’s value proposition beyond simply being technology for a monetary currency unit, medium of exchange, and/or store of value.
 
@@ -2124,7 +2124,7 @@ https://twitter.com/LogarithmicRex/status/1545593124839374848?s=20
 
 Ethereum’s original tokenomics were strikingly similar to Bitcoin’s (both PoW, both rewarding miners with fees and block rewards) with one notable exception - Ethereum has never had a maximum supply, even prior to The Merge and EIP-1559. The closest ETH has ever come to having a maximum supply was an EIP Vitalik posted on April 1st, 2018- make of that what you will.
 
-************************************Additional Resources************************************
+**Additional Resources**
 
 - Paper, [Ethereum: A Next-Generation Smart Contract and Decentralized Application Platform](https://ethereum.org/669c9e2e2027310b6b3cdce6e1c52962/Ethereum_Whitepaper_-_Buterin_2014.pdf)
 - EIP (Closed), [Meta: cap total ether supply at ~120 million](https://github.com/ethereum/EIPs/issues/960)
@@ -2137,7 +2137,7 @@ Nine years later in 2023, Tether announced it was ending support of USDT on Bitc
 
 Each USDT, and later centralized stablecoins such as UDSC, are (in theory) backed by fiat USD and directly redeemable at a 1:1 ratio for actual USD. In reality, there is a wide range of holdings that actually back centralized, redeemable stablecoins, and doubts have been raised about the lack of audits or quality of assets held by some tokens.
 
-For instance, Tether has been historically backed by a relatively large portion of [commercial paper](https://www.investopedia.com/terms/c/commercialpaper.asp) - a highly liquid, relatively low risk form of short term debt. While in ****most**** market conditions these assets retain their value, the risk of default does exist, meaning this commercial paper could become worthless in the event of bankruptcy. A financial crisis, such as in 2018, could result in widespread defaults on commercial paper meaning that while Tether is fully backed in theory by USD, in practice the truth is a bit more complicated.
+For instance, Tether has been historically backed by a relatively large portion of [commercial paper](https://www.investopedia.com/terms/c/commercialpaper.asp) - a highly liquid, relatively low risk form of short term debt. While in **most** market conditions these assets retain their value, the risk of default does exist, meaning this commercial paper could become worthless in the event of bankruptcy. A financial crisis, such as in 2018, could result in widespread defaults on commercial paper meaning that while Tether is fully backed in theory by USD, in practice the truth is a bit more complicated.
 
 ![Source: [Crypto Boom Poses New Challenges to Financial Stability](https://www.imf.org/en/Blogs/Articles/2021/10/01/blog-gfsr-ch2-crypto-boom-poses-new-challenges-to-financial-stability)](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/75ef9aa5-f0ae-4417-b57c-3e090646899c/Untitled.png)
 
@@ -2200,7 +2200,7 @@ The struggle to create a stablecoin that achieves decentralization, price stabil
 
 Source: [The Stablecoin Trilemma](https://stablecoins.wtf/resources/the-stablecoin-trillema)
 
-************************************Additional Resources************************************
+**Additional Resources**
 
 - Blog, [Two Thought Experiments to Evaluate Automated Stablecoins](https://vitalik.ca/general/2022/05/25/stable.html)
 - Report, [Reflexer Finance(RAI): Non-pegged Overcollateral Decentralized Stablecoin](https://mintventures.fund/reflexer-finance-rai-non-pegged-over-collateral-decentralized-stablecoin.pdf)
@@ -2305,7 +2305,7 @@ Web3 games will have to find other ways to attract and monetize players. At the 
 
 https://twitter.com/DangerWillRobin/status/1628957681712001024?s=20
 
-************************************Additional Resources************************************
+**Additional Resources**
 
 - Book, [Virtual Economies: Design and Analysis](https://www.amazon.com/Virtual-Economies-Design-Analysis-Information/dp/0262535068)
 - Blog, [Solutions and challenges in building sustainable play-and-earn economies](https://web3games.substack.com/p/solutions-and-challenges-in-building)
@@ -2349,11 +2349,11 @@ Purely from a revenue-maximizing perspective, it’s rational behavior that NFT 
 
 Source: [NFTs and a thousand true fans](https://a16zcrypto.com/posts/article/nfts-thousand-true-fans/)
 
-But, the constant issuing of additional collections extracts lots of value from the community while typically adding very little value or utility. This is especially true when NFT collections issue a ********fungible******** token, such as ApeCoin. Fungible tokens carry much less social signaling and collectible value, meaning that launching a fungible token attempts to offer economic value to holders usually before there is any, setting the price up to dump, and removing, rather than reinforcing, community momentum.
+But, the constant issuing of additional collections extracts lots of value from the community while typically adding very little value or utility. This is especially true when NFT collections issue a **fungible** token, such as ApeCoin. Fungible tokens carry much less social signaling and collectible value, meaning that launching a fungible token attempts to offer economic value to holders usually before there is any, setting the price up to dump, and removing, rather than reinforcing, community momentum.
 
 Instead, NFT collections considering launching a fungible token would likely be much better off initially launching the fungible token as soulbound reputation token, used for accessing events, social status, and buying merch or merch discounts, but not for price speculation. Then, at a later point when the community thinks there is organic demand for the token and it would be beneficial to make it tradeable, they can vote by governance to do so.
 
-This approach requires a bit more planning, but may actually ******reduce****** the regulatory concerns of launching a fungible token since it is not tradeable. This is not legal advice however, and you should always speak to a registered lawyer before launching a token.
+This approach requires a bit more planning, but may actually **reduce** the regulatory concerns of launching a fungible token since it is not tradeable. This is not legal advice however, and you should always speak to a registered lawyer before launching a token.
 
 If NFT collections and projects are to succeed, they can not remain what too many early experiments have been - file references to pixel images that have no other purpose, utility, or use case other than a speculative value.
 
@@ -2369,7 +2369,7 @@ https://twitter.com/john_ennis_btc/status/1688603227745378304?s=20
 
 NFTs have additional promising roles to play in Play-to-Earn games, as previously discussed, as well as potentially in improving DAO membership engagement and governance participation (as we’ll later discuss).
 
-****************************************Additional Resources****************************************
+**Additional Resources**
 
 - Curation, [NFT Canon](https://a16zcrypto.com/posts/article/nft-canon/)
 - Blog, [The History of Non-Fungible Tokens (NFTs)](https://medium.com/@Andrew.Steinwold/the-history-of-non-fungible-tokens-nfts-f362ca57ae10)
@@ -2409,7 +2409,7 @@ These are the benefits builders of RWA products should lean into. They should go
 - Rune Christensen, [The Path of Compliance and the Path of Decentralization: Why Maker Has No Choice but to Prepare to Free Float Dai](https://forum.makerdao.com/t/the-path-of-compliance-and-the-path-of-decentralization-why-maker-has-no-choice-but-to-prepare-to-free-float-dai/17466)**
 > 
 
-Builders who make claims about decentralization and censorship resistance for their RWA product are largely putting on decentralization theater. The onchain governance, onchain treasury management, and onchain operations of an RWA product can be decentralized, and offchain operations can be *********automated*********, but the product’s bank accounts, legal entities, offchain assets, offchain contracts, physical property, and bridges between onchain and offchain assets will always inherently be centralized points of failure, even if existing regulations change.
+Builders who make claims about decentralization and censorship resistance for their RWA product are largely putting on decentralization theater. The onchain governance, onchain treasury management, and onchain operations of an RWA product can be decentralized, and offchain operations can be **automated**, but the product’s bank accounts, legal entities, offchain assets, offchain contracts, physical property, and bridges between onchain and offchain assets will always inherently be centralized points of failure, even if existing regulations change.
 
 Given this reality that RWA protocols will **always** have centralized points of failure, for an RWA protocol to minimize the risk of being arbitrarily shut down at any moment will require full compliance with very aspect of existing regulations, including but not limited to securities laws, anti-money laundering laws, and tax compliance.
 
@@ -2417,7 +2417,7 @@ One example of an approach that *may* allow for builders to tokenize RWA in a co
 
 The above approach does require KYC and has other limitations that a centralized investment product would have, but that most DeFi products do not have. Yet such is the nature of RWA blockchain products that want to avoid being shut down out of the blue.
 
-************************************Additional Resources************************************
+**Additional Resources**
 
 - Forum, [MakerDAO: The Endgame Plan](https://forum.makerdao.com/t/the-endgame-plan-parts-1-2/15456)
 - Paper, [Tokenizing Real-World Assets - Towards a Regulated and Stable Token-Driven Economy](https://thetokenizer.io/wp-content/uploads/2019/06/Informational-Paper-by-The-Tokenizer-prepared-for-Maker.pdf)
@@ -2484,13 +2484,13 @@ Compensating governance participation to counter low engagement is a solution in
 
 https://twitter.com/0xfrisson/status/1689032382169616384?s=20
 
-… and by encouraging “governance farming”, i.e. spamming meaningless governance proposals in order to then participate in votes to earn governance compensation. This is far from a theoretical concern, in fact, a large bulk of existing DAO proposals are *******already******* meaningless spam.
+… and by encouraging “governance farming”, i.e. spamming meaningless governance proposals in order to then participate in votes to earn governance compensation. This is far from a theoretical concern, in fact, a large bulk of existing DAO proposals are **already** meaningless spam.
 
 https://twitter.com/DrNickA/status/1692077818169966932?s=20
 
 Worse still, at least one analysis has found that low governance involvement does not seem to be related to a DAOs size, larger DAOs with more at stake don’t see more governance involvement, nor do smaller DAOs with theoretically smaller, more passionate communities. The frequency of proposals to engage with also seems to have little impact, suggesting this isn’t just a matter of governance votes being either too time-consuming or too infrequent to remember.
 
-> ****Regression shows us that there’s no relationship between size of the DAO (by treasury AUM) and participation rate. This means that small DAOs and large DAOs don’t really see a difference in participation rate. Nor was there a relationship between the total number of proposals and the participation rate (i.e., just because there are more proposals doesn’t mean that people will participate in them more, below).
+> **Regression shows us that there’s no relationship between size of the DAO (by treasury AUM) and participation rate. This means that small DAOs and large DAOs don’t really see a difference in participation rate. Nor was there a relationship between the total number of proposals and the participation rate (i.e., just because there are more proposals doesn’t mean that people will participate in them more, below).
 Source: [The Dao Governance Conundrum Part II](https://medium.com/@fydetreasury/the-dao-governance-conundrum-part-ii-e375c240b76a)**
 > 
 
@@ -2502,7 +2502,7 @@ Source: [Governor Note: Evolving On-Chain Governance With Element Council](https
 
 The standard “1 token, 1 vote, more than 50% majority wins the vote” form of governance is far from the only form it can take, but is still commonly used, despite its flaws.
 
-Quadratic voting, and other methods that essentially underweight large whale addresses quickly encounter issues of Sybil resistance. Reducing large whales’ vote weight in proportion to an equivalent number of tokens split across many smaller voters doesn’t work if the whale can freely transfer those governance tokens to other wallets, and wallets are not tied to any identity, reputation, or whitelist system. The whale can simply split their tokens across multiple wallets to ******appear****** like many small voters, and achieve the same final weight of their vote. The only real cost in such a scenario (without other Sybil countermeasures) would be the gas fees to transfer the governance tokens to multiple wallets.
+Quadratic voting, and other methods that essentially underweight large whale addresses quickly encounter issues of Sybil resistance. Reducing large whales’ vote weight in proportion to an equivalent number of tokens split across many smaller voters doesn’t work if the whale can freely transfer those governance tokens to other wallets, and wallets are not tied to any identity, reputation, or whitelist system. The whale can simply split their tokens across multiple wallets to **appear** like many small voters, and achieve the same final weight of their vote. The only real cost in such a scenario (without other Sybil countermeasures) would be the gas fees to transfer the governance tokens to multiple wallets.
 
 Associating voting power with an identity, such as a connected social media account or a non-transferrable or illiquid NFT, can more effectively prevent Sybil attacks, since unlike a fungible token, whales can’t split an identity or NFT across multiple wallets.
 
@@ -2538,7 +2538,7 @@ Of course, forgoing governance altogether remains another option, as does reputa
 
 While a deep dive into every possible approach to governance is beyond this guide, the below table summarizes many of the most significant and popular governance mechanisms. Please note the list is not exhaustive, and mechanisms are not mutually exclusive - governance processes can and often do combine multiple of the below mechanisms.
 
-***************************************************Summary of Governance Mechanisms***************************************************
+**Summary of Governance Mechanisms**
 
 | Mechanism | Description | Pros | Cons | Examples |
 | --- | --- | --- | --- | --- |
@@ -2560,7 +2560,7 @@ https://twitter.com/thegrifft/status/1595110675244011521?s=20
 
 **3. DAO Treasury Management**
 
-***************************Please note, as with the other contents of this guide, this section is not financial, investment, or accounting advice. Always consult with a registered professional and do your own research.***************************
+**Please note, as with the other contents of this guide, this section is not financial, investment, or accounting advice. Always consult with a registered professional and do your own research.**
 
 Optimizing DAO treasury management warrants its own full guide - in essence, it’s a very similar challenge to what sovereign wealth funds, pensions funds, endowment funds, and trusts try to accomplish: invest current assets so that future liabilities are met or exceeded by future investment proceeds.
 
@@ -2572,7 +2572,7 @@ According to Delphi Digital, most DAOs are overweight their own native token. As
 
 Source: [A New Mental Model for Defi Treasuries](https://uncommoncore.co/a-new-mental-model-for-defi-treasuries/)
 
-Hedging during a bull market by converting portions of the treasury into other uncorrelated assets such as BTC, ETH, stablecoins, and high quality, yield generating altcoins diversifies the treasury. Generally speaking, diversification of any portfolio is ********much more appropriate than over-concentrating in one asset and hoping for the best.
+Hedging during a bull market by converting portions of the treasury into other uncorrelated assets such as BTC, ETH, stablecoins, and high quality, yield generating altcoins diversifies the treasury. Generally speaking, diversification of any portfolio is **much more appropriate than over-concentrating in one asset and hoping for the best.
 
 This issue is exacerbated when DAO treasury management is combined with community governance, such that the treasury is being allocated by decision makers with much shorter term individual investment horizons than the DAO’s, and without a professional level understanding of fundamentals like risk management and modern portfolio theory.
 
@@ -2586,13 +2586,13 @@ Conversely, selling other treasury assets to buy back the DAO’s own native tok
 Source: [A New Mental Model for Defi Treasuries](https://uncommoncore.co/a-new-mental-model-for-defi-treasuries/)**
 > 
 
-While planning for ******years****** in advance may sound difficult, that’s how long bear markets can last, and if your DAO plans to be around for the long term, that's what your treasury management approach ultimately needs to be doing.
+While planning for **years** in advance may sound difficult, that’s how long bear markets can last, and if your DAO plans to be around for the long term, that's what your treasury management approach ultimately needs to be doing.
 
 ![Source: [Treasury Management: A Guide to Navigating Downturns](https://a16zcrypto.com/posts/article/treasury-management-guide/)](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/54a57eb8-9023-4601-b4f3-b00ec0913184/Untitled.png)
 
 Source: [Treasury Management: A Guide to Navigating Downturns](https://a16zcrypto.com/posts/article/treasury-management-guide/)
 
-************************************Additional Resources************************************
+**Additional Resources**
 
 - Curation, [DAOs, A Canon](https://a16zcrypto.com/posts/article/dao-canon/)
 - Blog, [Treasury Management: A Guide to Navigating Downturns](https://a16zcrypto.com/posts/article/treasury-management-guide/)
@@ -2646,7 +2646,7 @@ The economic incentives must come from somewhere - either via existing network e
 
 It’s no secret that Web2 social media is not actually free - you pay by selling your data. To scale, Web3 social media can not be free either.
 
-************************************Additional Resources************************************
+**Additional Resources**
 
 - Blog, [A Self-Authenticating Social Protocol](https://blueskyweb.org/blog/3-6-2022-a-self-authenticating-social-protocol)
 - GitLab, [Decentralized Social Media Ecosystem Overview](https://gitlab.com/bluesky-community1/decentralized-ecosystem/-/blob/master/README.md)
@@ -2663,10 +2663,10 @@ Later in 2018, that project rebranded to its current name: Aave.
 
 The trustless nature of smart contracts makes blockchain fit for purpose for overcollateralized lending. In traditional collateralized lending, such as mortgages or car loans, recovering the collateral asset when a borrower defaults on their loan can be expensive, time consuming, and get tied up for years in legal challenges in order to enforce the original contract. Enforceability is not typically a problem smart contracts have.
 
-Yet for the same reasons, **************undercollateralized************** lending (e.x. personal loans, credit card debt, student loans) is not as well fit to blockchain lending. Enforcing the contract is no longer a matter of code, so undercollateralized lending, even when agreed to onchain, inherently becomes exposed to all the same kinds of complications and risks that come with RWA.
+Yet for the same reasons, **undercollateralized** lending (e.x. personal loans, credit card debt, student loans) is not as well fit to blockchain lending. Enforcing the contract is no longer a matter of code, so undercollateralized lending, even when agreed to onchain, inherently becomes exposed to all the same kinds of complications and risks that come with RWA.
 
 <aside>
-💡 Introducing collateral and/or borrowing lending **************always************** creates a risk of bad debt, if not for the entire treasury, then at the very least for lenders using the product. Builders should be intimately familiar with these risks and best practices to mitigate them.
+💡 Introducing collateral and/or borrowing lending **always** creates a risk of bad debt, if not for the entire treasury, then at the very least for lenders using the product. Builders should be intimately familiar with these risks and best practices to mitigate them.
 
 </aside>
 
@@ -2674,10 +2674,10 @@ Risks created when collateral, borrowing, or lending, is introduced can include:
 
 - Oracle risk: if liquidations or minting new loans are dependent on an oracle price, a bug in oracle prices can enable minting much more debt than risk controls “should” allow.
 - Market manipulation risk: when liquidations or minting new loans are dependent on recent market prices (whether via an oracle or via direct observation of an onchain AMM), short term temporary spikes or crashes in price can be manipulated to cause cascading liquidations or inflate collateral to mint excess debt.
-- Price and correlation risk: prices move, and markets are volatile - the possibility of collateral assets dropping significantly and rapidly in price always exists. This risk can be *********mitigated********* with ******************diversification, but these benefits tend to decline exactly when they are most needed because correlations between assets generally increase during market crashes.
+- Price and correlation risk: prices move, and markets are volatile - the possibility of collateral assets dropping significantly and rapidly in price always exists. This risk can be **mitigated** with **diversification, but these benefits tend to decline exactly when they are most needed because correlations between assets generally increase during market crashes.
 - Black swan events (”unknown unknowns”): the most difficult thing about risk is that its impossible to fully anticipate. Builders should be aware of the limitations of common concepts such as liquidity, risk premiums, and market cap for evaluating the expected value of collateral in a liquidation scenario. What may hold true in most cases is not guaranteed to always hold true.
 
-************************************Additional Resources************************************
+**Additional Resources**
 
 - Paper, [Increased Correlation in Bear Markets](https://www.researchgate.net/publication/235351979_Increased_Correlation_in_Bear_Markets)
 - Aave Forum, [Blameless Post Mortem: Curve - Aug 8, 2023](https://governance.aave.com/t/blameless-post-mortem-curve-aug-8-2023/14386)
@@ -2710,7 +2710,7 @@ In practice, however, bonding curves have a glaring weakness and are not commonl
 
 </aside>
 
-************************************Additional Resources************************************
+**Additional Resources**
 
 - Blog, [Tokens 2.0: Curved Token Bonding in Curation Markets](https://medium.com/@simondlr/tokens-2-0-curved-token-bonding-in-curation-markets-1764a2e0bee5)
 - Blog, [Bancor’s Smart Tokens vs Token Bonding Curves](https://medium.com/@simondlr/bancors-smart-tokens-vs-token-bonding-curves-a4f0cdfd3388)
@@ -2747,22 +2747,22 @@ Despite the growth in the number, importance, and security threats of bridges, a
 
 Bridges suffer from their own trilemma, stating that only two of three core aspects can be achieved between being trustless, generalizable, and extensible.
 
-![Source: ****[The Interoperability Trilemma](https://blog.connext.network/the-interoperability-trilemma-657c2cf69f17)****](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/32da6ee5-3b6e-4ca9-9ec3-6d1de23b69a8/Untitled.png)
+![Source: **[The Interoperability Trilemma](https://blog.connext.network/the-interoperability-trilemma-657c2cf69f17)**](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/32da6ee5-3b6e-4ca9-9ec3-6d1de23b69a8/Untitled.png)
 
-Source: ****[The Interoperability Trilemma](https://blog.connext.network/the-interoperability-trilemma-657c2cf69f17)****
+Source: **[The Interoperability Trilemma](https://blog.connext.network/the-interoperability-trilemma-657c2cf69f17)**
 
 <aside>
 💡 Loosely speaking bridges can be fit into the below informal categorizations - though as mentioned before, differences in implementation, and thus considerable differences in security implications and attack vectors, exist even within the same category of bridge.
 
 </aside>
 
-1. ********************************************************************Centralized Custodial Bridges********************************************************************
+1. **Centralized Custodial Bridges**
 
 These bridges rely on a centralized custodian that controls a wallet. To bridge in, users send tokens to this centralized wallet, and once the custodian has confirmed ownership of the tokens on Chain A, they send tokens on Chain B to the user.
 
 While simple and scalable, this approach suffers from the obvious drawback of reliance on a centralized entity that can be hacked, lose access to the wallet, censor users, block users, or even steal from users.
 
-2. ************************Vault Bridges************************
+2. **Vault Bridges**
 
 Instead of sending tokens to a centralized custodian, vault bridges have users send tokens to either a smart contract or a multi-sig wallet. This smart contract or multi-sig wallet acts as a vault, holding the tokens sent to it.
 
@@ -2770,7 +2770,7 @@ When tokens are received on Chain A, the tokens are “locked” (held) in the v
 
 3. **Mint & Burn Bridges**
 
-These bridges operate very similarly to Vault Bridges. Users that want to bridge send tokens on Chain A to a smart contract or multi-sig wallet. But instead of corresponding tokens on Chain B being ********unlocked******** by a vault, new tokens on Chain B are actually minted by a smart contract.
+These bridges operate very similarly to Vault Bridges. Users that want to bridge send tokens on Chain A to a smart contract or multi-sig wallet. But instead of corresponding tokens on Chain B being **unlocked** by a vault, new tokens on Chain B are actually minted by a smart contract.
 
 To reverse the process and bridge back to Chain A, a user burns the tokens on Chain B with the smart contract, and then the tokens on Chain A are unlocked and released for the user to reclaim.
 
@@ -2784,7 +2784,7 @@ For this to enable bridging the same token from one chain to another effectively
 
 Hash Time-Locked Contracts or Atomic Swaps can be viewed as a special type of Cross-Chain Swap that uses cryptography and time locks to trustlessly enable two users to swap or trade assets across chains. The nature of the swap ensures that either both users receive the ability to claim the tokens they should receive, or neither do - it does not require trusting the other party involved, or using any centralized custodian.
 
-5. ******************************************************************************Collateralized Bridges / Non-Custodial Wrapped Assets******************************************************************************
+5. **Collateralized Bridges / Non-Custodial Wrapped Assets**
 
 This type of “bridge” is essentially a non-custodial wrapped, or even synthetic, asset which is backed by collateral.
 
@@ -2869,7 +2869,7 @@ If one were to assume liquidity providers’ token balances changed the same way
 
 LVR is defined as the difference between the two - representing how much value liquidity providers are theoretically missing out on compared to if they were executing the same trades on a CEX.
 
-The debate about whether AMM liquidity provision is fairly compensated, or will inherently ******always****** be victim to LVR, and thus is not a desirable activity, is still an ongoing debate in DeFi.
+The debate about whether AMM liquidity provision is fairly compensated, or will inherently **always** be victim to LVR, and thus is not a desirable activity, is still an ongoing debate in DeFi.
 
 On one side, researchers such as [Alex Nezlobin](https://twitter.com/0x94305) argue that AMM liquidity providers are making massive theoretical losses in LVR and markouts.
 
@@ -2879,7 +2879,7 @@ On the other side, researchers and builders like [Guillame Lambert](https://twit
 
 https://twitter.com/guil_lambert/status/1687791021206503424?s=20
 
-****************************************Additional Resources****************************************
+**Additional Resources**
 
 - Twitter Spaces, [LVR Reduction: The Biggest Open Problem in DeFi (Part One)](https://twitter.com/specialmech/status/1688623676415991808?s=20)
 - Twitter Spaces, [LVR Reduction: The Biggest Open Problem in DeFi (Part Two)](https://twitter.com/i/spaces/1OwxWwNkdBVxQ?s=20)
@@ -2914,7 +2914,7 @@ While ICOs may be out of favor, modern builders should lean into the advantages 
 
 Regardless, builders should always speak to a registered legal professional before launching a token or token sale, no matter what form the token sale takes.
 
-******************************************Additional Resources******************************************
+**Additional Resources**
 
 - Blog, [Binance Launchpad: New Projects Coming Soon](https://www.binance.com/en/blog/launchpad/binance-launchpad-new-projects-coming-soon-287512671268392960)
 
@@ -2932,7 +2932,7 @@ Additionally, managing protocol-level exposure also becomes a major concern. Ris
 
 Today, Nexus Mutual is far from the only insurance provider in the space, but they contributed greatly to thinking on modeling, governance, incentives, and tokenomics for insurance protocols.
 
-****************************************Additional Resources****************************************
+**Additional Resources**
 
 - Blog, [We’ve launched! (Nexus Mutual)](https://medium.com/nexus-mutual/weve-launched-2bc8ba1049f2)
 - Blog, [Nexus Mutual Launch — How our digital cooperative works](https://medium.com/nexus-mutual/nexus-mutual-launch-how-our-digital-cooperative-will-work-711822c2931d)
@@ -2942,7 +2942,7 @@ Today, Nexus Mutual is far from the only insurance provider in the space, but th
 
 In July 2019, synthetic asset protocol Synthetix (formerly Haven) launched what may be the first documented case of a liquidity incentives program for a trading pair with their Synthtic asset sETH and ETH or Uniswap.
 
-> ****Today we are extremely excited to announce an experiment we will be running for the next four weeks to test whether protocol level incentives lead to a deep liquidity pool for the sETH/ETH pair on Uniswap.
+> **Today we are extremely excited to announce an experiment we will be running for the next four weeks to test whether protocol level incentives lead to a deep liquidity pool for the sETH/ETH pair on Uniswap.
 Source: [Uniswap sETH Pool Liquidity Incentives](https://blog.synthetix.io/uniswap-seth-pool-incentives/)**
 > 
 
@@ -2970,11 +2970,11 @@ And as seen in Steemit’s case, where rewards created warped incentives, these 
 
 For example, on NFT marketplace Looksrare, as much as 95% of trading activity is thought to be wash trading that is only taking place to earn and dump token rewards paid to traders.
 
-While encouraging sufficient liquidity can be helpful, especially in the modern days of AMM where passive liquidity provision is so dominant, builders should ensure they are thinking carefully about ********how much******** they are rewarded certain behaviors, including liquidity, and ******which****** behaviors are really worth rewarding. Using incentives to kickstart network value that persists after the incentives cease is much easier said than done.
+While encouraging sufficient liquidity can be helpful, especially in the modern days of AMM where passive liquidity provision is so dominant, builders should ensure they are thinking carefully about **how much** they are rewarded certain behaviors, including liquidity, and **which** behaviors are really worth rewarding. Using incentives to kickstart network value that persists after the incentives cease is much easier said than done.
 
 We’ll get into these topics in much more detail, and with frameworks to aid decision-making, in Part Two.
 
-****************************************Additional Resources****************************************
+**Additional Resources**
 
 - Blog, [Uniswap Liquidity Mining Analysis](https://medium.com/gauntlet-networks/uniswap-liquidity-mining-analysis-14c739c54a9d)
 - Article, [LooksRare - The NFT token everyone is looking at](https://bravenewcoin.com/insights/looksrare-token-news)
@@ -2986,15 +2986,15 @@ We’ll get into these topics in much more detail, and with frameworks to aid de
 
 # Rebase Tokens, Jul 2019
 
-Rebase tokens introduced a novel concept of a token whose token supply can change. With rebase tokens, balances held in user wallets can be altered, minting new tokens or burning existing tokens to alter the total supply, and each user’s number of tokens, though without necessarily altering the **********percentage********** of total tokens each user owns.
+Rebase tokens introduced a novel concept of a token whose token supply can change. With rebase tokens, balances held in user wallets can be altered, minting new tokens or burning existing tokens to alter the total supply, and each user’s number of tokens, though without necessarily altering the **percentage** of total tokens each user owns.
 
 Ampleforth (AMPL) launched in 2019, as the first well-known case of a rebase token. AMPL uses this mechanism to algorithmically adjust its total supply so that, if you assume the project’s market cap holds constant, reducing the supply results in an increased price per token, and increasing the supply results in a decreased price per token.
 
-This rebasing mechanism is used by AMPL to keep the price per token at a level that tracks an inflation-adjusted dollar - you can think of AMPL as an “inflation-proof stablecoin” that is pegged to the purchasing power of a US Dollar in 2019, not pegged to the *******current******* value of a US Dollar, which will be lower if inflation since 2019 has been positive.
+This rebasing mechanism is used by AMPL to keep the price per token at a level that tracks an inflation-adjusted dollar - you can think of AMPL as an “inflation-proof stablecoin” that is pegged to the purchasing power of a US Dollar in 2019, not pegged to the **current** value of a US Dollar, which will be lower if inflation since 2019 has been positive.
 
 For instance, let’s imagine that the United States inflation rate is 10% a year, and look at how buying and holding $100 worth of actual Fiat currency (cash), AMPL tokens, or a stablecoin would work out in theory.
 
-***AMPL as an Inflation Hedge (Figures are Illustrative, Not Economic Forecasts or Predictions)***
+**AMPL as an Inflation Hedge (Figures are Illustrative, Not Economic Forecasts or Predictions)**
 
 | Year | Annual Inflation Rate | 2019 Base Purchasing Power of a $100 Bill | Number of Dollars Required to Match $100 2019 Base Purchasing Power | AMPL Target Value | 2019 Base Purchasing Power of 100 AMPL Tokens | USDC Target Value | 2019 Base Purchasing Power of 100 USDC |
 | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -3010,25 +3010,25 @@ By the end of 2025, US Dollars themselves have lost nearly 50% of their purchasi
 
 This sounds great in concept - but there’s a glaring flaw to AMPL’s stated use case as an inflation hedge.
 
-It’s true that if the rebase mechanism ensures AMPL tracks its target value, then *100 AMPL tokens* will have retained their purchasing power. But the catch is the very same rebase mechanism that is ensuring AMPL tracks its target value is doing so *************by changing the number of tokens each wallet owns.************* All else equal, since the rebase mechanism is reducing supply in order to increase AMPL price, holders that started with 100 tokens would expect to have *****fewer***** than 100 tokens, and thus still lose purchasing power!
+It’s true that if the rebase mechanism ensures AMPL tracks its target value, then *100 AMPL tokens* will have retained their purchasing power. But the catch is the very same rebase mechanism that is ensuring AMPL tracks its target value is doing so **by changing the number of tokens each wallet owns.** All else equal, since the rebase mechanism is reducing supply in order to increase AMPL price, holders that started with 100 tokens would expect to have **fewer** than 100 tokens, and thus still lose purchasing power!
 
 ![Source: [The Truth about Rebase Tokens](https://web.archive.org/web/20220106151642/https://medium.com/@PAPADAO/the-truth-about-rebase-tokens-a7dc8d518cd4)](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/c9fe0a09-9670-4f0b-8abb-b7f2013d4867/Untitled.png)
 
 Source: [The Truth about Rebase Tokens](https://web.archive.org/web/20220106151642/https://medium.com/@PAPADAO/the-truth-about-rebase-tokens-a7dc8d518cd4)
 
-In other words, while supply and price per token can be influenced by the rebase mechanism, market cap can not. Reducing supply does increase price if you hold market cap constant, but it doesn’t ********increase******** the market cap itself.
+In other words, while supply and price per token can be influenced by the rebase mechanism, market cap can not. Reducing supply does increase price if you hold market cap constant, but it doesn’t **increase** the market cap itself.
 
-It doesn’t matter to each user if the *price per AMPL token* tracks inflation*,* what matters is that the ******************************value of their total AMPL position****************************** tracks inflation.
+It doesn’t matter to each user if the *price per AMPL token* tracks inflation*,* what matters is that the **value of their total AMPL position** tracks inflation.
 
-In practice, this means that AMPL requires an ever-growing amount of incoming capital because it requires an ever-increasing ***market cap*** (not price per token) in order to effectively preserve the holder’s purchasing power against inflation. This reliance on a continually increasing market cap is something most if not all rebase tokens suffer from, making them unsustainable at large scale and vulnerability to similar risks to those that UST was exposed to before collapsing.
+In practice, this means that AMPL requires an ever-growing amount of incoming capital because it requires an ever-increasing **market cap** (not price per token) in order to effectively preserve the holder’s purchasing power against inflation. This reliance on a continually increasing market cap is something most if not all rebase tokens suffer from, making them unsustainable at large scale and vulnerability to similar risks to those that UST was exposed to before collapsing.
 
-The ****************price per token**************** may continue to increase or track its target price, even if the protocol’s market cap collapses, but the *******************************value of each user’s holdings******************************* would not.
+The **price per token** may continue to increase or track its target price, even if the protocol’s market cap collapses, but the **value of each user’s holdings** would not.
 
 Due to these inherent limitations, rebase tokens, similar to bonding curves, are an intriguing mechanism that builders should be familiar with, and which may be useful in very specific contexts where they are fit for purpose, but which not often used in practice.
 
 Case in point - today AMPL’s market cap sits around $30mm. Its adoption has fallen more than 95% from its all-time high of a $688mm market cap, and the price per token trades outside its target range for weeks at a time.
 
-****************************************Additional Resources****************************************
+**Additional Resources**
 
 - Blog (Archived), [The Truth about Rebase Tokens](https://web.archive.org/web/20220106151642/https://medium.com/@PAPADAO/the-truth-about-rebase-tokens-a7dc8d518cd4)
 - Blog, [Rebase! The Implications of Supply Smoothing](https://www.publish0x.com/block-enthusiast-an-exploration-of-things/rebase-the-implications-of-supply-smoothing-xropreg)
@@ -3047,7 +3047,7 @@ Helium has so far been a textbook example of using token emissions to bootstrap 
 
 But as we discussed in earlier chapters, overcoming the bootstrapping problem requires acquiring users on both the demand and supply side. If there is no demand, even the best tokenomics can not save the product.
 
-One of the biggest challenges with token rewards for the demand side is Sybil attacks. Rewards supply can be more objectively verified, a node either is running or it isn’t. But if rewards are distributed to demand, for ****used**** capacity, then an incentive is created to use fake activity to earn rewards.
+One of the biggest challenges with token rewards for the demand side is Sybil attacks. Rewards supply can be more objectively verified, a node either is running or it isn’t. But if rewards are distributed to demand, for **used** capacity, then an incentive is created to use fake activity to earn rewards.
 
 This dynamic is why NFT marketplaces that pay people to place trades, like LooksRare, see so much wash trading, and why protocols like Filecoin have such low capacity utilization rates - they can more effectively incentivize supply capacity than demand.
 
@@ -3058,7 +3058,7 @@ It’s also a large part of why Filecoin launched Filecoin Plus, allowing for cu
 
 </aside>
 
-**********Additional Resources**********
+**Additional Resources**
 
 - Article, [Crypto Darling Helium Promised A ‘People’s Network.’ Instead, Its Executives Got Rich](https://www.forbes.com/sites/sarahemerson/2022/09/23/helium-crypto-tokens-peoples-network/?sh=2d8335973166)
 - Article, [Embattled Helium is attempting a second act as a crypto-powered mobile network](https://fortune.com/crypto/2022/09/27/embattled-helium-attempting-crypto-powered-mobile-network/)
@@ -3068,7 +3068,7 @@ It’s also a large part of why Filecoin launched Filecoin Plus, allowing for cu
 
 The term “staking rewards” originally was only used in the context of Proof-of-Stake consensus mechanisms, where users locked up tokens to participate in consensus, and earned staking rewards for doing so.
 
-Yet somewhere along the way and with the rise of DeFi, the term “staking” became watered down to describe ***any*** case where users lock up tokens, even when this mechanic is entirely unnecessary and unrelated to the actual functioning of the product itself.
+Yet somewhere along the way and with the rise of DeFi, the term “staking” became watered down to describe **any** case where users lock up tokens, even when this mechanic is entirely unnecessary and unrelated to the actual functioning of the product itself.
 
 This isn’t to say that locking up tokens for reasons other than Proof-of-Stake consensus can never be useful or should not be rewarded. Locking up collateral as a Chainlink oracle, depositing DAI to earn the savings rates, or SushiSwap’s vampire attack to reward staking of Uniswap LP tokens are all examples of cases where locking up tokens had a specific benefit to the protocol.
 
@@ -3085,7 +3085,7 @@ On its own though, this is of course not a sustainable mechanism, because if a t
 
 </aside>
 
-****************************************Additional Resources****************************************
+**Additional Resources**
 
 - Blog, [ApeCoin & the death of staking](https://cobie.substack.com/p/apecoin-and-the-death-of-staking)
 - Blog, [Why the Dai Savings Rate is a Game-Changer for the DeFi Ecosystem, and Beyond](https://blog.makerdao.com/why-the-dai-savings-rate-is-a-game-changer-for-the-defi-ecosystem-and-beyond/)
@@ -3098,7 +3098,7 @@ The Curve Wars had begun.
 
 Yield farming and liquidity mining quickly became the dominant narratives of “DeFi Summer”, with yields, strategies, and players changing every day.
 
-Much of Curve’s rise to fame is attributed to its tokenomics mechanism for **************vote escrowed************** Curve. Holders of CRV tokens lock up tokens by staking them for up to 4 years, in return for veCRV tokens - the longer the stake, the more veCRV.
+Much of Curve’s rise to fame is attributed to its tokenomics mechanism for **vote escrowed** Curve. Holders of CRV tokens lock up tokens by staking them for up to 4 years, in return for veCRV tokens - the longer the stake, the more veCRV.
 
 These veCRV tokens are used in weekly “gauge weight” which determine how much each liquidity pool is incentivized. Pools with more weight receive greater rewards, and thus can expect to see more liquidity, all else equal.
 
@@ -3123,7 +3123,7 @@ Better value alignment would involve aligning rewards with value created for the
 
 Though veCRV holders receive protocol revenue distributions, it remains possible that even veCRV itself will prove to be unsustainable if emissions are disproportionate to protocol revenues in the long term.
 
-****************************************Additional Resources****************************************
+**Additional Resources**
 
 - Dashboard, [veCRV](https://dune.com/banteg/misc)
 - Blog, [Bribing veCRV gauges 101](https://andrecronje.medium.com/bribing-vecrv-gauges-101-8f6e4506bb62)
@@ -3187,7 +3187,7 @@ MEV thus existed the moment the first rudimentary DEXs came into being, or even 
 
 The rise of AMMs handling large amounts of trading flows meant that MEV became a very profitable business.
 
-While not *****************all***************** types of MEV are harmful, popular forms of MEV like sandwich attacks and frontrunning leeches value from users in a way that would be considered illegal market manipulation in traditional finance, and has contributed to concerns over Ethereum’s censorship resistance due to most MEV-boost relays censoring transactions to be compliant with OFAC.
+While not **all** types of MEV are harmful, popular forms of MEV like sandwich attacks and frontrunning leeches value from users in a way that would be considered illegal market manipulation in traditional finance, and has contributed to concerns over Ethereum’s censorship resistance due to most MEV-boost relays censoring transactions to be compliant with OFAC.
 
 While not directly an artifact of MEV itself, since validators which run MEV-boost can increase staking returns by selling blockspace to MEV searchers, validators have an incentive to use MEV-boost, meaning that Ethereum’s level of centralization converges towards to level of centralization of MEV-boost relays.
 
@@ -3197,7 +3197,7 @@ Proposals to “solve” MEV largely break down into four schools of thought.
 
 Source: [The Four Quadrants of MEV Protection](https://bennyattar.substack.com/p/mev)
 
-****************************************Additional Resources****************************************
+**Additional Resources**
 
 - Blog, [What is MEV Boost?](https://www.alchemy.com/overviews/mev-boost)
 - Blog, [Time, slots, and the ordering of events in Ethereum Proof-of-Stake](https://www.paradigm.xyz/2023/04/mev-boost-ethereum-consensus)
@@ -3220,7 +3220,7 @@ https://twitter.com/AlanaDLevin/status/1551905122971795456?s=20
 
 So how and why was Olympus able to rise to such success? While earlier instances of rebase tokens existed, OHM introduced the concept of protocol owned liquidity, as well as a highly influential marketing campaign centered on game theory to advertise the extremely high yields from its ponzinomic staking mechanism.
 
-At the time, protocols were competing for liquidity for their native tokens (Curve Wars), but bribing or incentivizing LPs to provide liquidity is temporary. Those LPs are, as rational actors, seeking to maximize their own returns, and so as the incentives slow down, the liquidity leaves - essentially the liquidity is only ******rented****** instead of *****owned*****.
+At the time, protocols were competing for liquidity for their native tokens (Curve Wars), but bribing or incentivizing LPs to provide liquidity is temporary. Those LPs are, as rational actors, seeking to maximize their own returns, and so as the incentives slow down, the liquidity leaves - essentially the liquidity is only **rented** instead of **owned**.
 
 Olympus DAO introduced the concept of buying their own LP tokens, for example ETH/OHM Uniswap LP tokens, so that the treasury owns its own liquidity. In practice this meant liquidity providers sold LP tokens to the OHM treasury in exchange for OHM tokens at a discount to market prices.
 
@@ -3235,7 +3235,7 @@ Source: [A correct model of Olympus DAO](https://milkyeggs.com/crypto/a-correct-
 This is not to say that all protocol owned liquidity is inherently unsustainable.
 
 <aside>
-💡 Protocol owned liquidity can be sustainable as a *************value accrual************* mechanism (e.x. Maker DAO buyback and LP), but it is not a replacement for a value creation mechanism, and can not be sustainable without being funded by underlying value creation.
+💡 Protocol owned liquidity can be sustainable as a **value accrual** mechanism (e.x. Maker DAO buyback and LP), but it is not a replacement for a value creation mechanism, and can not be sustainable without being funded by underlying value creation.
 
 </aside>
 
@@ -3247,7 +3247,7 @@ With a questionable use case, and no protocol revenues other than investing trea
 
 https://twitter.com/crypto_notte/status/1480642777780207616?s=20
 
-What Olympus DAO did best was marketing, centering their efforts around the “(3,3)” game theory inspired meme. According to this simplified game theory payoff structure, if every stakes and never sells, the price will keep appreciating forever, leaving everyone involved with a positive **********unrealized********** collective gain while tokens remained locked up and illiquid.
+What Olympus DAO did best was marketing, centering their efforts around the “(3,3)” game theory inspired meme. According to this simplified game theory payoff structure, if every stakes and never sells, the price will keep appreciating forever, leaving everyone involved with a positive **unrealized** collective gain while tokens remained locked up and illiquid.
 
 > **Collective losses can hide in illiquidity until they get realized.
 **Source: [Of Smoke and Mirrors.. Part I](https://medium.com/@game_theorizing/of-smoke-and-mirrors-part-1-117c1f92e186)**
@@ -3256,11 +3256,11 @@ What Olympus DAO did best was marketing, centering their efforts around the “(
 Even if we take the game theory at face value, this conclusion ignores the fact that in repeated games, ideal strategies can be radically different than the dominant strategy assuming a single round is played.
 
 <aside>
-💡 For example in prisoner’s dilemma, when the game is only played once, the ideal strategy is to rat on your fellow prisoner, resulting in both prisoners betraying each other. But this is not the ideal strategy in empirical studies and simulations of **************repeated games.************** When the game is repeated, the best performing strategies become combinations of the “grim” or “spiteful” strategy, and the “tit-for-tat” strategy.
+💡 For example in prisoner’s dilemma, when the game is only played once, the ideal strategy is to rat on your fellow prisoner, resulting in both prisoners betraying each other. But this is not the ideal strategy in empirical studies and simulations of **repeated games.** When the game is repeated, the best performing strategies become combinations of the “grim” or “spiteful” strategy, and the “tit-for-tat” strategy.
 
 </aside>
 
-In the grim/spiteful strategy, a prisoner remains loyal to their opponent *******************until they are betrayed******************* by their opponent, after which they betray their opponent every round for the *entire remainder of the game*. In the tit-for-tat strategy, a prisoner does what their opponent did last round. I.e. they are loyal if their opponent was loyal last round, and they betray them if their opponent betrayed them in the last round.
+In the grim/spiteful strategy, a prisoner remains loyal to their opponent **until they are betrayed** by their opponent, after which they betray their opponent every round for the *entire remainder of the game*. In the tit-for-tat strategy, a prisoner does what their opponent did last round. I.e. they are loyal if their opponent was loyal last round, and they betray them if their opponent betrayed them in the last round.
 
 Simulations show that these behaviors become the ideal player behaviors that emerge when the game is repeated.
 
@@ -3274,17 +3274,17 @@ In a repeated game environment, the better performing strategy can change from m
 
 Empirically this aligns with what actually occurred, as selling pressure compounded as a self-reinforcing behavior.
 
-If we step back and critically examine OHM’s game theory payoff structure, the red flags get bigger. The (3,3) staking payoff is obviously a gross oversimplification that ignores the marginal utility of money, and assumes participants value **********unrealized********** gains as perfectly identical to **************realized************** gains.
+If we step back and critically examine OHM’s game theory payoff structure, the red flags get bigger. The (3,3) staking payoff is obviously a gross oversimplification that ignores the marginal utility of money, and assumes participants value **unrealized** gains as perfectly identical to **realized** gains.
 
 In the words of FreddieRaynolds, who publicly called the collapse of LUNA/UST at least six months in advance:
 
 https://twitter.com/FreddieRaynolds/status/1439656351110680577?s=20
 
-By definition, if no one ever sells, price can never go down, and everyone can make theoretical, unrealized gains forever - but for each dollar of unrealized gains a holder makes, the marginal utility of the next dollar of unrealized gains shrinks. The payoff structure (which is entirely subjective in the first place) quite literally changes, it is no longer (3,3) to stake, it becomes (<3,<3). (*************The similarity of that notation in appearance to “(************* ❤️,❤️*************)” is one of life’s beautiful ironies).*************
+By definition, if no one ever sells, price can never go down, and everyone can make theoretical, unrealized gains forever - but for each dollar of unrealized gains a holder makes, the marginal utility of the next dollar of unrealized gains shrinks. The payoff structure (which is entirely subjective in the first place) quite literally changes, it is no longer (3,3) to stake, it becomes (<3,<3). (**The similarity of that notation in appearance to “(** ❤️,❤️**)” is one of life’s beautiful ironies).**
 
-At the same time, the payoff of selling, in order to *******realize******* some or all of the unrealized gains, increases, as in reality, ******realized****** gains have a far greater value and utility than **********unrealized********** gains. This is arguably exaggerated even further by irrational biases, as [data demonstrates that traders have a psychological bias to close winning positions early](https://faculty.haas.berkeley.edu/odean/papers%20current%20versions/areinvestorsreluctant.pdf) (i.e. people tend to close positions with unrealized *****gains***** much sooner than positions with unrealized ********losses********).
+At the same time, the payoff of selling, in order to **realize** some or all of the unrealized gains, increases, as in reality, **realized** gains have a far greater value and utility than **unrealized** gains. This is arguably exaggerated even further by irrational biases, as [data demonstrates that traders have a psychological bias to close winning positions early](https://faculty.haas.berkeley.edu/odean/papers%20current%20versions/areinvestorsreluctant.pdf) (i.e. people tend to close positions with unrealized **gains** much sooner than positions with unrealized **losses**).
 
-In the context’s of OHM’s payoff structure, both these factors would contribute to selling become a higher and higher subjective payoff relative to staking as the game continues and as holders accrue **********unrealized********** gains.
+In the context’s of OHM’s payoff structure, both these factors would contribute to selling become a higher and higher subjective payoff relative to staking as the game continues and as holders accrue **unrealized** gains.
 
 Thus, the simplistic view of the (3,3) payoff structure as a constant and objective representation of preferences is deeply misleading.
 
@@ -3294,7 +3294,7 @@ Note that in the situation where all participants buy and stake and nobody sells
 Source: [A correct model of Olympus DAO](https://milkyeggs.com/crypto/a-correct-model-of-olympus-dao/)**
 > 
 
-As an (obvious) result, it was inevitable that a large portion of stakers eventually began to sell, at which point the speculative FOMO began to unwind, creating a self reinforcing cycle as **********unrealized********** gains evaporated and staking APYs declined. A death spiral.
+As an (obvious) result, it was inevitable that a large portion of stakers eventually began to sell, at which point the speculative FOMO began to unwind, creating a self reinforcing cycle as **unrealized** gains evaporated and staking APYs declined. A death spiral.
 
 This occurred even though the token was ostensibly backed by the treasury for a value of 1 DAI, because OHM’s market cap was extremely undercollateralized by the treasury - a product of encouraging speculative behavior to farm the unsustainable staking rewards APY.
 
@@ -3316,7 +3316,7 @@ Source: [Token Design for Serious People](https://jumpcrypto.com/token-design-fo
 
 It is unfortunate that protocol owned liquidity may always carry the ugly legacy of OHM, because POL is as brilliantly simple as a protocol itself providing liquidity in an AMM. This can be done as a value accrual mechanism (buyback tokens with protocol revenues to provide LP, or provide single sided LP with protocol revenues). Or it can be done in lieu of a one-time token sale event, as putting tokens in a liquidity pool essentially functions as an ongoing token sale.
 
-As for Olympus DAO itself, its clear the original mechanisms were not sustainable or productive - and in fact OHM has since abandoned the staking mechanism, demonstrating they now acknowledge it was not sustainable. The existing treasury only creates value in so far as it is invested for ************************superior risk adjusted returns************************ than other potential investments - otherwise Olympus DAO has no marginal purpose or value contribution.
+As for Olympus DAO itself, its clear the original mechanisms were not sustainable or productive - and in fact OHM has since abandoned the staking mechanism, demonstrating they now acknowledge it was not sustainable. The existing treasury only creates value in so far as it is invested for **superior risk adjusted returns** than other potential investments - otherwise Olympus DAO has no marginal purpose or value contribution.
 
 If you define success as raising a large treasury from unsuspecting retail with misleading marketing, wildly unsustainable APYs, and a predatory fundraising mechanism totally unnecessary for building the stated objective, then OHM was a success.
 
@@ -3324,7 +3324,7 @@ However if you think destroying your reputation with most of your user base and 
 
 https://twitter.com/CarlKVogel/status/1487512145420029953?s=20
 
-****************************Additional Resources****************************
+**Additional Resources**
 
 - Blog, [The (3, 3) Gods’Father](https://medium.com/@game_theorizing/of-smoke-and-mirrors-part-2-the-godsfather-cd24ff7476da)
 - Blog, [Olympus Has Fallen: A Postmortem on the (3,3) Experiment](https://medium.com/@juicyarbol/olympus-has-fallen-a-postmortem-on-the-3-3-experiment-87c316791612)
@@ -3369,7 +3369,7 @@ In reality, L2 sequencers remain centralized, though most L2s at least claim to 
 
 # Escrowed Rewards (GMX), Jan 2022
 
-Not to be mistaken for Curve’s ***********vote escrow*********** mechanism, in which CRV tokens are ******staked****** to create *vote escrowed* tokens as veCRV, GMX rewards that are distributed to GMX stakers are made in an ********escrowed******** form as esGMX - meaning they are not initially tradeable or transferrable.
+Not to be mistaken for Curve’s **vote escrow** mechanism, in which CRV tokens are **staked** to create *vote escrowed* tokens as veCRV, GMX rewards that are distributed to GMX stakers are made in an **escrowed** form as esGMX - meaning they are not initially tradeable or transferrable.
 
 Escrowed esGMX tokens can be converted over time time into liquid GMX tokens, essentially a vesting or “unescrowing” process that requires locking up GMX tokens with esGMX tokens to do so.
 
@@ -3381,14 +3381,14 @@ Unlike veCRV, which encourages users to constantly re-lock in order to preserve 
 
 While GMX’s escrowed rewards (esGMX) and compounding staking rewards (Multiplier Points) may sound quite ponzinomic, these mechanics are not inherently unsustainable. To be clear, they can absolutely be unsustainable when staking rewards are paid out of thin air or when rewards are excessively inflationary.
 
-That said, when the aggregate reward pool is capped to a manageable level of tail emissions inflation, or the rewards are entirely sourced from distributing protocol revenues, this means that even with compounding MPs, the protocol’s overall emissions are not unsustainably forever increasing. Instead, stakers of MPs are earning a larger ******************proportional share****************** of rewards.
+That said, when the aggregate reward pool is capped to a manageable level of tail emissions inflation, or the rewards are entirely sourced from distributing protocol revenues, this means that even with compounding MPs, the protocol’s overall emissions are not unsustainably forever increasing. Instead, stakers of MPs are earning a larger **proportional share** of rewards.
 
 <aside>
 💡 GMX and CRV remain two of the most influential projects to modern tokenomics. Builders should familiarize themselves with both models.
 
 </aside>
 
-****************************************Additional Resources****************************************
+**Additional Resources**
 
 - Whitepaper, [GMX - Rewards](https://gmxio.gitbook.io/gmx/rewards)
 - Blog, [Trustless Governance and Value Accrual](https://mirror.xyz/jaypowcrypto.eth/6c3BhMRzzet3NUFocMSQuj5zZ8CTwDud5c6CzFH-zEg)
@@ -3438,7 +3438,7 @@ The quest for the ‘decentralized Klarna’ thus seems misled. Unless lending u
 
 But if buyers already have the collateral to post why not just use it to pay now? The BNPL use case quickly collapses to a subset of those covered by overcollateralized lending markets.
 
-****************************************Additional Resources****************************************
+**Additional Resources**
 
 - Thread, [“Credit Scores for DeFi”](https://twitter.com/juliangay/status/1547662040788914176?s=20)
 - Blog, [Secured and Unsecured Lending](https://medium.com/credora/secured-and-unsecured-lending-3e1e10d03499)
@@ -3463,7 +3463,7 @@ Source: [Uniswap V3 LP Tokens as Perpetual Put and Call Options](https://lambert
 
 A liquid DeFi options market would enable new sustainable sources of yield and hedging for treasuries and DeFi apps.
 
-******Additional Resources******
+**Additional Resources**
 
 - Blog, [Uniswap V3 LP Tokens as Perpetual Put and Call Options](https://lambert-guillaume.medium.com/uniswap-v3-lp-tokens-as-perpetual-put-and-call-options-5b66219db827)
 - Blog, [Perpetual Options for DeFi](https://medium.com/numoen/perpetual-options-for-defi-821351c0a24f)
@@ -3479,11 +3479,11 @@ Ordinals, created by Bitcoin core developer [Casey Rodarmor](https://twitter.com
 
 https://twitter.com/ChainLeftist/status/1624085853076172810?s=20
 
-Ordinals have also been used to enable ***************fungible tokens*************** to be issued on Bitcoin as well, via the BRC-20 protocol created by [anonymous developer “domo”](https://twitter.com/domodata). Though these early fungible tokens rely on additional security assumptions beyond vanilla Bitcoin transactions, work to improve and further decentralize these early experiments is ongoing.
+Ordinals have also been used to enable **fungible tokens** to be issued on Bitcoin as well, via the BRC-20 protocol created by [anonymous developer “domo”](https://twitter.com/domodata). Though these early fungible tokens rely on additional security assumptions beyond vanilla Bitcoin transactions, work to improve and further decentralize these early experiments is ongoing.
 
 Funds like [Bitcoin Startup Lab](https://btcstartuplab.com/) and [BTC Frontier Fund](https://twitter.com/BTCFrontierFund) are enabling the next wave of developers to build solutions on Bitcoin with tools such as Ordinals, L2s, and DLCs.
 
-******************************************Additional Resources:******************************************
+**Additional Resources:**
 
 - Blog, [Ordinal Theory](https://rodarmor.com/blog/ordinal-theory/)
 - Blog, [Inscribing Mainnet](https://rodarmor.com/blog/inscribing-mainnet/)
@@ -3506,7 +3506,7 @@ In July 2023, Worldcoin became the most widely known, and most controversial, wi
 
 Until is is solved, Sybil attacks will remain a legitimate security risk to many blockchain products, and builders always need to take them into consideration when designing their product and token.
 
-****************************************Additional Resources****************************************
+**Additional Resources**
 
 - Article, [DeFi Sybil attack created $7.5B fake TVL on Solana from ‘anon’ developers](https://cryptoslate.com/defi-sybil-attack-created-7-5b-fake-tvl-on-solana-from-anon-developers/)
 - Blog, [What do I think about biometric proof of personhood?](https://vitalik.ca/general/2023/07/24/biometric.html)
@@ -3515,7 +3515,7 @@ Until is is solved, Sybil attacks will remain a legitimate security risk to many
 # 2.0 General Principles & Mistakes to Avoid
 
 <aside>
-⚠️ If you’ve skipped ahead to Part Two of this guide. You may want to consider quickly checking out the [***Token Checklist*** in Chapter 1.4](https://www.notion.so/1-4-Does-Every-Project-Need-a-Token-79f30dc5e5d34fcca18b7fbcfff3792f?pvs=21) to help you evaluate whether launching a token may be right for you, and whether you may be ready or not to do so.
+⚠️ If you’ve skipped ahead to Part Two of this guide. You may want to consider quickly checking out the [**Token Checklist** in Chapter 1.4](https://www.notion.so/1-4-Does-Every-Project-Need-a-Token-79f30dc5e5d34fcca18b7fbcfff3792f?pvs=21) to help you evaluate whether launching a token may be right for you, and whether you may be ready or not to do so.
 
 </aside>
 
@@ -3526,19 +3526,19 @@ Until is is solved, Sybil attacks will remain a legitimate security risk to many
 
 At a high level, *launching* a token involves five steps. Note these deal only with the token itself. Designing and building the product itself is an entirely different conversation.
 
-These five steps for the token can each be broken down into a multitude of substeps and tasks - this guide is primarily concerned with the first of these steps, *******************designing******************* your token (including internal tests and optimization of your design).
+These five steps for the token can each be broken down into a multitude of substeps and tasks - this guide is primarily concerned with the first of these steps, **designing** your token (including internal tests and optimization of your design).
 
 The remaining steps, including things like smart contract audits, are just as important but are outside the scope of this guide.
 
 ## 5 Step Process to Launch a Token
 
-1. ***Tokenomics Design***
+1. **Tokenomics Design**
 2. Economic Security Testing (”Tokenomics Audit”)
 3. Smart Contract Development
 4. Smart Contract Audit
 5. Token Launch Event
 
-As mentioned, this guide covers the first steps above ***Tokenomics Design***, which breaks down into its own seven step process.
+As mentioned, this guide covers the first steps above **Tokenomics Design**, which breaks down into its own seven step process.
 
 ## The *Tokenomics Design* Process
 
@@ -3558,7 +3558,7 @@ Before delving into the process itself though, we’ll first cover some valuable
 
 ## Use Comps
 
-“Comps” is not a reference to the COMP token - it’s short for ********comparables.********
+“Comps” is not a reference to the COMP token - it’s short for **comparables.**
 
 Looking at products similar to the one you are building (comps), is key to making informed strategy decisions.
 
@@ -3578,16 +3578,16 @@ Like any young technology, blockchain has only just scratched the surface of its
 - Sustainable incentive mechanisms
 - Governance models
 - Technology and architecture
-- Value ********creation******** and value *******capture******* mechanisms
+- Value **creation** and value **capture** mechanisms
 
-Yet it’s just as important to be careful about ******not****** standing out in the wrong areas.
+Yet it’s just as important to be careful about **not** standing out in the wrong areas.
 
 Doing so can increase the risk of drawing the ire of regulators, scaring off potential users, harming your token holders, and/or making it harder to raise funding.
 
 You may want to err on the side of caution, and avoid standing out (follow industry best practices by looking at comps) when it comes to:
 
 - Legal and regulatory structures
-- Value *******accrual******* to token holders
+- Value **accrual** to token holders
 - Profit sharing
 - Token allocation splits
 - Token vesting periods
@@ -3654,8 +3654,8 @@ This increases your legal risk since you don’t know how your token will likely
 
 Just as bad, if you don’t explicitly know what type of token you’re launching, it’s easy to fool yourself into excusing a poorly designed token that has no utility by assuming that your token will be used as a medium of exchange (currency) or a store of value (ie Bitcoin, gold).
 
-> ********“99 percent of tokens won’t ever satisfy the store of value pre-requisites.”
--******** Brendan Bernstein, [Making Sense of Crypto Asset Valuation Insanity](https://www.coindesk.com/markets/2018/03/11/making-sense-of-crypto-asset-valuation-insanity/#:~:text=Most%20assets%20won%27t%20become%20a%20reserve%20store%20of%20value)
+> **“99 percent of tokens won’t ever satisfy the store of value pre-requisites.”
+-** Brendan Bernstein, [Making Sense of Crypto Asset Valuation Insanity](https://www.coindesk.com/markets/2018/03/11/making-sense-of-crypto-asset-valuation-insanity/#:~:text=Most%20assets%20won%27t%20become%20a%20reserve%20store%20of%20value)
 > 
 
 In reality, for the vast, vast majority of builders your token will never become a store of value or general medium of exchange, and assuming it will, or using a design that requires it to, is delusional wishful thinking.
@@ -3686,7 +3686,7 @@ Using collateral is sometimes unavoidable. For example, enabling users to mint D
 
 DAI would soon have no value and have no chance of functioning as a stablecoin.
 
-Yet collateral ************always************ means risk. Looking at surface level assumptions of price, market cap, and market liquidity and depth can be extremely misleading when assessing these risks.
+Yet collateral **always** means risk. Looking at surface level assumptions of price, market cap, and market liquidity and depth can be extremely misleading when assessing these risks.
 
 Market cap structurally overestimates the value of collateral when the value of that collateral is most important - when people start selling it.
 
@@ -3694,7 +3694,7 @@ Just because you can sell 1 ETH for $2,000 does not mean you can instantly sell 
 
 But when you rely on market cap for collateral value, you’re making an even less realistic assumption - you’re assuming you could sell every single ETH in existence for $2,000 each!
 
-Another hidden risk is that market downturns are also the time when markets generally become less liquid, slippage increases, spreads widen, order books thin out, and asset correlation increases. All this means that if you look at *******current******* liquidity as an expectation of liquidity for when you need to liquidate collateral, you are almost certainly overestimating what liquidity will actually look like when you’re trying to sell.
+Another hidden risk is that market downturns are also the time when markets generally become less liquid, slippage increases, spreads widen, order books thin out, and asset correlation increases. All this means that if you look at **current** liquidity as an expectation of liquidity for when you need to liquidate collateral, you are almost certainly overestimating what liquidity will actually look like when you’re trying to sell.
 
 <aside>
 💡 Builders too often overestimate the value, liquidity, and diversification of collateral assets, and underestimate their correlation to the overall market because they make assumptions based on normal market conditions, not based on conditions during market downturns.
@@ -3705,9 +3705,9 @@ Another hidden risk is that market downturns are also the time when markets gene
 
 It’s common to assume the more a product is used, the more demand for the token they’ll be - however this is not necessarily the case and is heavily dependent on tokenomics.
 
-Devoid of clear *************value capture************* and *************value accrual************* there is no often no fundamental reason more usage translates into ***********sustainable*********** higher prices.
+Devoid of clear **value capture** and **value accrual** there is no often no fundamental reason more usage translates into **sustainable** higher prices.
 
-> ****You might expect cryptoassets to gain value with adoption, but this equation suggests the opposite. At scale, cryptoassets will likely achieve hyper efficiency that reduces the price.
+> **You might expect cryptoassets to gain value with adoption, but this equation suggests the opposite. At scale, cryptoassets will likely achieve hyper efficiency that reduces the price.
 Source: Mike Sall, [Valuing Cryptoassets from the Ground Up](https://medium.com/@sall/valuing-cryptoassets-from-the-ground-up-441ad5a9ff03)**
 > 
 
@@ -3734,7 +3734,7 @@ When you hear people discussing tokenomics, they almost always discuss these asp
 - Total number of tokens
 - Tokens in circulation
 
-These are all ***supply*** aspects, and supply is only one piece of the puzzle:
+These are all **supply** aspects, and supply is only one piece of the puzzle:
 
 - Scarcity alone is not enough.
 Your childhood artwork is scarce. Yet chances are they’re not selling for much these days, even as NFTs.
@@ -3758,7 +3758,7 @@ As a builder, you need to be thinking about token **demand, use cases, incentive
 
 Incentives are tough to get right, and even if the overall system is sound in design, it is a virtual impossibility that you happen to pick the optimal parameters that plug into that design out of thin air. This is true even when guided by frameworks like game theory.
 
-Yet many builders simply don’t where to start when it comes to optimizing parameters and stress testing their design. It’s intimidating, and difficult to know ****what**** to model, let alone ***how*** to model it to test their assumptions.
+Yet many builders simply don’t where to start when it comes to optimizing parameters and stress testing their design. It’s intimidating, and difficult to know **what** to model, let alone **how** to model it to test their assumptions.
 
 https://twitter.com/TendermintTimmy/status/1674770677599961089?s=20
 
@@ -3818,7 +3818,7 @@ Every design process is an iterative process. You may complete a step before rea
 
 That’s actually a good thing. That’s what making improvements looks like.
 
-To start, you’ll need to complete the [“Step 1: Objectives & Requirements” in the ************************************************Tokenomics Design Canvas](https://www.notion.so/Tokenomics-Design-Canvas-9b15bbd593504e9cbb91f82f95f75ca9?pvs=21).**
+To start, you’ll need to complete the [“Step 1: Objectives & Requirements” in the **Tokenomics Design Canvas](https://www.notion.so/Tokenomics-Design-Canvas-9b15bbd593504e9cbb91f82f95f75ca9?pvs=21).**
 
 As you complete the worksheet, keep in mind that tokenomics starts with solving a problem ([Chapter 1.2](https://www.notion.so/1-2-What-is-Tokenomics-3a6dacd60eaf41ab95d832f60d7a8bef?pvs=21)). If your product doesn’t solve a key user problem, or no one would use your product unless they can make money from your token, it’s a good sign you may need to take a step back and reevaluate your plans. Exceptions apply, but generally speaking, your token is not your product.
 
@@ -3831,7 +3831,7 @@ Remember that not every project needs a token, and there are pros and cons to la
 # Primary Tool: Tokenomics Design Canvas (TDC)
 
 <aside>
-💡 Complete “Step 1: Objectives & Requirements” of the ************************************************[Tokenomics Design Canvas](https://www.notion.so/Tokenomics-Design-Canvas-9b15bbd593504e9cbb91f82f95f75ca9?pvs=21).**
+💡 Complete “Step 1: Objectives & Requirements” of the **[Tokenomics Design Canvas](https://www.notion.so/Tokenomics-Design-Canvas-9b15bbd593504e9cbb91f82f95f75ca9?pvs=21).**
 
 [Tokenomics Design Canvas](https://www.notion.so/Tokenomics-Design-Canvas-9b15bbd593504e9cbb91f82f95f75ca9?pvs=21)
 
@@ -3849,10 +3849,10 @@ It’s now time to think about your token’s value accrual and complete [“Ste
 
 This is a crucial step, as how value accrues to your token can be largely affected by even seemingly small differences in your tokenomics.
 
-Something as simple as switching from charging *********sellers********* a commission to sell their NFT to charging ******buyers****** a fee to purchase the NFT can make a large difference:
+Something as simple as switching from charging **sellers** a commission to sell their NFT to charging **buyers** a fee to purchase the NFT can make a large difference:
 
-- Charging ********sellers******** means that supply is less likely to use that marketplace, and naturally buyers will look to go to marketplaces with the most available supply.
-- Charging ******buyers****** on the other hand means sellers can use the marketplace for free, and thus will be more likely to list their supply there, in turn bringing more buyers, in turn resulting in higher overall fees than charging the same transaction fees to sellers.
+- Charging **sellers** means that supply is less likely to use that marketplace, and naturally buyers will look to go to marketplaces with the most available supply.
+- Charging **buyers** on the other hand means sellers can use the marketplace for free, and thus will be more likely to list their supply there, in turn bringing more buyers, in turn resulting in higher overall fees than charging the same transaction fees to sellers.
 
 https://twitter.com/beeple/status/1581351398259597312?s=20&t=ENl5ytcXgAE__Z4gt9YNRQ
 
@@ -3868,20 +3868,20 @@ In theory, you could earn a yield by market making on the order book of a centra
 
 Along comes a new product called Uniswap, an AMM (Automated Market Maker), allowing you to deposit equal values of your ETH and LINK to automatically provide liquidity and earn a portion of trading fees. All without the custodial risk of a centralized exchange, of the prohibitive barriers to active market making.
 
-Uniswap has *******created******* value for you as a liquidity provider.
+Uniswap has **created** value for you as a liquidity provider.
 
 Or, as we discussed in Chapter 1.2, imagine you have $1,000 of USDC you want to sell to buy ETH but want to avoid the hassles, delays, and risks of trading on a centralized exchange. Uniswap offers you a way to sell your USDC to buy ETH that avoids these downsides.
 
-Uniswap has ********created******** value for you as a trader.
+Uniswap has **created** value for you as a trader.
 
-The product has *********created********* value, but the question remains - did Uniswap *******capture******* any of that value for its own treasury?
+The product has **created** value, but the question remains - did Uniswap **capture** any of that value for its own treasury?
 
 # Value Capture
 
-A product can’t *capture* value if it hasn’t *******created******* any in the first place. For example, if both liquidity providers and traders would prefer a centralized exchange over a DEX, then Uniswap hasn’t created any value for anyone, so it won’t have any users, and thus won’t have any value to capture.
+A product can’t *capture* value if it hasn’t **created** any in the first place. For example, if both liquidity providers and traders would prefer a centralized exchange over a DEX, then Uniswap hasn’t created any value for anyone, so it won’t have any users, and thus won’t have any value to capture.
 
 <aside>
-💡 It’s impossible to *******capture******* value without ********creating******** value first. But it’s all too easy to ******create****** value and not ******capture****** any of it.
+💡 It’s impossible to **capture** value without **creating** value first. But it’s all too easy to **create** value and not **capture** any of it.
 
 </aside>
 
@@ -3906,15 +3906,15 @@ Source: [DefiLlama](https://defillama.com/fees)](https://s3-us-west-2.amazonaws.
 Products and protocols sorted by 30d revenues (i.e. value captured).
 Source: [DefiLlama](https://defillama.com/fees)
 
-Notice Uniswap’s conspicuous absence from the rankings above - when sorted by ******fees paid by users****** instead of by ********revenues********, Uniswap would rank 4th.
+Notice Uniswap’s conspicuous absence from the rankings above - when sorted by **fees paid by users** instead of by **revenues**, Uniswap would rank 4th.
 
-Other DeFi products, including competitor AMMs, *******capture******* more value than Uniswap - in some cases despite having materially lower usage, such as PancakeSwap. This is not some unknown phenomenon - this is directly due to their different models and tokenomics.
+Other DeFi products, including competitor AMMs, **capture** more value than Uniswap - in some cases despite having materially lower usage, such as PancakeSwap. This is not some unknown phenomenon - this is directly due to their different models and tokenomics.
 
 ![Source: [Bankless, Which DeFi Protocols are Profitable](https://newsletter.banklesshq.com/p/which-defi-protocols-are-profitable)](https://substackcdn.com/image/fetch/w_1456,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F4830ab74-d391-4ac6-91ec-ccb9621f5ade_1194x623.png)
 
 Source: [Bankless, Which DeFi Protocols are Profitable](https://newsletter.banklesshq.com/p/which-defi-protocols-are-profitable)
 
-Uniswap is still struggling with the so-called “fee switch” problem - the debate over starting to direct some of the trading fees to the treasury to ******capture****** value as revenue.
+Uniswap is still struggling with the so-called “fee switch” problem - the debate over starting to direct some of the trading fees to the treasury to **capture** value as revenue.
 
 Why has this been such a contentious debate? Largely because liquidity providers have gotten used to keeping 100% of the fees themselves and don’t want to give up a share of their fees to the treasury. Design choices made about Uniswap’s tokenomics have backed it into a corner that will be tough to get out of.
 
@@ -3924,13 +3924,13 @@ https://twitter.com/BarryFried1/status/1553051635609485313?s=20&t=v2T1RQCDQdcOxn
 
 https://twitter.com/mjayceee/status/1673394954834419712?s=20
 
-Even though Uniswap has *******created******* tremendous value for users, it has yet to ********capture******** any of that value for itself.
+Even though Uniswap has **created** tremendous value for users, it has yet to **capture** any of that value for itself.
 
 # Value Accrual
 
-Just because a product ********captures******** value does not mean that value *******accrues******* to the token. In Uniswap’s case, because the treasury does not capture any value, there is no value to accrue to the UNI token.
+Just because a product **captures** value does not mean that value **accrues** to the token. In Uniswap’s case, because the treasury does not capture any value, there is no value to accrue to the UNI token.
 
-But even worse, several large products do not ******accrue****** value to their tokens despite *********capturing********* value. dydX is one such example, much to the ire of token holders.
+But even worse, several large products do not **accrue** value to their tokens despite **capturing** value. dydX is one such example, much to the ire of token holders.
 
 https://twitter.com/jdorman81/status/1617966345282551808?s=20
 
@@ -3960,7 +3960,7 @@ For example, L1s do not directly “earn revenues” or “capture fees” in th
 
 This section compiles some of the most popular value accrual mechanisms that products use - it is not necessarily exhaustive, new mechanisms can be created, though builders should be wary of new mechanisms that seem to good to be true. Accrued value can not exceed captured value, just as captured value can not exceed created value.
 
-Any mechanism that seems to accrue more value than it creates in total (i.e. ponzinomic flows that ********transfer******** value instead of creating it) is a red flag.
+Any mechanism that seems to accrue more value than it creates in total (i.e. ponzinomic flows that **transfer** value instead of creating it) is a red flag.
 
 Builders should also remember that just because an existing product uses a specific mechanism does not necessarily mean it is legal or prudent to do so in your use case or jurisdiction.
 
@@ -4041,7 +4041,7 @@ Another buyback option is to buyback the native token, pair them with a non-nati
 
 Instead of burning or redistributing the repurchased tokens, the treasury retains ownership of this liquidity, making this approach a form of “protocol owned liquidity”, a term that can carry a negative connotation because OHM popularized the phrase along with its “(3,3)” ponzinomics. It’s worth noting though that ponzinomis and protocol owned liquidity do not need to go hand in hand.
 
-If the token is purchased from a sustainable, recurring revenue source (e.x. Maker repurchases MKR from DAI revenue), then there is nothing unhealthy about buyback and LP style treasury owned liquidity. The problem arises when purchases are funded by unsustainable value ********transfer******** mechanisms that enter a death spiral without an ever increasing amount of incoming capital.
+If the token is purchased from a sustainable, recurring revenue source (e.x. Maker repurchases MKR from DAI revenue), then there is nothing unhealthy about buyback and LP style treasury owned liquidity. The problem arises when purchases are funded by unsustainable value **transfer** mechanisms that enter a death spiral without an ever increasing amount of incoming capital.
 
 The immediate effects of buyback and LP is very similar to buyback and burn, as the buyback adds net demand pressure, and tokens are removed from “active” supply (i.e. non-treasury owned supply) instead of being distributed to wallets that may sell them (like in buyback and build).
 
@@ -4060,7 +4060,7 @@ A 50% blend of buyback and burn and 50% buyback to single-side LP seems like a d
 
 Kyle Samani’s explanation below sums up Work Tokens’ mechanism very well. Value accrues to the token as product usage increases due to the particular mechanism - not just because of a general assumption usage always translates into token demand.
 
-> ****In the work token model, a service provider stakes (AKA bonding) the native token of the network to earn the right to perform work for the network. For services which are commodities such as… Filecoin (distributed file storage), [and] Livepeer (distributed video encoding)… the probability that a given service provider is awarded the next job is proportional to the number of tokens staked as a fraction of total tokens staked by all service providers.
+> **In the work token model, a service provider stakes (AKA bonding) the native token of the network to earn the right to perform work for the network. For services which are commodities such as… Filecoin (distributed file storage), [and] Livepeer (distributed video encoding)… the probability that a given service provider is awarded the next job is proportional to the number of tokens staked as a fraction of total tokens staked by all service providers.
 
 As demand for the service grows, more revenue will flow to service providers. Given a fixed supply of tokens, service providers will rationally pay more per token for the right to earn part of a growing cash flow stream.
 Source: Klye Samani, [New Models for Utility Tokens](https://multicoin.capital/2018/02/13/new-models-utility-tokens/)**
@@ -4082,7 +4082,7 @@ The advantage here is that the supply of the token decreases over time, but the 
 
 If the token becomes too deflationary, such that users would rather hold their token for speculative reasons rather than use the token, paradoxically user activity dries up. Yes, this would mean the rate of deflation would then decrease, but it creates volatile swings in product usage.
 
-This is part of the beauty of EIP-1559 in Ethereum. Most people only focus on the fact that EIP-1559 can make ETH deflationary, but the real benefit is that it ********balances******** deflation with inflation so as not to stifle product usage.
+This is part of the beauty of EIP-1559 in Ethereum. Most people only focus on the fact that EIP-1559 can make ETH deflationary, but the real benefit is that it **balances** deflation with inflation so as not to stifle product usage.
 
 Modern ETH is burn and mint. Gas fees are burned, while rewards paid to validators are minted. Both deflation and inflation are happening at once - and which force wins is a function of product usage.
 
@@ -4117,7 +4117,7 @@ The downside is that relative to other value accrual mechanisms, discounting can
 It’s no secret though that value accrual mechanisms are one area that can introduce risk by inadvertently causing your token to be classified as a security, or viewed as such by regulators - even if they’re wrong in doing so.
 
 <aside>
-💡 Some crypto lawyers have said that a best practice ***may*** be to capture value to the treasury as soon as the product launches, and to allow for the future possibility of accruing value to the token, but not to have any mechanism initially in place, nor to advertise, market, hint, or promise that any such mechanism will be put into place.
+💡 Some crypto lawyers have said that a best practice **may** be to capture value to the treasury as soon as the product launches, and to allow for the future possibility of accruing value to the token, but not to have any mechanism initially in place, nor to advertise, market, hint, or promise that any such mechanism will be put into place.
 
 </aside>
 
@@ -4128,7 +4128,7 @@ This path *may* have less risk of falling afoul of regulators compared to if the
 # Primary Tool: Tokenomics Design Canvas (TDC)
 
 <aside>
-💡 Complete “Step 2: Value Accrual” of the ************************************************[Tokenomics Design Canvas](https://www.notion.so/Tokenomics-Design-Canvas-9b15bbd593504e9cbb91f82f95f75ca9?pvs=21).**
+💡 Complete “Step 2: Value Accrual” of the **[Tokenomics Design Canvas](https://www.notion.so/Tokenomics-Design-Canvas-9b15bbd593504e9cbb91f82f95f75ca9?pvs=21).**
 
 [Tokenomics Design Canvas](https://www.notion.so/Tokenomics-Design-Canvas-9b15bbd593504e9cbb91f82f95f75ca9?pvs=21)
 
@@ -4239,7 +4239,7 @@ Tokens may even have an expiry date. For example users mint veCRV tokens by lock
 # Primary Tool: Tokenomics Design Canvas (TDC)
 
 <aside>
-💡 Complete “Step 3: Value Lifecycle Patterns” of the ************************************************[Tokenomics Design Canvas](https://www.notion.so/Tokenomics-Design-Canvas-9b15bbd593504e9cbb91f82f95f75ca9?pvs=21).**
+💡 Complete “Step 3: Value Lifecycle Patterns” of the **[Tokenomics Design Canvas](https://www.notion.so/Tokenomics-Design-Canvas-9b15bbd593504e9cbb91f82f95f75ca9?pvs=21).**
 
 [Tokenomics Design Canvas](https://www.notion.so/Tokenomics-Design-Canvas-9b15bbd593504e9cbb91f82f95f75ca9?pvs=21)
 
@@ -4257,7 +4257,7 @@ As discussed in Part One, tokenomics is your best tool for coordinating user beh
 
 This is achieved through carefully balanced incentives - both rewarding desired behaviors, and punishing (or at least not rewarding) undesired behaviors. While obvious at a high level, the specifics of well-balanced incentives are quite nuanced and require not only a sound qualitative design but also the right quantitative parameters to achieve equilibrium in practice.
 
-In other words, it’s one thing to say “Miners should be rewarded”, but it’s an entirely different thing to answer “This is how ****much**** miners should be rewarded”.
+In other words, it’s one thing to say “Miners should be rewarded”, but it’s an entirely different thing to answer “This is how **much** miners should be rewarded”.
 
 Coordinating user behavior comes down to answering these basic questions then:
 
@@ -4292,8 +4292,8 @@ Your tokenomics are at a high risk of systemic failure, and you need to be extra
         - UST & LUNA had incentives that relied on LUNA’s value, with no mitigations in place
         - DAI & MKR have incentives that partially rely on collateral backing DAI but with multiple other incentives to mitigate this and cover situations where collateral value collapses
     - [ ]  Transferring value rather than supporting the creation of value
-        - CRV incentivizes liquidity by sharing a portion of fees paid by traders to use a service. This deeper liquidity *******creates******* more value for all traders (lower slippage).
-        - OHM incentivized staking by rewarding earlier investors with additional tokes when later investors buy in. This ****transferred**** the economic value directly from new users to earlier users without creating any tangible, non-speculative value.
+        - CRV incentivizes liquidity by sharing a portion of fees paid by traders to use a service. This deeper liquidity **creates** more value for all traders (lower slippage).
+        - OHM incentivized staking by rewarding earlier investors with additional tokes when later investors buy in. This **transferred** the economic value directly from new users to earlier users without creating any tangible, non-speculative value.
     - [ ]  Data from 3rd party oracles
         - This is not always avoidable, but it’s important to minimize reliance on uncontrolled variables wherever possible
         - For example, oracles that relied on data from [CoinMarketCap reported heavily inflated prices during a bug](https://www.nasdaq.com/articles/coinmarketcap-suffers-a-seeming-hack-falsely-driving-crypto-prices-to-tens-of-billions), resulting in some DeFi protocols treating collateral assets as being worth thousands of times their actual value. This created exploits for users to borrow against these inflated values, as they could then default and walk away with a large profit.
@@ -4332,7 +4332,7 @@ MKR holders have incentives beyond pure governance, as they have an economic inc
 
 This is certainly more tangible than if MKR lacked any economic incentives, though as economic incentives go, they’re not the most tangible. For example, a bad actor ETH validator feels the sting of being slashed almost immediately - yet if MKR holders are bad stewards of the protocol, it might take years for the realized costs to play out.
 
-In this light, it’s perhaps not so surprising that Maker DAO has made some controversial and questionable decisions in more recent years. Backing the majority of DAI with the centralized stablecoin USDC via the [Peg Stability Module](https://blog.makerdao.com/governance-polls-november-23-2020/) helped to secure the DAI peg, but undoes much of the value proposition for DAI in the first place - a **************decentralized************** stablecoin.
+In this light, it’s perhaps not so surprising that Maker DAO has made some controversial and questionable decisions in more recent years. Backing the majority of DAI with the centralized stablecoin USDC via the [Peg Stability Module](https://blog.makerdao.com/governance-polls-november-23-2020/) helped to secure the DAI peg, but undoes much of the value proposition for DAI in the first place - a **decentralized** stablecoin.
 
 DAI’s reliance on centralized USDC has already created problems internally, with Maker’s founder Rune Christensen even proposing to [convert USDC collateral to ETH collateral when Circle froze USDC balances after the Tornado Cash ban](https://www.coindailynews.io/2022/08/13/makerdao-to-convert-usdc-into-eth-ahead-of-ethereum-merge-community-reacts/). 
 
@@ -4377,7 +4377,7 @@ Taking shortcuts with your incentives and how you market them can work for a bit
 
 ## Abuse Your Incentives
 
-Most importantly, you ****must**** try to break, abuse, and exploit your incentives before finalizing your design and launching.
+Most importantly, you **must** try to break, abuse, and exploit your incentives before finalizing your design and launching.
 
 When designing a new incentive, ask yourself: “What could go wrong? How could I abuse this to make a profit, or to sabotage things if I wanted it to fail?”
 
@@ -4407,7 +4407,7 @@ Thus, the implications when it comes to designing your incentives are twofold:
 
 ## Optimize Your Incentives
 
-As discussed in [Chapter 1.2](https://www.notion.so/1-2-What-is-Tokenomics-3a6dacd60eaf41ab95d832f60d7a8bef?pvs=21), builders need to think carefully not just about ***who*** and ****what**** they reward or incentivize, but also ********how much******** they do so.
+As discussed in [Chapter 1.2](https://www.notion.so/1-2-What-is-Tokenomics-3a6dacd60eaf41ab95d832f60d7a8bef?pvs=21), builders need to think carefully not just about **who** and **what** they reward or incentivize, but also **how much** they do so.
 
 Excessive rewards that are misaligned with the value created is wasteful and creates short-term distortions that can increase price volatility, attract the wrong type of user base, and actually reduce long-term adoption of the product.
 
@@ -4426,7 +4426,7 @@ Source: [Token Design for Serious People](https://jumpcrypto.com/writing/token-d
 > 
 
 <aside>
-💡 Creating the right incentives means optimizing ********how much******** to reward or punish certain behaviors. Even if you reward the right users for the right actions, rewarding them too little will not have the intended effect, and rewarding them excessively can actually distort the incentives and change user behaviors to be more short-term focused.
+💡 Creating the right incentives means optimizing **how much** to reward or punish certain behaviors. Even if you reward the right users for the right actions, rewarding them too little will not have the intended effect, and rewarding them excessively can actually distort the incentives and change user behaviors to be more short-term focused.
 
 </aside>
 
@@ -4479,7 +4479,7 @@ The below resources are some of the best materials you will find for builders wh
 # Primary Tool: Tokenomics Design Canvas (TDC)
 
 <aside>
-💡 Complete “Step 4: Incentive Mechanisms” of the ************************************************[Tokenomics Design Canvas](https://www.notion.so/Tokenomics-Design-Canvas-9b15bbd593504e9cbb91f82f95f75ca9?pvs=21).**
+💡 Complete “Step 4: Incentive Mechanisms” of the **[Tokenomics Design Canvas](https://www.notion.so/Tokenomics-Design-Canvas-9b15bbd593504e9cbb91f82f95f75ca9?pvs=21).**
 
 [Tokenomics Design Canvas](https://www.notion.so/Tokenomics-Design-Canvas-9b15bbd593504e9cbb91f82f95f75ca9?pvs=21)
 
@@ -4495,7 +4495,7 @@ https://youtu.be/9LpaeVXbJBI
 
 # Introduction
 
-We’re now at the step most people think of when they hear the word tokenomics: supply policy. To complete this step, you’ll customize the [Tokenomics Modeling Template featured in “Step 5: Supply Policy” of the Tokenomics Design Canvas](https://www.notion.so/Tokenomics-Design-Canvas-9b15bbd593504e9cbb91f82f95f75ca9?pvs=21). To help you do so, let’s discuss token supply from a ********************************data-driven******************************** lens.
+We’re now at the step most people think of when they hear the word tokenomics: supply policy. To complete this step, you’ll customize the [Tokenomics Modeling Template featured in “Step 5: Supply Policy” of the Tokenomics Design Canvas](https://www.notion.so/Tokenomics-Design-Canvas-9b15bbd593504e9cbb91f82f95f75ca9?pvs=21). To help you do so, let’s discuss token supply from a **data-driven** lens.
 
 There have been a number of quantitative reports, including analysis of thousands of tokens and years of data conducted specifically to create this guide, on how to optimize aspects like max supply, emissions rates, vesting, etc. - we’ll look at all the data in this chapter so you as a builder can make an informed decision.
 
@@ -4555,7 +4555,7 @@ Another mistake builders make that wastes their gunpowder is assuming that when 
 
 But why?
 
-A *******stable******* 15% yield is already exceptionally high - enough to attract most people’s attention, especially if it's stable and sustainable.
+A **stable** 15% yield is already exceptionally high - enough to attract most people’s attention, especially if it's stable and sustainable.
 
 Increasing that yield to 30% or 100% is overkill - you’re getting less bang for your buck, attracting the wrong type of user, and needlessly increasing your inflation rate.
 
@@ -4565,12 +4565,12 @@ Emissions rates that emit a fixed number of tokens no matter what are needlessly
 
 Instead of emitting the 40% yield, it likely makes more sense to cap the maximum yield at something like 15%, and directly the excess tokens either to a treasury or burn address.
 
-Similarly, if your product relies on attracting both ***********supply side*********** users (e.x. liquidity providers) and *******demand side******* users (e.x. traders), you don’t want to waste excess rewards where they’re not needed.
+Similarly, if your product relies on attracting both **supply side** users (e.x. liquidity providers) and **demand side** users (e.x. traders), you don’t want to waste excess rewards where they’re not needed.
 
 For example, if you have much more supply side (overcapacity), than demand, but continue to reward the supply side at the same rate, you’re wasting your gunpowder for no benefit. Reducing rewards to the supply side to increase rewards to the demand side would result in more overall user activity, without increasing emissions - or even with reducing overall emissions.
 
 <aside>
-💡 Rewards should be dynamic based on user behavior to target a ***********maximum cap*********** yield distributed and a balance between supply users and demand users. Rewards above the cap, or to the user type you have an excess of, create more inflation for little benefit.
+💡 Rewards should be dynamic based on user behavior to target a **maximum cap** yield distributed and a balance between supply users and demand users. Rewards above the cap, or to the user type you have an excess of, create more inflation for little benefit.
 
 </aside>
 
@@ -4607,7 +4607,7 @@ The threat of a deflationary feedback loop is not just theoretical, historical c
 
 Recall that one of the largest benefits of tokenomics is to coordinate user behavior via incentives. In this light, your token is your “gunpowder” available to fuel these incentives.
 
-Modern Ethereum is an example of still having *****gross***** inflation (minting validator rewards) while still being ***net*** deflationary (burning more gas fees than tokens mined). This is incredibly powerful because it enables deflation while retaining the benefits of aligning incentives necessary for validators to secure the chain.
+Modern Ethereum is an example of still having **gross** inflation (minting validator rewards) while still being **net** deflationary (burning more gas fees than tokens mined). This is incredibly powerful because it enables deflation while retaining the benefits of aligning incentives necessary for validators to secure the chain.
 
 One of the [largest open debates regarding Bitcoin is its emission schedule](https://thebitcoinmanual.com/articles/btc-tail-emissions-debate/) - that the halving of block rewards every 4 years, and eventually end to block rewards, means that unless something drastically changes, there will be dwindling incentives for miners to secure the chain.
 
@@ -4617,7 +4617,7 @@ https://twitter.com/Justin_Bons/status/1628117104040747011?s=20
 
 If maxis have their way, it’s hard to see how this could ever happen: anti-ordinals, anti-BRC20s, anti-tokens issued on Bitcoin L2s or sidechains such as Stacks or RSK… where does the demand for block space come from if not from securing additional assets and use cases to Bitcoin?
 
-Ironically, the Lightning Network, the most adopted Bitcoin layer to date, and the only one supported by maxis, is intended to ***reduce*** fees (though to be fair it may serve to increase fees as a second-order term with higher overall adoption).
+Ironically, the Lightning Network, the most adopted Bitcoin layer to date, and the only one supported by maxis, is intended to **reduce** fees (though to be fair it may serve to increase fees as a second-order term with higher overall adoption).
 
 <aside>
 💡 Builders shouldn’t optimize for deflation at the expense of the incentive mechanisms crucial to their product. While you should aim for sustainability, rushing to be deflationary before finding organic demand is a great way to kill your product early.
@@ -4661,7 +4661,7 @@ Regardless, builders still obsess and agonize over max supply!
 
 You want to tailor your answer to your use case - the truth is there is no one universally best choice between uncapped or capped, and if capped, how many tokens to cap it at.
 
-That said, we can dive deeper into the data for insights into what may *********generally********* work for most builders.
+That said, we can dive deeper into the data for insights into what may **generally** work for most builders.
 
 ### Capped vs Uncapped Total Supply
 
@@ -4683,15 +4683,15 @@ To follow up, using data from CoinGecko and CoinMarketCap, I ran an analysis of 
 
 Due to the changing nature of the tokens (tokens cycle in and out of the Top 1,000), and the long time frame spanning bull and bear markets, it would be relatively meaningless to compare raw price performances - the figures could be easily skewed by random noise in the month-to-month data. Thus, each token’s monthly performance was normalized by that month’s market cap-weighted market return. This yields each token’s excess monthly return above/below the total market of the Top 1,000 tokens for the month in question.
 
-*********************Excess Returns by Max Supply Type*
-*Top 1,000 by Market Cap, Monthly, June 2018 - June 2023***
+**Excess Returns by Max Supply Type*
+*Top 1,000 by Market Cap, Monthly, June 2018 - June 2023**
 
 | Max Supply | Mean Relative Monthly Return | Median Relative Monthly Return | Stdev of Relative Monthly Returns (Not Annualized) |
 | --- | --- | --- | --- |
 | No Cap | -1.36% | -4.2% | 26.2% |
 | Capped | -2.7% | -6.0% | 37.6% |
 
-******Not all results are statistically significant. See notes below.*****
+**Not all results are statistically significant. See notes below.**
 
 The results found that uncapped tokens (no max supply) did perform better than capped tokens, but this difference was not statistically significant, even at a *p* of 0.10. 
 
@@ -4705,7 +4705,7 @@ Another alterative way to look at the data is to check the relative representati
 
 For instance, if 50% of Top 100 projects are uncapped, but only 10% of Top 101 - 1,000 projects are uncapped, then uncapped tokens are 40% “overrepresented” in the Top 100 - a weak suggestion that there may be a bias for uncapped tokens to perform better and achieve higher market caps.
 
-****Top 100 vs Top 101 - 1,000 by Max Supply Type, June 2023****
+**Top 100 vs Top 101 - 1,000 by Max Supply Type, June 2023**
 
 | Token Price Bucket | Excess Representation in Top 100 |
 | --- | --- |
@@ -4731,7 +4731,7 @@ There’s no fundamental reason Bitcoin **must** have been set to 21 million max
 
 The biggest factor influenced by the max supply of tokens you chose is what your token price will be at a given market cap.
 
-*******************************Price per Token given a Circulating Supply (y-axis), and Market Cap (x-axis)*******************************
+**Price per Token given a Circulating Supply (y-axis), and Market Cap (x-axis)**
 
 |  | $1mm | $5m | $10mm | $50mm | $100mm | $500mm | $1bn |
 | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -4741,7 +4741,7 @@ The biggest factor influenced by the max supply of tokens you chose is what your
 | 1,000,000,000 | $0.0010 | $0.0050 | $0.0100 | $0.0500 | $0.1000 | $0.5000 | $1.0000 |
 | 10,000,000,000 | $0.0001 | $0.0005 | $0.0010 | $0.0050 | $0.0100 | $0.0500 | $0.1000 |
 
-While the price per token should not matter to ********rational******** market actors - there is evidence from behavioral finance studies that stock market investors display several biases based on the price per share.
+While the price per token should not matter to **rational** market actors - there is evidence from behavioral finance studies that stock market investors display several biases based on the price per share.
 
 The price per share, like the price per token, is entirely arbitrary and alone tells a rational investor nothing about the relative value of the company, its recent performance, or its expected future performance… and yet:
 
@@ -4750,7 +4750,7 @@ The price per share, like the price per token, is entirely arbitrary and alone t
 - At least some investors display an irrational bias towards lower-priced shares on the belief for greater potential percentage gains. This is of course irrational, holding liquidity constant, it takes just as many dollars of net buying pressure to double a $100mm market cap company’s share price whether its share price is $0.01 per share or $1,000 per share. Nevertheless, at least a certain type of investor would irrationally feel the $0.01 has larger potential gains.
 **Source: [The Conceptual and Empirical Relationship Between Gambling, Investing, and Speculation](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5370364/)**
 - Various studies in consumer marketing have found a “left-digit anchoring” bias. For instance, buyers irrationally perceive $9.99 to be a materially better deal than $10.00. It’s quite possible a similar anchoring bias exists in financial markets, though no behavioral finance studies have yet to explicitly confirm or reject this.
-******************Source: [The Left-Digit Bias: When and Why Are Consumers Penny Wise and Pound Foolish?](https://journals.sagepub.com/doi/full/10.1177/0022243720932532)**
+**Source: [The Left-Digit Bias: When and Why Are Consumers Penny Wise and Pound Foolish?](https://journals.sagepub.com/doi/full/10.1177/0022243720932532)**
 
 While these biases generally suggest “the lower the token price the better”, it logically follows there is some lower bound to this benefit. For example, if consumers value the lefthand most digit most, there is likely a much bigger psychological difference between a token price of $.01 and $1.00 than there is between $0.000001 and $0.0001, even though in both cases the second price is 100x the first price. If people need to pause and carefully count leading zeros, the price is probably beyond the optimal point for any “lower price” bias.
 
@@ -4760,10 +4760,10 @@ But we don’t need to just assume these biases play out with token and crypto a
 
 Using the same approach described earlier to arrive at each token’s excess monthly returns, we can then group each token into price ranges according to its price per token at the time.
 
-Sliced this way, the same token may change buckets over the course of the data analyzed - the purpose is not to analyze the returns of tokens that *******started******* in a certain price range, the purpose is to analyze whether certain price ranges consistently perform better or worse, benefitting from an irrational bias for certain prices per token.
+Sliced this way, the same token may change buckets over the course of the data analyzed - the purpose is not to analyze the returns of tokens that **started** in a certain price range, the purpose is to analyze whether certain price ranges consistently perform better or worse, benefitting from an irrational bias for certain prices per token.
 
-*********************Excess Returns by Token Price Bucket*
-*Top 1,000 by Market Cap, Monthly, June 2018 - June 2023***
+**Excess Returns by Token Price Bucket*
+*Top 1,000 by Market Cap, Monthly, June 2018 - June 2023**
 
 | Token Price Bucket | Mean Relative Monthly Return | Median Relative Monthly Return | Stdev of Relative Monthly Returns (Not Annualized) |
 | --- | --- | --- | --- |
@@ -4775,7 +4775,7 @@ Sliced this way, the same token may change buckets over the course of the data a
 | ≥$10.00 − <$100.00 | -1.5% | -5.4% | 33.0% |
 
 **Most results are not statistically significant see description below.
-****If you’re wondering how every bucket is negative, this indicates that in every bucket, an equal-weighted index of tokens in that bucket generally underperforms a market cap-weighted index of all tokens.*
+**If you’re wondering how every bucket is negative, this indicates that in every bucket, an equal-weighted index of tokens in that bucket generally underperforms a market cap-weighted index of all tokens.*
 
 Interestingly, these findings seem to reject the “lower price is better” hypothesis. Even at a *p* of 0.10, there was only one statistically significant difference in head-to-head comparisons of each price bucket.
 
@@ -4801,7 +4801,7 @@ Conversely, an underrepresentation is a weak indication of a bias against that t
 
 For instance, if 20% of Top 100 projects have a price of ≥$1.00 - <$10.00, but only 5% of Top 101- 1,000 are in that bucket, it is 15% overrepresented in the Top 100 - a weak suggestion investors have a psychological bias for that price range.
 
-****Top 100 vs Top 101 - 1,000 by Price Bucket, June 2023****
+**Top 100 vs Top 101 - 1,000 by Price Bucket, June 2023**
 
 | Token Price Bucket | Excess Representation in Top 100 |
 | --- | --- |
@@ -4821,7 +4821,7 @@ While this approach seems less damning of tokens <$0.01, there was no statistica
 - ≥$100.00 is statistically significantly overrepresented (*p*=0.032) in Top 100 projects
 
 <aside>
-💡 While both approaches have their limitations and flaws, both suggest there is ****some**** evidence for a psychological investor bias that benefits tokens in the price range of $10.00 up to $100.00, and that there may be a bias harming tokens with a price below $0.01. While the expected benefits are minor, builders can select a max supply in order to target this range of price per token (1mm to 10mm for most projects).
+💡 While both approaches have their limitations and flaws, both suggest there is **some** evidence for a psychological investor bias that benefits tokens in the price range of $10.00 up to $100.00, and that there may be a bias harming tokens with a price below $0.01. While the expected benefits are minor, builders can select a max supply in order to target this range of price per token (1mm to 10mm for most projects).
 
 </aside>
 
@@ -4881,10 +4881,10 @@ Inflation (dilution) rates are biased to be highest when a token first launches 
 
 Monthly annualized rates of inflation for a linear emissions curve over 5 years compared to an optimized sigmoid curve.
 
-An optimized sigmoid curve reduces inflation when the project is most susceptible to pump-and-dumps, effectively smoothing the ****rate**** of inflation more evenly over the total schedule.
+An optimized sigmoid curve reduces inflation when the project is most susceptible to pump-and-dumps, effectively smoothing the **rate** of inflation more evenly over the total schedule.
 
 <aside>
-💡 Whereas linear emissions smooth the ***************absolute amount*************** of tokens emitted over the total schedule, a sigmoid curve smooths the **************inflation rate************** at which tokens are emitted over the total schedule.
+💡 Whereas linear emissions smooth the **absolute amount** of tokens emitted over the total schedule, a sigmoid curve smooths the **inflation rate** at which tokens are emitted over the total schedule.
 
 </aside>
 
@@ -4921,7 +4921,7 @@ An alternative is KPI or “productivity linked” emissions - emissions don’t
 The benefits of these emissions include:
 
 - Better aligned the team, users, and investor incentives to grow the protocol
-- Enables emissions that are ************net nondilutive************ per valuation metrics (e.x. the number of tokens per TVL does not increase as a function of emissions)
+- Enables emissions that are **net nondilutive** per valuation metrics (e.x. the number of tokens per TVL does not increase as a function of emissions)
 - Reduces dilution when likely most important to do so, during bear markets or natural slower periods of growth
 
 The primary potential drawback is that if users are primarily driven by emissions, a slowdown in emissions when a slowdown in growth occurs can worsen the effects of the slowdown. Some ways to mitigate this downside include:
@@ -4963,23 +4963,23 @@ Thus, these standards serve as a starting place to customize - though builders s
 | Team | 5+ years | N/A | 1-2 years | Sigmoid | Continuous |
 | Advisors | 3+ years | N/A | 1 year | Sigmoid | Continuous |
 | Investors | 2+ years | N/A | 1 year | Sigmoid | Continuous |
-- ********Team********
+- **Team**
 *Core team and project contributors*
 Typical 15% ; Range 15% - 20%
-- ****************Advisors****************
+- **Advisors**
 *Advisors and partners*
 Typical 5% ; Range 3% - 6%
-- ******************Investors******************
+- **Investors**
 *Private investors, angels, and VCs*
 Typical 15%; Range 10% - 20%
-- ****************Treasury****************
-*******Tokens generally held in a smart contract to be allocated at the discretion of the team and/or governance votes for development, partnerships, marketing, or other measures*******
+- **Treasury**
+**Tokens generally held in a smart contract to be allocated at the discretion of the team and/or governance votes for development, partnerships, marketing, or other measures**
 Typical 20%; Range 15 - 30%
-- **********************************Community Rewards**********************************
-********Staking, liquidity, or other rewards to the community, either according to an emissions schedule or ad-hoc at the discretion of the team and/or governance votes********
+- **Community Rewards**
+**Staking, liquidity, or other rewards to the community, either according to an emissions schedule or ad-hoc at the discretion of the team and/or governance votes**
 Typical 40%; Range 20% - 50%
-- **************Airdrop**************
-*******************Issued to users/testers, community members, and/or a competitor’s users (vampire attack)*******************
+- **Airdrop**
+**Issued to users/testers, community members, and/or a competitor’s users (vampire attack)**
 Typical 5%; Range 5% - 10%
 
 ![Modern industry-standard token allocations](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/df08f10c-e2eb-42af-af02-52596da96ee9/allocation_piechart.png)
@@ -5019,7 +5019,7 @@ There are several detailed analyses of vesting data we can draw inferences from.
 
 How are builders to reconcile these findings?
 
-- First and foremost - keep in mind that neither report’s findings make any claims about being statistically significant - usually indicator findings are ***not*** significant. Explanatory power that is quantified in the reports is extremely weak - an entirely plausible reason the reports seem to contradict each other is that both are mostly random noise!
+- First and foremost - keep in mind that neither report’s findings make any claims about being statistically significant - usually indicator findings are **not** significant. Explanatory power that is quantified in the reports is extremely weak - an entirely plausible reason the reports seem to contradict each other is that both are mostly random noise!
 - Both reports suggest that tokens should aim to emit a cumulative majority of their total supply sooner rather than later. We discussed the benefits of doing this earlier, in the context of sigmoid emissions curves vs linear emission curves.
 - The first report seems to give mixed signals around the size of unlocks - it mentions larger unlocks have less negative impact, but does not get into the data on this point, and separately makes the claims that shorter cliffs (smaller unlocks) perform better than longer cliffs (larger unlocks), and that gradual linear unlocks perform better than more discrete unlocks (which all else equal would be larger than continuous linear unlocks).
 This inconsistency, combined with better-quantified results from other analyses, likely indicates that more continuous, smaller unlocks are more desirable. This would also be consistent with data from traditional finance and economics - sharp jumps in supply are likely undesirable, although an important exception to this may be KPI-based emissions/vesting as we previously discussed.
@@ -5031,7 +5031,7 @@ A reasonably long vesting period is healthy when it aligns the incentives of the
 
 </aside>
 
-****************************Best Practices (Optimized Vesting)****************************
+**Best Practices (Optimized Vesting)**
 
 | Industry Standards | Vesting Length | Vesting Cliff | Vesting Delay | Vesting Type | Vesting Frequency |
 | --- | --- | --- | --- | --- | --- |
@@ -5057,9 +5057,9 @@ This means that if not planned carefully, sequential airdrops can essentially ju
 
 https://twitter.com/spencecoin/status/1532180927291346945?s=20
 
-A similar end goal could be achieved via only airdropping tokens to wallets that agree to receive airdrops in the form of tokens that are locked for a period of time, say for one year. The challenge is that there is no opportunity cost with airdropped tokens - even if you only give airdrop eligibility to wallets that opt-in to receive rewards locked for one year, it’s still “free money”. From the perspective of the airdrop recipient, they still don’t lose or risk anything even if the token price declines during the year since the airdrop, because they wouldn’t have received *****anything***** if they had not opted into the “locked airdrop” in the first place.
+A similar end goal could be achieved via only airdropping tokens to wallets that agree to receive airdrops in the form of tokens that are locked for a period of time, say for one year. The challenge is that there is no opportunity cost with airdropped tokens - even if you only give airdrop eligibility to wallets that opt-in to receive rewards locked for one year, it’s still “free money”. From the perspective of the airdrop recipient, they still don’t lose or risk anything even if the token price declines during the year since the airdrop, because they wouldn’t have received **anything** if they had not opted into the “locked airdrop” in the first place.
 
-The easiest and more direct way to impose an opportunity cost is to ****sell**** tokens instead of airdrop them - but this is not always feasible for regulatory reasons (speak to a lawyer) nor is it necessary as effective for awareness, marketing, and widespread token distribution.
+The easiest and more direct way to impose an opportunity cost is to **sell** tokens instead of airdrop them - but this is not always feasible for regulatory reasons (speak to a lawyer) nor is it necessary as effective for awareness, marketing, and widespread token distribution.
 
 https://twitter.com/ljin18/status/1625881752815259653?s=20
 
@@ -5089,10 +5089,10 @@ Some popular examples of sinks include:
 
 In particular, Curve’s “vote escrow” staking model and GMX’s escrowed rewards are two of the most popular, and often imitated, token sink mechanics in recent years. See [Chapter 1.6](https://www.notion.so/1-6-A-Must-Know-History-of-Tokenomics-562de02145a64a9aa529425db7b3339d?pvs=21) for a brief discussion of each.
 
-Not all sinks are necessarily healthy or sustainable - adding sinks to an otherwise useless token only delays the inevitable crash, it does not add any value to the token itself. For example, adding staking rewards to a token that does absolutely nothing does create a sink for the token, but it doesn’t create any new demand, utility, use case, or value for the token itself. All it does is ***********temporarily*********** reduce velocity and circulating supply. This is why…
+Not all sinks are necessarily healthy or sustainable - adding sinks to an otherwise useless token only delays the inevitable crash, it does not add any value to the token itself. For example, adding staking rewards to a token that does absolutely nothing does create a sink for the token, but it doesn’t create any new demand, utility, use case, or value for the token itself. All it does is **temporarily** reduce velocity and circulating supply. This is why…
 
 <aside>
-💡 Contrary to how it’s usually presented in white papers, staking is not a use case or token utility - it’s a ******supply****** mechanism.
+💡 Contrary to how it’s usually presented in white papers, staking is not a use case or token utility - it’s a **supply** mechanism.
 
 The obvious exceptions are staking that performs a role, such as in Proof-of-Stake consensus, or staking that insures or collateralizes a protocol as a last measure in emergencies.
 
@@ -5109,7 +5109,7 @@ For example, OHM’s ponzinomic (3,3) token sink, which encouraged existing hold
 
 </aside>
 
-This is why token sinks alone are not sufficient. They can serve useful to improving security (e.x. collateral), aligning incentives (e.x. stake to earn protocol revenues), and achieving other legitimate benefits, but token sinks can not, and do not, replace the need for ******demand****** for the token, which comes from use cases and utility, not from locking up supply in a sink.
+This is why token sinks alone are not sufficient. They can serve useful to improving security (e.x. collateral), aligning incentives (e.x. stake to earn protocol revenues), and achieving other legitimate benefits, but token sinks can not, and do not, replace the need for **demand** for the token, which comes from use cases and utility, not from locking up supply in a sink.
 
 (Technically the one exception to this is if the token itself is a form of money, but as discussed in [Chapter 1.5](https://www.notion.so/1-5-Types-of-Tokens-1e1f4f7120144ec4a83baa1dee9b3e7e?pvs=21), this is almost always a mistake for builders to attempt).
 
@@ -5144,7 +5144,7 @@ As we’ll see next chapter, no one can predict the future, but that doesn’t m
 # Primary Tool: Tokenomics Modeling Template
 
 <aside>
-💡 Complete “Step 5: Supply Policy” of the ************************************************[Tokenomics Design Canvas](https://www.notion.so/Tokenomics-Design-Canvas-9b15bbd593504e9cbb91f82f95f75ca9?pvs=21)** by filling out the “Supply (Allocation & Emissions)” tab of the [**Tokenomics Modeling Template**](https://docs.google.com/spreadsheets/d/13uc39fMqLb1RKvcGk9s_whwZXgkftfaFLcgPkJpG9YI/edit?usp=sharing). You can save an editable copy of the template by clicking **File > Make a Copy**.
+💡 Complete “Step 5: Supply Policy” of the **[Tokenomics Design Canvas](https://www.notion.so/Tokenomics-Design-Canvas-9b15bbd593504e9cbb91f82f95f75ca9?pvs=21)** by filling out the “Supply (Allocation & Emissions)” tab of the [**Tokenomics Modeling Template**](https://docs.google.com/spreadsheets/d/13uc39fMqLb1RKvcGk9s_whwZXgkftfaFLcgPkJpG9YI/edit?usp=sharing). You can save an editable copy of the template by clicking **File > Make a Copy**.
 
 The template is **pre-populated with best practices for optimized allocations, emissions, and vesting periods** based on multiple quantitative analyses described in full in the corresponding chapter of the Tokenomics for Builders guide.
 
@@ -5193,11 +5193,11 @@ The second reason “Modeling is useful for predicting token price” is wrong, 
 This belief about modeling is a telltale sign of an amateur builder. Acting on this misled belief, these builders either think they can predict the future, and thus put blind confidence in an overly simplistic model, or they think predicting the future is impossible, so they don’t do any modeling at all.
 
 <aside>
-💡 What beginners fail to understand, is that modeling is not useful for *******************predicting outcomes*******************, it’s useful for ***************analyzing risks.*************** In other words, modeling is not about understanding what ****will**** happen, it’s about understanding what ***can*** happen and the ***************relative probabilities*************** of various outcomes.
+💡 What beginners fail to understand, is that modeling is not useful for **predicting outcomes**, it’s useful for **analyzing risks.** In other words, modeling is not about understanding what **will** happen, it’s about understanding what **can** happen and the **relative probabilities** of various outcomes.
 
 </aside>
 
-In other words, modeling is not about understanding what ****will**** happen, it’s about understanding what ***can*** happen and the ***************relative probabilities*************** of different outcomes.
+In other words, modeling is not about understanding what **will** happen, it’s about understanding what **can** happen and the **relative probabilities** of different outcomes.
 
 Modeling allows designers to quantify risks, identify key assumptions, and optimize system design to strike the best risk-to-reward balance for their use case and avoid catastrophic events before they happen.
 
@@ -5211,13 +5211,13 @@ Put simply, the exploiter intentionally manipulated the oracle price of an illiq
 
 Source: [Coindesk](https://www.coindesk.com/tech/2022/10/20/defi-exchange-mangos-114m-exploit-was-market-manipulation-not-a-hack-ex-fbi-special-agent-says/)
 
-It would be impossible to ********predict******** that in the future that particular asset would hit an inflated price and cause the protocol to go bankrupt - but that’s not the point of modeling.
+It would be impossible to **predict** that in the future that particular asset would hit an inflated price and cause the protocol to go bankrupt - but that’s not the point of modeling.
 
-The point of modeling is to run scenario analyses to check what ******can****** happen.
+The point of modeling is to run scenario analyses to check what **can** happen.
 
 For example, random walks with sufficient volatility, or even simple boundary analysis - setting prices to suddenly move to approach infinity, or approach zero, would demonstrate that short term, temporary spikes in prices allow for borrowing dangerously high amounts against open positions.
 
-Modeling shows abuse ***can*** happen. It does not predict when, where, or the exact specifics of how it ****will**** happen.
+Modeling shows abuse **can** happen. It does not predict when, where, or the exact specifics of how it **will** happen.
 
 While Mango Markets is a good example on the importance of modeling, it can be difficult to grasp the underlying concepts when we just look at a high-level example.
 
@@ -5237,9 +5237,9 @@ A beginner might say yes. But the real answer is it depends.
 
 In our example, betting on Argentina has a $1.00 loss if they actually lose, but only a net $0.25 profit if they do indeed win. The oddsmakers are effectively saying Argentina has an 80% chance of wining the game (thus implying a 20% chance for France to win, implying a 5-to-1 payout).
 
-Imagine the ****true odds****, which your friend knows, are that Argentina has a 60% chance of winning the game. In this case, you actually shouldn’t bet on them.
+Imagine the **true odds**, which your friend knows, are that Argentina has a 60% chance of winning the game. In this case, you actually shouldn’t bet on them.
 
-To be clear, 60% if still a majority - a beginner would be correct that Argentina is ***********************************expected to win the game on average***********************************, but the expert knows that is not what matters. Even though Argentina is “predicted” to win the game, betting on them is the wrong bet.
+To be clear, 60% if still a majority - a beginner would be correct that Argentina is **expected to win the game on average**, but the expert knows that is not what matters. Even though Argentina is “predicted” to win the game, betting on them is the wrong bet.
 
 The beginner bets on Argentina because ”Argentina is expected to win”
 
@@ -5258,7 +5258,7 @@ In the long-run, the professional makes a profit, while the beginner will eventu
 No one can predict the future and no one can design a system with zero risks. Nevertheless, your job as a builder is to use modeling to understand and quantify these risks, in order to optimize your approach, and not end up like the beginner in our example.
 
 <aside>
-💡 Optimizing complex systems isn’t about predicting what will happen or is most likely to happen, it’s about understanding the ************************relative probabilities************************ of a full spectrum of outcomes, and the ***************************relative costs and benefits*************************** of those outcomes, in order to be able assess how design choices minimize risks or maximize chances for a given outcome.
+💡 Optimizing complex systems isn’t about predicting what will happen or is most likely to happen, it’s about understanding the **relative probabilities** of a full spectrum of outcomes, and the **relative costs and benefits** of those outcomes, in order to be able assess how design choices minimize risks or maximize chances for a given outcome.
 
 </aside>
 
@@ -5301,7 +5301,7 @@ For instance, if you’re designing a system like Maker’s CDP vaults, the risk
 
 As you can see, things quickly get complex.
 
-Does this mean it’s **********impossible********** or *******useless******* to model CDP vaults?
+Does this mean it’s **impossible** or **useless** to model CDP vaults?
 
 No - in fact it means the exact opposite. The more complex a system the harder it is for a human designer to know how their design will function in various situations and conditions. 
 
@@ -5314,10 +5314,10 @@ It just means that spreadsheet modeling is likely not the best approach in this 
 
 This brings us to our dilemma. Quantifying the risks to the protocol is a necessary step to optimize its design and parameters. Yet to do so, we need to account for complex simulations of inherent randomness that will influence the system.
 
-A simple spreadsheet with one field for each of these factors, for example a cell for “how much did collateral assets fall”, clearly ****can not**** achieve this - it does not represent any randomness or path dependency over time.
+A simple spreadsheet with one field for each of these factors, for example a cell for “how much did collateral assets fall”, clearly **can not** achieve this - it does not represent any randomness or path dependency over time.
 
 > In mathematics, computer science and physics, a **deterministic** system is a system in which no randomness is involved in the development of future states of the system. A deterministic model will thus always produce the same output from a given starting condition or initial state.
-****Source: [Wikipedia](https://en.wikipedia.org/wiki/Deterministic_system)
+**Source: [Wikipedia](https://en.wikipedia.org/wiki/Deterministic_system)
 > 
 
 We can change the inputs to the cells, but each time we use the same inputs and “run” the model, we get the same output - it is a deterministic model.
@@ -5334,7 +5334,7 @@ Source: [Wikipedia](https://en.wikipedia.org/wiki/Stochastic_modelling_(insuranc
 
 A common method used in stochastic modeling is Monte Carlo simulations. In simple terms, Monte Carlo simulations generate simulated paths of how a variable like asset price, product usage, network growth, interest rates, or system load will play out over time.
 
-To ensure even unlikely events are included, tens of thousands of simulations (or more) are generated. You can think of each of these paths as a potential universe that ***may*** or *******may not******* play out in the future. The point is not to predict which universe will occur, or what will actually happen, but to quantify the relative probabilities of different outcomes, and be able to assess what would happen to your system at each step along these thousands of possible futures.
+To ensure even unlikely events are included, tens of thousands of simulations (or more) are generated. You can think of each of these paths as a potential universe that **may** or **may not** play out in the future. The point is not to predict which universe will occur, or what will actually happen, but to quantify the relative probabilities of different outcomes, and be able to assess what would happen to your system at each step along these thousands of possible futures.
 
 <aside>
 💡 For example, imagine there’s a 50% chance a coin lands on heads or tails, and you will go bankrupt if the coin lands on 10 tails in a row. A Monte Carlo simulation isn’t needed for this simple case, but you could use one to understand and quantify your risk.
@@ -5345,13 +5345,13 @@ While this example may seem trivial, replace the “coin” with “UST”, and 
 
 Stochastic modeling allows builders to identify unlikely but catastrophic systemic risks ahead of time, and to accordingly optimize their systems in an empirical way.
 
-This is exactly why it’s a giant red flag when builders don’t have any modeling ******before****** launching their token, or perhaps worse, when they publish “[dangerously oversimplified](https://youtu.be/lL13Puz-oSE?t=512)” analyses that do not reflect the randomness, path dependency, and emergent characteristics of a repeatedly run complex system.
+This is exactly why it’s a giant red flag when builders don’t have any modeling **before** launching their token, or perhaps worse, when they publish “[dangerously oversimplified](https://youtu.be/lL13Puz-oSE?t=512)” analyses that do not reflect the randomness, path dependency, and emergent characteristics of a repeatedly run complex system.
 
 ## Agent Based
 
-Most models, both stochastic and deterministic, are conducted in an “aggregated” manner. For instance, in the Maker CDP model, we could look at the ********average******** or ******total****** vault collateral. The *****average***** or *****total***** amount of outstanding DAI liabilities.
+Most models, both stochastic and deterministic, are conducted in an “aggregated” manner. For instance, in the Maker CDP model, we could look at the **average** or **total** vault collateral. The **average** or **total** amount of outstanding DAI liabilities.
 
-Many times this is perfectly acceptable. For instance if we care about ************in aggregate************ does the Maker protocol become undercollateralized, then total collateral and total liabilities is ultimately what matters. It doesn’t really what what happens to one specific user because even if their vault is undercollateralized, as long as other vaults have sufficient net collateral balances to cover the discrepancy, those vaults can be liquidated.
+Many times this is perfectly acceptable. For instance if we care about **in aggregate** does the Maker protocol become undercollateralized, then total collateral and total liabilities is ultimately what matters. It doesn’t really what what happens to one specific user because even if their vault is undercollateralized, as long as other vaults have sufficient net collateral balances to cover the discrepancy, those vaults can be liquidated.
 
 But some granularity is inherently lost in this approach. Just because an average user has a certain collateralization ratio doesn’t mean every user does. Some users will inherently have more risk, and get liquidated before the average user does, and this could trigger other users next in line to get liquidated early in order to cover any collateralization shortfalls.
 
@@ -5374,7 +5374,7 @@ What does this simple example have to do with crypto? Replace “rock, paper, sc
 
 Each of the three approaches we’ve discussed has its relative strengths and weaknesses.
 
-************************Pros and Cons of each Modeling Approach************************
+**Pros and Cons of each Modeling Approach**
 
 | Approach | Pros | Cons |
 | --- | --- | --- |
@@ -5386,7 +5386,7 @@ Which approach makes sense for your use case depends on the granularity level of
 
 That said, there isn’t necessarily only one way of doing things - any of the approaches can be applied to any use case, just be aware that in some cases a certain approach might not be rigorous enough, where another approach would be overkill.
 
-************************Examples of Each Modeling Approach in Various Use Cases************************
+**Examples of Each Modeling Approach in Various Use Cases**
 
 | Use Case | Deterministic | Stochastic | Agent Based |
 | --- | --- | --- | --- |
@@ -5407,11 +5407,11 @@ An optimization function seeks to minimize or maximize a specific variable or me
 Remember that you’re not trying to predict the future, but generally you are trying to minimize some kind of risk, maximize adoption, or optimize for some “sweet spot” in various factors (i.e. most adoption per unit of risk).
 
 <aside>
-💡 There is no such thing as **“the **best approach” or “the best tokenomics” for every situation. Every design decision is a tradeoff, and the right design for your context depends on ****what**** you are optimizing, maximizing, or minimizing.
+💡 There is no such thing as **“the **best approach” or “the best tokenomics” for every situation. Every design decision is a tradeoff, and the right design for your context depends on **what** you are optimizing, maximizing, or minimizing.
 
 </aside>
 
-In order to approach modeling in a productive way, go back to the “**Incentives Mechanisms**” sheet you completed in the ************************************************************[Tokenomics Design Canvas************************************************************.](https://www.notion.so/Tokenomics-Design-Canvas-9b15bbd593504e9cbb91f82f95f75ca9?pvs=21) What open questions remain? What assumptions need to be tested and validated?
+In order to approach modeling in a productive way, go back to the “**Incentives Mechanisms**” sheet you completed in the **[Tokenomics Design Canvas**.](https://www.notion.so/Tokenomics-Design-Canvas-9b15bbd593504e9cbb91f82f95f75ca9?pvs=21) What open questions remain? What assumptions need to be tested and validated?
 
 The “**Economic Security Framework**” framework (which you’ll be asked to complete at the end of this chapter) helps to further specify which parameters you need to optimize or risks you need to minimize.
 
@@ -5443,13 +5443,13 @@ You should also feed in “artificial” boundary data - essentially asking: “
 
 This type of boundary analysis is simple but effective for detecting risks that have gone overlooked because the situations necessary for them to appear happen very rarely.
 
-The results will describe situations that are very unlikely to occur, but which ****can**** occur, which is the entire benefit of modeling in the first place. You get a chance to fix and optimize things before they matter because once live, it’s only a matter of time until a rare event inevitably occurs - you don’t want the entire product to collapse when it does due to an oversight.
+The results will describe situations that are very unlikely to occur, but which **can** occur, which is the entire benefit of modeling in the first place. You get a chance to fix and optimize things before they matter because once live, it’s only a matter of time until a rare event inevitably occurs - you don’t want the entire product to collapse when it does due to an oversight.
 
 ## Find Unvalidated Assumptions
 
 If you’re making use of an oracle - how do you know that oracle is correct? Does your system assume the oracle is right 100% of the time?
 
-What happens if you model out a scenario where the oracle has a bug and is wrong? Do you have risk controls in place? Does your product explode? Did your system inherently ***assume*** the oracle will never have a bug?
+What happens if you model out a scenario where the oracle has a bug and is wrong? Do you have risk controls in place? Does your product explode? Did your system inherently **assume** the oracle will never have a bug?
 
 https://twitter.com/SBF_FTX/status/1580170218789253123?s=20
 
@@ -5459,7 +5459,7 @@ If you’re making use of collateral, how do you know that collateral is worth w
 
 Lending markets like AAVE put themselves at considerable risk of bad debt due to overlending against CRV collateral, to the point where nearly 50% of the circulating supply of CRV was being used as collateral for various loans. AAVE was inherently assuming that the CRV collateral could be liquidated at current prices, but liquidating 50% of the circulating supply at once would easily break that assumption. While [AAVE v3 has risk controls about the maximum amount of collateral to accept in a given token](https://governance.aave.com/t/gauntlet-methodologies-borrow-and-supply-cap/11487), v2 does not - another example of invalidated assumptions putting the protocol at risk.
 
-Subtle differences in how risk controls and parameters are calculated can make a large difference in the level of mitigation they provide. For example, a trailing *******average******* of collateral asset prices is likely a more reliable indicator of price than the spot price at any given period in time. But the *******arithmetic mean******* is more easily manipulated to the upside by a single outlier, whereas ********[geometric means](https://www.investopedia.com/ask/answers/06/geometricmean.asp)******** are less sensitive in this case (see the table below).
+Subtle differences in how risk controls and parameters are calculated can make a large difference in the level of mitigation they provide. For example, a trailing **average** of collateral asset prices is likely a more reliable indicator of price than the spot price at any given period in time. But the **arithmetic mean** is more easily manipulated to the upside by a single outlier, whereas **[geometric means](https://www.investopedia.com/ask/answers/06/geometricmean.asp)** are less sensitive in this case (see the table below).
 
 | Time | Raw Prices | 5min Arithmetic Mean | 5min Cumulative Geometric Mean | Arithmetic v.s. Geometric Difference |
 | --- | --- | --- | --- | --- |
@@ -5475,7 +5475,7 @@ Subtle differences in how risk controls and parameters are calculated can make a
 | 12:09 | $20.00 | $32.00 | $26.39 | 21.3% |
 | 12:10 | $20.00 | $20.00 | $20.00 | 0.0% |
 
-Both the **arithmetic mean** and the ********geometric mean******** are widely accepted forms of calculating an *******average******* of a series of numbers, such as trailing prices over the past N minutes, hours, or days, but which you choose can have a direct impact on how easy it is to manipulate the assumptions your model is built on. In the simple example above, a single temporary spike in price increases the trailing arithmetic mean by more than 20% than it increases the trailing geometric mean.
+Both the **arithmetic mean** and the **geometric mean** are widely accepted forms of calculating an **average** of a series of numbers, such as trailing prices over the past N minutes, hours, or days, but which you choose can have a direct impact on how easy it is to manipulate the assumptions your model is built on. In the simple example above, a single temporary spike in price increases the trailing arithmetic mean by more than 20% than it increases the trailing geometric mean.
 
 If this were prices of a collateral asset that users can borrow against, using the arithmetic mean makes it easier for attackers to manipulate collateral values higher, and then borrow more debt.
 
@@ -5485,7 +5485,7 @@ https://twitter.com/danrobinson/status/1455237045568348163?s=20
 
 ## Iterate, Don’t be A Perfectionist
 
-By definition, all models are imperfect approximations of more complex systems. Models do not need to be *******perfect******* in order to be *useful.* It’s easy to say something can’t be perfectly modeled - but that isn’t a reason to not model it.
+By definition, all models are imperfect approximations of more complex systems. Models do not need to be **perfect** in order to be *useful.* It’s easy to say something can’t be perfectly modeled - but that isn’t a reason to not model it.
 
 > “All models are wrong, but some are useful.”
 - George E. P. Box
@@ -5499,7 +5499,7 @@ This is particularly true for your first draft. In general, a sound approach to 
 
 # A Note on Valuation Models
 
-As we’ve seen in this chapter, modeling is ******not****** about forecasting price - it’s about risk management.
+As we’ve seen in this chapter, modeling is **not** about forecasting price - it’s about risk management.
 
 In order to launch their product, builders often have to raise money though, which may mean pitching angels, VCs, or other investors - and investors generally want to see projections.
 
@@ -5527,7 +5527,7 @@ In traditional finance, a common valuation approach for investments is to analyz
 
 This too, is not generally a very practical approach for tokens, where future cash flows may not even exist (for example ETH does not “earn revenue” and yet clearly has a market value) or may be exceptionally far into the future, and the question of which interest rate to use for discounting is highly subjective.
 
-It certainly ***can*** be applied to tokens…
+It certainly **can** be applied to tokens…
 
 ![Sample Discounted Cash Flow (DCF) valuation approach…](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/91dbd8e5-170d-4f3f-832e-3330572880ee/Untitled.png)
 
@@ -5549,7 +5549,7 @@ This brings us to…
 
 This approach is one of the most general and flexible, as well as one of the easiest to interpret. It makes use of the “cheat” that we don’t need to answer the question of valuation from scratch when the free market has already done most of the work for us.
 
-In other words, all we need to do is figure out the valuation *********relative********* to similar projects that already have a market-determined valuation.
+In other words, all we need to do is figure out the valuation **relative** to similar projects that already have a market-determined valuation.
 
 In TradFi this is typically done within a given industry, to ensure comps are similar, and based on specific valuation metric(s) such Price-to-Earnings or Price-to-Sales.
 
@@ -5641,7 +5641,7 @@ https://drive.google.com/drive/folders/1mKZVGR5_qsrbP9mVkMddLrB791NPeOHP?usp=sha
 "YOUR_NAME_Quantitative_Token_Model_Vx.xx" in your personal Google Drive directory
 3. Open it from your own directory and start working with it
 
-************************************************************************************************************************************If the latest version is unavailable, an earlier version is available here:************************************************************************************************************************************
+**If the latest version is unavailable, an earlier version is available here:**
 
 https://docs.google.com/spreadsheets/d/1uhtTgkTSYYtyOUOcklY-5Zl1uiEjhfAnCiKj5zXmNds/edit?usp=sharing
 
@@ -5680,11 +5680,11 @@ Learning](https://www.scitepress.org/Papers/2021/103928/103928.pdf)
 # Primary Tool: Modeling Tools & Tokenomics Design Canvas (TDC)
 
 <aside>
- 💡 Complete “Step 6: Economic Security Framework” of the ************************************************[Tokenomics Design Canvas](https://www.notion.so/Tokenomics-Design-Canvas-9b15bbd593504e9cbb91f82f95f75ca9?pvs=21).**
+ 💡 Complete “Step 6: Economic Security Framework” of the **[Tokenomics Design Canvas](https://www.notion.so/Tokenomics-Design-Canvas-9b15bbd593504e9cbb91f82f95f75ca9?pvs=21).**
 
 [Tokenomics Design Canvas](https://www.notion.so/Tokenomics-Design-Canvas-9b15bbd593504e9cbb91f82f95f75ca9?pvs=21)
 
-Having completed the *****************************Incentive Mechanism Framework***************************** and ****************************Economic Security Frameworks**************************** you should have a good idea of the specific questions, assumptions, parameters, and risks you need to stress test and quantify.
+Having completed the **Incentive Mechanism Framework** and **Economic Security Frameworks** you should have a good idea of the specific questions, assumptions, parameters, and risks you need to stress test and quantify.
 
 To do so, make use of one of the following recommended modeling tools below:
 
@@ -5741,7 +5741,7 @@ Keep in mind, even if a lawyer shoots down your initial design, you can work wit
 
 # Top 5 Legal ‘Rules of the Road’
 
-*******This list is directly quoted from Miles Jennings. Read [his original thread here](https://twitter.com/milesjennings/status/1550541473443000321?s=20).*
+**This list is directly quoted from Miles Jennings. Read [his original thread here](https://twitter.com/milesjennings/status/1550541473443000321?s=20).*
 
 1. “Don’t sell tokens to U.S. persons for fundraising purposes.”
 2. “Even if you aren’t selling tokens, don’t ever market/hype them as an investment opportunity.”
@@ -5755,7 +5755,7 @@ This brief guide by lawyer Clarence Guo succinctly covers many of the questions 
 
 https://drive.google.com/file/d/1gnzmPRHbod6gOBMI14aDElqoV9-XHGDz/view
 
-(***************************************************************If the above preview does not render [you can also find it here](https://drive.google.com/file/d/1gnzmPRHbod6gOBMI14aDElqoV9-XHGDz/view))*
+(**If the above preview does not render [you can also find it here](https://drive.google.com/file/d/1gnzmPRHbod6gOBMI14aDElqoV9-XHGDz/view))*
 
 Here are some **direct quote** highlights from the guide above:
 
@@ -5881,7 +5881,7 @@ If you like to assist with any of the below, please [get in touch](https://linkt
 
 ### Research Reports
 
-- **************************[Messari Research](https://messari.io/research)**************************
+- **[Messari Research](https://messari.io/research)**
 - [**Prime Rating**](https://www.prime.xyz/rating-defi)
 - [**CryptoEQ**](https://www.cryptoeq.io/dashboard)
 - [**Tokenomics Hub**](https://www.tokenomicshub.xyz/)
