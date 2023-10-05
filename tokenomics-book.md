@@ -1,4 +1,4 @@
-## **Tokenomics for Builders: The Comprehensive Practitioner’s Guide to Token Design**
+# **Tokenomics for Builders: The Comprehensive Practitioner’s Guide to Token Design**
 
 by [MattyTokenomics](https://www.notion.so/Tokenomics-for-Builders-The-Comprehensive-Practitioner-s-Guide-to-Token-b5154feba117415cafd67678355e317b?pvs=21) with special thanks to [The Stacks Foundation](https://www.notion.so/Tokenomics-for-Builders-The-Comprehensive-Practitioner-s-Guide-to-Token-b5154feba117415cafd67678355e317b?pvs=21) and [additional contributors](https://www.notion.so/Tokenomics-for-Builders-The-Comprehensive-Practitioner-s-Guide-to-Token-b5154feba117415cafd67678355e317b?pvs=21)
 
@@ -81,7 +81,7 @@ Special thanks to [The Stacks Foundation](https://stacks.org/) for contributing 
     - [Please DM me how you would like me to cite you in this section if I have forgotten to include you!]
 
 
-## 1.1 Why does Tokenomics Matter?
+# 1.1 Why does Tokenomics Matter?
 
 You’re a blockchain developer or founder (or aspire to be one). Maybe you already have a problem in mind you want to solve. Maybe you’ve already designed a great solution to the problem that people will love.
 
@@ -389,7 +389,7 @@ While decentralized governance is not without its problems (from whale takeovers
 - Paper, [Incentivized Blockchain-based Social Media Platforms: A Case Study of Steemit](https://arxiv.org/pdf/1904.07310.pdf)
 - Twitter Spaces, [How to grow a DeFi protocol](https://twitter.com/Blockworks_/status/1671621347578105858?s=20)
 
-## 1.2 What is Tokenomics?
+# 1.2 What is Tokenomics?
 
 Tokenomics can be a loaded term - it’s easier to answer what it *isn’t*, rather than what it is.
 
@@ -912,7 +912,7 @@ But until the market further matures, projects with ponzi scheme tokenomics (pon
 - Blog, [Tokens are Products](https://variant.fund/articles/tokens-are-products/) (a good article, though the title is misleading)
 - Blog, [ETH is Not Ultrasound Money](https://joncharbonneau.substack.com/p/eth-is-not-ultrasound-money-part)
 
-## 1.3 The Good, The Bad, and The Ugly
+# 1.3 The Good, The Bad, and The Ugly
 
 As discussed so far, tokens help with directing user behaviors, bootstrapping network effects, and enabling user ownership - but they do not replace the need for a solid product that solves a real user problem.
 
@@ -1285,7 +1285,7 @@ It’s no easy feat to replicate the success of protocols like Maker, Curve, and
 - Blog, [Creating a Sustainable Token-Based Economy](https://medium.com/the-interchain-foundation/creating-a-sustainable-token-based-economy-98b46d20796b)
 - Blog (Archived), [Entrepreneurs who use Utility Tokens to reduce CAC (Customer Acquisition Cost) will create the most valuable Security Tokens](https://web.archive.org/web/20230201195247/https://dailyfintech.com/2019/04/13/entrepreneurs-who-use-utility-tokens-to-reduce-cac-customer-acquisition-cost-will-create-the-most-valuable-security-tokens/)
 
-## 1.4 Does Every Project Need a Token?
+# 1.4 Does Every Project Need a Token?
 
 To get right to the question posed by this chapter’s title… No. Not every project **needs** a token.
 
@@ -1571,7 +1571,7 @@ Even if you need a token at some point, you probably aren’t ready to launch on
 - Blog, [Decentralization for Web3 Builders: Principles, Models, How To](https://future.com/web3-decentralization-models-framework-principles-how-to/#section--2)
 - Blog, [5 Lessons from a Failed Token Sale](https://medium.com/snips-ai/5-lessons-from-a-failed-token-sale-410e47a66647)
 
-## 1.5 Types of Tokens
+# 1.5 Types of Tokens
 
 First and foremost, builders need to understand that no universally accepted, formal classification system for tokens exists.
 
@@ -1982,7 +1982,7 @@ Staking rewards paid funded by product revenues (i.e. buyback and distribute tok
 - Blog, [A Novel Framework for Reputation-Based Systems](https://future.com/reputation-based-systems/)
 - Paper, [Tokenomics and blockchain tokens: A design-oriented morphological framework](https://www.sciencedirect.com/science/article/pii/S2096720922000094#sec7)
 
-## 1.6 A Must-Know History of Tokenomics
+# 1.6 A Must-Know History of Tokenomics
 
 ## Introduction
 
@@ -3512,7 +3512,7 @@ Until is is solved, Sybil attacks will remain a legitimate security risk to many
 - Blog, [What do I think about biometric proof of personhood?](https://vitalik.ca/general/2023/07/24/biometric.html)
 - Twitter Spaces, [GDAO 2yr Anniversary: State of the Union](https://twitter.com/Governor_DAO/status/1579237742357016578?s=20)
 
-## 2.0 General Principles & Mistakes to Avoid
+# 2.0 General Principles & Mistakes to Avoid
 
 <aside>
 ⚠️ If you’ve skipped ahead to Part Two of this guide. You may want to consider quickly checking out the [**Token Checklist** in Chapter 1.4](https://www.notion.so/1-4-Does-Every-Project-Need-a-Token-79f30dc5e5d34fcca18b7fbcfff3792f?pvs=21) to help you evaluate whether launching a token may be right for you, and whether you may be ready or not to do so.
@@ -3808,7 +3808,7 @@ With the recent crackdowns on Tornado Cash, including the arrest of a developer 
 
 ## Video Tutorial
 
-## 2.1 Objectives & Requirements
+# 2.1 Objectives & Requirements
 
 ## Introduction
 
@@ -3841,7 +3841,7 @@ You can find an example of the canvas and download a [printable version to compl
 
 ## Video Tutorial
 
-## 2.2 Value Accrual
+# 2.2 Value Accrual
 
 ## Introduction
 
@@ -4140,7 +4140,7 @@ You can find an example of the canvas and download a [printable version to compl
 
 https://youtu.be/F0H7K0F1L2o
 
-## 2.3 Lifecycle Patterns
+# 2.3 Lifecycle Patterns
 
 ## Introduction
 
@@ -4249,7 +4249,7 @@ You can find an example of the canvas and download a [printable version to compl
 
 ## Video Tutorial
 
-## 2.4 Incentive Mechanisms
+# 2.4 Incentive Mechanisms
 
 ## Introduction
 
@@ -4491,7 +4491,7 @@ You can find an example of the canvas and download a [printable version to compl
 
 https://youtu.be/9LpaeVXbJBI
 
-## 2.5 Supply Policy
+# 2.5 Supply Policy
 
 ## Introduction
 
@@ -5156,7 +5156,7 @@ https://docs.google.com/spreadsheets/d/13uc39fMqLb1RKvcGk9s_whwZXgkftfaFLcgPkJpG
 
 ## Video Tutorial
 
-## 2.6 Modeling & Optimization
+# 2.6 Modeling & Optimization
 
 ## Introduction
 
@@ -5703,7 +5703,7 @@ To do so, make use of one of the following recommended modeling tools below:
 
 https://youtu.be/PA3Rr1bfIgg
 
-## 2.7 Legal Opinion & Structure
+# 2.7 Legal Opinion & Structure
 
 ## Introduction
 
@@ -5825,7 +5825,7 @@ https://www.cryptoratingcouncil.com/the-framework
 
 ## Video Tutorial
 
-## Appendices
+# Appendices
 
 ### About the Author
 
