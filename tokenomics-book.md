@@ -186,7 +186,7 @@ The bootstrapping problem affects **every** marketplace business. And it’s a b
 
 To see why let’s visualize how valuable Uber is to users in aggregate (network value) compared to the total number of users in the network (size of the network):
 
-![](images/Critical-Mass.webp)
+![](images/1.1-critical-mass.webp)
 
 Source: [The Network Effects Bible](https://www.nfx.com/post/network-effects-bible)
 
@@ -217,7 +217,7 @@ Because network effects also apply to blockchain products. In fact, nearly every
 
 Network effects are not a theoretical concept that only shows up in MBA courses or VC blog posts. We can observe the quantified impact of Binance’s network effect with our own eyes.
 
-![](images/0_SLuqXnnuWKy9Bb15.png)
+![](images/1.1-network-effects.png)
 
 Source: [Kaiko Research: April 4, 2022](https://blog.kaiko.com/tether-market-liquidity-shows-strong-improvement-9a02afd613a1)
 
@@ -254,7 +254,7 @@ Like most non-blockchain tech companies, Uber can rely on its [proprietary techn
 
 On the other hand, Uniswap’s network effect is its *only* advantage other than brand loyalty.
 
-![](images/71bb7bb18e43ea7e5ebb5da8f7cbad.webp)
+![](images/1.1-web3-barriers-entry.webp)
 
 Source: **[Aggregators in Web2 vs Web3](https://messari.io/report/aggregators-in-web2-vs-web3?utm_source=twitter_messaricrypto&utm_medium=organic_social&utm_campaign=aggregators_in_web3)**
 
@@ -270,7 +270,7 @@ As we’ll cover more in [Chapter 1.6](https://www.notion.so/1-6-A-Must-Know-His
 
 To get a better sense of how tokens can help overcome this problem, consider the below chart of Filecoin’s network utility, split into 3 stages: building network capacity, scaling up, and reaching maturity/defensibility.
 
-![](images/filecoin-tokenomics.png)
+![](images/1.1-filecoin-tokenomics.png)
 
 Source: **[Filecoin Tokenomics Explained](https://academy.shrimpy.io/post/filecoin-tokenomics-explained)**
 
@@ -278,7 +278,7 @@ As we’ve discussed, the problem is that at the left side of the chart, when Fi
 
 This above chart of Filecoin’s network utility is essentially the “traditional network effect” portion of the chart below. Tokens come in as the green line, smoothing out total network utility so that even when Filecoin first launches, there is a draw for users to adopt the network.
 
-![](images/FApbdHkVUAITw7C.png)
+![](images/1.1-token-net-effect.png)
 
 Source: [The Web3 Playbook: Using Token Incentives to Bootstrap New Networks](https://twitter.com/cdixon/status/1444072365822857219?s=20&t=cBEs2jtFd6iTKpWOQvxofQ)
 
@@ -327,7 +327,7 @@ Early AirBnB hosts were pivotal to the ultimate success and growth of the produc
 
 As a new primitive of digital ownership, tokens enable new forms of community-owned networks, products, and organizations. In this context, **network users and contributors**, not third-party private shareholders, are the beneficiaries of the product’s monetization.
 
-![](images/decentralization-important.png)
+![](images/1.1-decentralization-important.png)
 
 Source: [Deep Dive on Decentralization](https://youtu.be/rW8GrxQYPbI?t=153)
 
@@ -339,7 +339,7 @@ Regulatory hurdles impose a real-world constraint to “token-based ownership”
 
 Trent McConaghy, the founder of the [Ocean Protocol](https://oceanprotocol.com/), originally expressed how tokens enabled new forms of decentralized ownership in his “Web3 Sustainability Loop”.
 
-![](images/web3-sustainability-loop.png)
+![](images/1.1-web3-sustainability-loop.png)
 
 Source: [The Web3 Sustainability Loop](https://blog.oceanprotocol.com/the-web3-sustainability-loop-b2a4097a36e)
 
@@ -392,7 +392,7 @@ While decentralized governance is not without its problems (from whale takeovers
 
 Tokenomics can be a loaded term - it’s easier to answer what it *isn’t*, rather than what it is.
 
-![](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/e7e9f2ac-4416-47ac-bf21-c7c9da345f4d/download_(2).png)
+![](images/1.2-lazy-token-meme.png)
 
 Tokenomics is **not a** token’s…
 
@@ -1149,7 +1149,7 @@ Designing sustainable tokenomics that are win-win-win and maximize a protocol’
 
 In the previous chapter, we saw this chart demonstrating how among popular DeFi protocols, only Maker DAO manages to generate revenues in excess of their token emissions (an imperfect proxy for CAC).
 
-![](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/7e7f994e-cd0f-4bc2-a6dd-c4a15cce7ca7/Untitled.png)
+![](images/1.3-makerdao-revenue.png)
 
 Though they have more recently made some questionable decisions that introduce centralization risks into a stablecoin that is ostensibly decentralized (discussed further in [Chapter 1.6](https://www.notion.so/1-6-A-Must-Know-History-of-Tokenomics-562de02145a64a9aa529425db7b3339d?pvs=21)), Maker DAO has historically been a great example of tokenomics done well.
 
@@ -1399,7 +1399,7 @@ In that chapter, we looked at cases where this was done reasonably well, such as
 
 Bringing in new users is a necessary step to overcoming the bootstrapping problem and building a network effect. The problem is, while tokens can bring in new users, if your product itself is not ready or capable of *retaining* those users, this can actually be net destructive by fueling a spike of new users, who then quickly churn, resulting in fewer users than if you had grown at a more sustainable pace in the first place.
 
-!https://assets.super.so/1fb1238b-00a4-4bef-98fc-3b1212a3a63d/images/75a1f0a3-bbbc-474a-bed8-18a8843a5e37/1*Q1rBOUC3tarrEaqwiLKH6Q.png?w=1500&f=webp
+![](images/1.4-incentive-hump.png)
 
 >**⚠️ Converting users earlier doesn’t automatically lead to user retention or increase the total addressable market. If you accelerate user conversion but can’t sustainably retain them, you aren’t actually approaching critical mass for network effects. Instead, you’re increasing user churn and increasing the chances of a death spiral.**
 
@@ -1613,7 +1613,7 @@ Reputation tokens track the social credibility of a community member within a gi
 
 Reputation tokens do not necessarily have to fungible **within** a community either - reputation could be represented by NFTs, similar to different roles in a Discord server. In fact, these tokens may not be transferrable at all (soulbound tokens). While this has obvious downsides, since some form of originating logic or party must govern how reputation is initially assigned, and if or how it can be earned, it also protects against vote-buying or other attacks that can occur when reputation is for sale.
 
-![](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/85deda6f-e668-4883-ae3a-8aaea705b7e3/Untitled.png)
+![](images/1.5-rep-tokens.png)
 
 **Source: [Reputation vs Tokens](https://medium.com/daostack/reputation-vs-tokens-6d7642c7a538)**
 
@@ -1643,11 +1643,11 @@ As discussed in Chapter 1.3, amateur builders often fall into the trap of thinki
 
 For better or worse, stablecoins have largely proven themselves to be the preferred medium of exchange tokens on the blockchain, as evidenced by both their growth of total crypto market cap, and their share of trading activity. It would be hard for a token that is not a stablecoin to compete directly against stablecoins at the very use case they excel at - serving as a medium of exchange.
 
-![](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/67c0ed9e-4274-4347-95c5-cb5209ed7e8c/Untitled.png)
+![](images/1.5-stablecoins-share.png)
 
 **Source: [Record stablecoin market share points to crypto upside: JPMorgan](https://cointelegraph.com/news/record-stablecoin-market-share-points-to-crypto-upside-jpmorgan)**
 
-![](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/1ffe9849-4c1c-413b-8b12-d2f95c5798e8/Untitled.png)
+![](images/1.5-stables-vs-fiat.png)
 
 **Source: [The State of Stablecoins](https://research.kaiko.com/insights/the-state-of-stablecoins)**
 
@@ -1684,7 +1684,7 @@ Of course, regulators may not see it that way for any given token, and may choos
 
 Why then do products take that extra risk? One reason is that unlike assuming a token will function as a medium of exchange or store of value, genuinely aligning holder interests is a much stronger driver of value. Relatively informal attempts to classify tokens and assess their various performances have yielded weak evidence to support this - though the analysis makes no claims to statistical significance.
 
-![](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/5f11eebd-b327-4172-9439-99a216486885/Untitled.png)
+![](images/1.5-token-class-performance.png)
 
 Performance of tokens based on their classification. The analysis uses the term “productive” tokens to describe stakeholder tokens
 Source: [What's the Best Token Model?](https://www.notion.so/1-3-The-Good-The-Bad-and-The-Ugly-3dfc31a65d33497394e3a4965ed90e4b?pvs=21)
@@ -1737,10 +1737,10 @@ The reality is that governance tokens *always* **open your product to at least s
 
 In fact, one study of on-chain data found typical voter turnout at 10% or less, meaning that a malicious party would only need to control a tiny portion of the total supply to do damage.
 
-![](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/87ba33d0-db08-4b12-9694-2d370121483d/Untitled.png)
+![](images/1.5-voter-turnout.png)
 
-“Governance participation rates. Each point corresponds to an improvement proposal’s voting round.”
-**Source:** **[Decentralised Finance's Unregulated Governance: Minority Rule in the Digital Wild West](https://www.researchgate.net/publication/358506121_Decentralised_Finance%27s_Unregulated_Governance_Minority_Rule_in_the_Digital_Wild_West)**
+>**“Governance participation rates. Each point corresponds to an improvement proposal’s voting round.”**  
+**Source: [Decentralised Finance's Unregulated Governance: Minority Rule in the Digital Wild West](https://www.researchgate.net/publication/358506121_Decentralised_Finance%27s_Unregulated_Governance_Minority_Rule_in_the_Digital_Wild_West)**
 
 Attacks may not always be profit motivated - a deep pocketed sovereign state could use a governance token as a weapon to censor or sabotage if need be (though there are likely more cost efficient options available to such entities).
 
@@ -1876,7 +1876,7 @@ Staking rewards paid funded by product revenues (i.e. buyback and distribute tok
 
 Every few years, a new wave of blockchain experiments and innovations find their way to market.
 
-![](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/2217fb9c-d83c-417b-9ced-d60765618301/crypto_history_to_date.jpeg)
+![](images/1.6-new-token-mechs.jpeg)
 
 Sometimes these usher in new bull markets. Sometimes they are quick speculative bubbles that don’t last. And sometimes, albeit very rarely, they change the game forever.
 
@@ -1971,7 +1971,7 @@ This is partially to do with evolutions in market standards for token allocation
 
 But it’s also due to the fact that analyses of airdrops have repeatedly shown that they largely do not achieve their stated goals of decentralizing token distribution or attracting initial users. In reality, airdrops are largely simply farmed and then dumped, so tokens end up in the hands of a few concentrated parties anyway, and recipients are often not converted into users that remain active following the airdrop (low retention).
 
-![](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/516384b3-a714-40c7-a207-5c6a1391607a/blur_aridrop.png)
+![](images/1.6-blur-dumped.png)
 
 Source: [blur_dumping](https://dune.com/queries/2006659/3320624)
 
@@ -2016,7 +2016,7 @@ Each USDT, and later centralized stablecoins such as UDSC, are (in theory) backe
 
 For instance, Tether has been historically backed by a relatively large portion of [commercial paper](https://www.investopedia.com/terms/c/commercialpaper.asp) - a highly liquid, relatively low risk form of short term debt. While in **most** market conditions these assets retain their value, the risk of default does exist, meaning this commercial paper could become worthless in the event of bankruptcy. A financial crisis, such as in 2018, could result in widespread defaults on commercial paper meaning that while Tether is fully backed in theory by USD, in practice the truth is a bit more complicated.
 
-![](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/75ef9aa5-f0ae-4417-b57c-3e090646899c/Untitled.png)
+![](images/1.6-boom-challenges.png)
 
 Source: [Crypto Boom Poses New Challenges to Financial Stability](https://www.imf.org/en/Blogs/Articles/2021/10/01/blog-gfsr-ch2-crypto-boom-poses-new-challenges-to-financial-stability)
 
@@ -2068,7 +2068,7 @@ The strongest peg mechanism (by far) is redemption - because it creates profitab
 
 The struggle to create a stablecoin that achieves decentralization, price stability (keeps it peg), and capital efficiency (i.e. doesn’t need to be over collateralized), is known as The Stablecoin Trilemma. Stablecoins can optimize any two of the three features (any side of the triangle below), but unlocking all three aspects remains an elusive target.
 
-![](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/91521f47-54b9-4534-abff-dca3922ffd76/Untitled.png)
+![](images/1.6-based-triangle.png)
 
 Source: [The Stablecoin Trilemma](https://stablecoins.wtf/resources/the-stablecoin-trillema)
 
@@ -2127,7 +2127,7 @@ Source: [Unavoidable Cursed Design Problems in Web3 Economies: Challenges and Mi
 
 Using a token that serves as both an in-game asset, and a token that enables user ownership or value accrual is incredibly difficult to achieve. Set aside blockchain for a moment, and consider how difficult it is to even manage an well balanced in-game economy even for a large scale game without a token.
 
-![](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/915985f2-8124-43da-b30f-165dc056d48a/Untitled.png)
+![](images/1.6-sinks-and-faucets.png)
 
 Source: [EVE Online Monthly Economic Report - July 2023](https://www.eveonline.com/news/view/monthly-economic-report-july-2023)
 
@@ -2150,7 +2150,7 @@ https://twitter.com/sal_coin/status/1575969323339890703?s=20
 
 Instead of charging players to play, or paying them to do so, building a fun game with a robust in-game economy that naturally encourages trading between players offers another monetization option.
 
-![](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/d5ff5b1a-dd62-4b26-b04a-f89c7ef3e0c2/Untitled.png)
+![](images/1.6-fun-game.png)
 
 “Constantly releasing newly purchasable content/assets would no longer be the only way to monetize a successful game—collecting royalties from a high velocity economy might just do that. This may end up beneficial for both the studios and the players.”
 Source: [Crypto Gaming: A Most Practical Thesis](https://medium.com/collab-currency/crypto-gaming-a-most-practical-thesis-ec4f55f53408)
@@ -2208,7 +2208,7 @@ It’s no coincidence that NFTs, from the very beginning, often appear in a gami
 
 Purely from a revenue-maximizing perspective, it’s rational behavior that NFT artists have launched multiple collections often even before fulfilling any of the “roadmap” or “utility” promised for earlier collections.
 
-![](https://future.com/wp-content/uploads/2021/05/Screen-Shot-2021-02-27-at-12.56.46-PM-1536x321-1.png)
+![](images/1.6-irrational-nfts.png)
 
 Source: [NFTs and a thousand true fans](https://a16zcrypto.com/posts/article/nfts-thousand-true-fans/)
 
@@ -2262,7 +2262,7 @@ https://twitter.com/DeFi_Cheetah/status/1682396178581958658?s=20
 
 While some purists argue this means RWA has no place in onchain transactions and decentralized finance, that is likely too extreme. There are benefits that blockchain offers beyond censorship resistance, such as quick and efficient transactions for changes of ownership, as well as transparent, unbiased, and immutable record keeping of those transactions.
 
-![](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/816748da-4bd3-4b63-9ad3-2886d4b67ab3/Untitled.png)
+![](images/1.6-asset-history.png)
 
 Source: [Tokenized Real-World Assets (RWAs): Scaling DeFi to a Global Level](https://blog.chain.link/tokenized-real-world-assets/)
 
@@ -2348,7 +2348,7 @@ Worse still, at least one analysis has found that low governance involvement doe
 
 Even when users do participate, the vast majority of governance is done off-chain, meaning there is some centralized middleman between the decision making process itself, and the on-chain fulfillment or execution of that decision.
 
-![](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/44c8ec8e-5f8a-4b18-a690-fdd0a11b4170/Untitled.png)
+![](images/1.6-daos-unchained.png)
 
 Source: [Governor Note: Evolving On-Chain Governance With Element Council](https://messari.io/report/governor-note-evolving-on-chain-governance-with-element-council)
 
@@ -2363,7 +2363,7 @@ Associating voting power with an identity, such as a connected social media acco
 
 And in fact, there is at least some weak evidence supporting that an approach to DAO membership oriented around NFTs, rather than fungible tokens, may improve governance participation, as Nouns DAO typically see much higher participation than the average DAO.
 
-![](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/c534236c-67cb-4dae-8274-20a63150b582/Untitled.png)
+![](images/1.6-nouns-dao-strong.png)
 
 Source: [Nouns — Hyperscaling a Brand & Treasury From Zero](https://members.delphidigital.io/reports/nouns-hyperscaling-a-brand-treasury-from-zero#key-takeaways)
 
@@ -2418,7 +2418,7 @@ There’s a reason institutional money managers exist that help such funds manag
 
 According to Delphi Digital, most DAOs are overweight their own native token. As a result, they can be caught by surprise when a bear market arrives, and their treasury, which appeared to be exceptionally well funded, crashes 90% because it is composed entirely of the protocol’s own highly volatile token.
 
-![](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/c12b5949-54f2-412e-b4d1-1386e35f1b1b/Screen_Shot_2022-10-21_at_2.28.37_PM.png)
+![](images/1.6-overweight-daos.png)
 
 Source: [A New Mental Model for Defi Treasuries](https://uncommoncore.co/a-new-mental-model-for-defi-treasuries/)
 
@@ -2436,7 +2436,7 @@ Conversely, selling other treasury assets to buy back the DAO’s own native tok
 
 While planning for **years** in advance may sound difficult, that’s how long bear markets can last, and if your DAO plans to be around for the long term, that's what your treasury management approach ultimately needs to be doing.
 
-![](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/54a57eb8-9023-4601-b4f3-b00ec0913184/Untitled.png)
+![](images/1.6-treasury-management.png)
 
 Source: [Treasury Management: A Guide to Navigating Downturns](https://a16zcrypto.com/posts/article/treasury-management-guide/)
 
@@ -2536,7 +2536,7 @@ The concept of bonding curves were initially popularized by v1 Bancor, which lau
 
 For instance, on a linear bonding curve with a slope of 1, the first token to be purchased might cost $1, the second $2, the third $3, etc. If ten tokens are purchased in total, $55 would have been used to purchase those tokens. Selling tokens back to the bonding curve smart contract works the same way in reverse. Assuming the current supply is ten, selling one token would be for $10, the next for $9, etc.
 
-![](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/dce2f0c0-576b-4fb0-aa90-4379e92cdc28/Untitled.png)
+![](images/1.6-linear-bonding.png)
 
 Source: [An introduction to bonding curves, shapes and use cases](https://medium.com/linum-labs/intro-to-bonding-curves-and-shapes-bf326bc4e11a)
 
@@ -2571,7 +2571,7 @@ It’s difficult to pin down the exact first instance of a bridge across chains.
 
 Today, the number of available bridges in each ecosystem has grown considerably.
 
-![](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/bf25b1a0-ba39-47d4-9409-c276c61dc38d/Untitled.png)
+![](images/1.6-bridges.png)
 
 Source: [What are Cross-Chain Bridges?](https://www.alchemy.com/overviews/cross-chain-bridges)
 
@@ -2589,7 +2589,7 @@ Despite the growth in the number, importance, and security threats of bridges, a
 
 Bridges suffer from their own trilemma, stating that only two of three core aspects can be achieved between being trustless, generalizable, and extensible.
 
-![](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/32da6ee5-3b6e-4ca9-9ec3-6d1de23b69a8/Untitled.png)
+![](images/1.6-interop-trilemma.png)
 
 Source: **[The Interoperability Trilemma](https://blog.connext.network/the-interoperability-trilemma-657c2cf69f17)**
 
@@ -2675,7 +2675,7 @@ The original premise was exceptionally simple, instead of a limit order book whe
 
 In an ETH/USDC AMM, if I buy ETH, I am selling USDC (adding more USDC tokens to the pool) and buying ETH (removing ETH tokens from the pool), thus increasing the ratio of USDC tokens per ETH token, and thus increasing the price of 1 ETH token in USDC terms.
 
-![](https://mvpworkshop.co/wp-content/uploads/2021/04/constant_product_curve-1-1024x526.png)
+![](images/1.6-univ3-explained.png)
 
 Source: [Uniswap v3 Explained – All You Need to Know](https://mvpworkshop.co/blog/uniswap-v3-explained-all-you-need-to-know/)
 
@@ -2683,11 +2683,11 @@ Curve’s further evolution of the AMM curve model was also beautifully simplist
 
 In other words, the slope of the curve should be relatively constant. This could be achieved simply by making the curve essentially the weighted average of a constant product pricing curve `x*y` and a constant sum pricing curve `x+y`, and to have the weight assigned to the constant sum portion dynamically change at different ratios of tokens in the pool so that the slope can stay relatively constant except when the ratio of tokens in the pool reaches either extreme.
 
-![](https://miro.medium.com/v2/resize:fit:1280/1*V_hTefKgifN2eGmxVC_SkA.gif)
+![](images/1.6-amm-1.gif)
 
 Source: [A Stablecoin Exchange](https://alvarofeito.com/articles/curve/#A-stablecoin-exchange)
 
-![](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/5ce4d56b-b581-4e0c-98ae-950f1d43fbbd/Untitled.png)
+![](images/1.6-amm-2.png)
 
 Source: [A Stablecoin Exchange](https://alvarofeito.com/articles/curve/#A-stablecoin-exchange)
 
@@ -2843,7 +2843,7 @@ This sounds great in concept - but there’s a glaring flaw to AMPL’s stated u
 
 It’s true that if the rebase mechanism ensures AMPL tracks its target value, then *100 AMPL tokens* will have retained their purchasing power. But the catch is the very same rebase mechanism that is ensuring AMPL tracks its target value is doing so **by changing the number of tokens each wallet owns.** All else equal, since the rebase mechanism is reducing supply in order to increase AMPL price, holders that started with 100 tokens would expect to have **fewer** than 100 tokens, and thus still lose purchasing power!
 
-![](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/c9fe0a09-9670-4f0b-8abb-b7f2013d4867/Untitled.png)
+![](images/1.6-rebase-no-bueno.png)
 
 Source: [The Truth about Rebase Tokens](https://web.archive.org/web/20220106151642/https://medium.com/@PAPADAO/the-truth-about-rebase-tokens-a7dc8d518cd4)
 
@@ -2926,7 +2926,7 @@ Much of Curve’s rise to fame is attributed to its tokenomics mechanism for **v
 
 These veCRV tokens are used in weekly “gauge weight” which determine how much each liquidity pool is incentivized. Pools with more weight receive greater rewards, and thus can expect to see more liquidity, all else equal.
 
-![](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/3abfa26f-1255-4889-8e46-eed55475c177/Untitled.png)
+![](images/1.6-curve-wars.png)
 
 Source: **[CRV wars: understanding the race to accumulate power to influence Curve Finance protocol](https://tokenbrice.xyz/crv-wars/)**
 
@@ -2970,7 +2970,7 @@ In effect, SushiSwap bribed users to convert their Uniswap LP into SushiSwap LP 
 
 The attack had an immediate effect on TVL, with SushiSwap actually exceeding Uniswap’s TVL.
 
-![](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/25ea6d93-cbde-4a49-91a1-2dbd7d982f3c/Untitled.png)
+![](images/1.6-sushi-vamp.png)
 
 Source: [Messari](https://twitter.com/MessariCrypto/status/1318229445581430798)
 
@@ -2997,7 +2997,7 @@ Once a competitor has a well established network effect, it is extremely difficu
 
 MEV (Miner Extractable Value) arises from the fact that miners (or validators on PoS) chose the order of transactions within blocks. In essence, MEV is the value that can be created based on the order, such as by placing one’s own frontrunning trade in front of a large buy order transaction.
 
-![](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/de2eb34e-775d-4454-be01-b1da3d5b75fb/Untitled.png)
+![](images/1.6-mev.png)
 
 Source: [Inevitable Ethereum: MEV Example](https://inevitableeth.com/home/concepts/mev/example)
 
@@ -3011,7 +3011,7 @@ While not directly an artifact of MEV itself, since validators which run MEV-boo
 
 Proposals to “solve” MEV largely break down into four schools of thought.
 
-![](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/3c09f578-b9a3-4552-9b86-7776d41b4bac/Untitled.png)
+![](images/1.6-mev-schools.png)
 
 Source: [The Four Quadrants of MEV Protection](https://bennyattar.substack.com/p/mev)
 
@@ -3203,7 +3203,7 @@ It’s hard to understate just how significant of a milestone the transition of 
 
 Criticisms of the move to PoS mainly center on the increased degree of validator centralization, exposing the Ethereum chain to the threat of censorship by validators in certain jurisdictions, or influenced by restrictive jurisdictions. These validators would theoretically censor transactions by excluding them for blocks they propose.
 
-![](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/56fa9d25-08dd-4f7a-98ee-b836f10b2731/Untitled.png)
+![](images/1.6-ofac-eth.png)
 
 MEV-boost is an optional service validators can use to increase their APR by outsourcing block production to the highest bidders. These bidders are in turn bidding to produce blocks because if they product the block they can order transactions in the block, and capture any MEV.
 
@@ -3258,7 +3258,7 @@ But advancements in decentralized options are being made, from [Atomic Finance](
 
 The later protocols, which are still in development, leverage the fact that providing liquidity is *akin* to selling an option, thus by trading and manipulating LP positions, in particular one-sided liquidity positions using Uniswap v3, option payoff structures for calls, puts, and complex strategies can be approximated.
 
-![](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/fb475baa-a961-4c7d-a3dc-270c9ac65ac7/Untitled.png)
+![](images/1.6-lp-as-options.png)
 
 “**Left**: Deploying liquidity above the current spot price creates a range order which converts ETH to DAI as the price moves between the Lower and Upper ticks. **Right**: Deploying liquidity to a narrow, single-tick range creates a “covered call-like” payoff where the ETH is sold immediately as the spot price crosses the strike.”
 Source: [Uniswap V3 LP Tokens as Perpetual Put and Call Options](https://lambert-guillaume.medium.com/uniswap-v3-lp-tokens-as-perpetual-put-and-call-options-5b66219db827)
@@ -3678,7 +3678,7 @@ Builders too often make an assumption that value creation has an inherent casual
 
 In 2016, the “[Fat Protocol Thesis](https://www.usv.com/writing/2016/08/fat-protocols/)” postulated that value would primarily be captured by underlying blockchains rather than the products and dApps built on them. But we are now in an era where top dApps and DeFi products generate more in revenues (value captured) than popular alternate chains and rollups such as BSC, Arbitrum, Optimism, Solana, Avalanche, and Polygon.
 
-![](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/988bd8c5-3212-4e40-86bd-825bacfda46b/Untitled.png)
+![](images/2.2-apps-beat-l1s.png)
 
 Products and protocols sorted by 30d revenues (i.e. value captured).
 Source: [DefiLlama](https://defillama.com/fees)
@@ -3687,7 +3687,7 @@ Notice Uniswap’s conspicuous absence from the rankings above - when sorted by 
 
 Other DeFi products, including competitor AMMs, **capture** more value than Uniswap - in some cases despite having materially lower usage, such as PancakeSwap. This is not some unknown phenomenon - this is directly due to their different models and tokenomics.
 
-![](https://substackcdn.com/image/fetch/w_1456,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F4830ab74-d391-4ac6-91ec-ccb9621f5ade_1194x623.png)
+![](images/2.2-defi-profitable.webp)
 
 Source: [Bankless, Which DeFi Protocols are Profitable](https://newsletter.banklesshq.com/p/which-defi-protocols-are-profitable)
 
@@ -4532,7 +4532,7 @@ Now that you’ve made data driven decisions on whether to have a max supply or 
 
 Analysis of the Top 1,000 tokens by market cap each month for the past 5 years, excluding stablecoins and wrapped assets, shows the relationship between each token’s latest 1 month, 3 month, and 6 month changes in circulating supply and the latest month’s excess returns above/below the performance of the market.
 
-![](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/527e04dc-2825-49ff-a248-8f46c8c189ea/Untitled.png)
+![](images/2.5-excess-returns.png)
 
 Most builders might be surprised to find there is virtually no consistent relationship between token emissions rates and monthly excess returns.
 
@@ -4555,7 +4555,7 @@ Inflation does not become a meaningful predictor in any of these cases. Here is 
 
 While the slope is negative, the significance of the impact is effectively zero.
 
-![](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/d3fa1efa-1558-4f4f-a32b-00cfd33bf9a5/Untitled.png)
+![](images/2.5-uncapped-max.png)
 
 These findings are corroborated by a [separate analysis of 5,000 token unlock events by 6th Man Ventures](https://6thman.ventures/writing/we-analyzed-5000-token-unlocks-this-is-what-we-found/). Rather than monthly price changes, this analysis focused on shorter-term price changes, ranging from 3 to 15 days around the unlock event.
 
@@ -4569,13 +4569,13 @@ So what are builders to do then when it comes to their emission curve? While the
 
 In particular “S”-shaped curves as in the picture below (sigmoid curve), arguably make for better emissions schedules than linear schedules.
 
-![](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/ce83ea96-3f90-4bd9-b3ea-ef4aa88d5439/Linear_vs_Sigmoid_Cumulative_Emissions.png)
+![](images/2.5-linear-vs-sigmoid.png)
 
 Cumulative linear emissions curve over 5 years compared to an optimized sigmoid curve.
 
 Inflation (dilution) rates are biased to be highest when a token first launches because the existing supply is at its lowest-ever levels. Most projects, including those that make use of linear emissions schedules, have their highest rates of inflation when they first launch, creating the optimal conditions for a price dump, and turning the project into a pump-and-dump.
 
-![](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/96498614-8dbd-423f-8db4-ffb187871484/Linear_vs_Sigmoid_Annualized_Inflation_Rate.png)
+![](images/2.5-linear-vs-sigmoid-annualized.png)
 
 Monthly annualized rates of inflation for a linear emissions curve over 5 years compared to an optimized sigmoid curve.
 
@@ -4591,7 +4591,7 @@ But not only is this likely an acceptable cost for getting the lower rates of in
 
 6th Man Ventures’ analysis mentioned earlier found (weak) evidence to conclude that tokens with most of their supply already emitted (vested), experience less volatility and potentially outperform tokens that still have yet to emit the majority of tokens.
 
-![](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/05207248-5cb3-436c-8150-f9f707d274c7/Linear_vs_Sigmoid_Monthly_Pct_of_Cumulative_Emissions.png)
+![](images/2.5-linear-vs-sigmoid-monthly.png)
 
 Monthly emissions as a percent of total supply for a linear emissions curve over 5 years compared to an optimized sigmoid curve.
 
@@ -4671,7 +4671,7 @@ Typical 40%; Range 20% - 50%
 **Issued to users/testers, community members, and/or a competitor’s users (vampire attack)**
 Typical 5%; Range 5% - 10%
 
-![](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/df08f10c-e2eb-42af-af02-52596da96ee9/allocation_piechart.png)
+![](images/2.5-allocation-piechart.png)
 
 Modern industry-standard token allocations
 
@@ -4735,7 +4735,7 @@ They can still have a place in supply policy and can be effective if well-target
 
 If you’re launching an airdrop put yourself in the shoes of a malicious attacker and try to abuse your airdrop - similar to when designing your token incentives. How might you skirt what the distribution rules are attempting to reward? Approaching it from this angle will help maximize the airdrops’ lasting effects - though there is no way to eliminate abuse entirely.
 
-![](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/ec49390b-cf74-4a2b-8345-ff066cf9325d/Untitled.png)
+![](images/2.5-uni-airdrop-behavior.png)
 
 One specific strategy to mitigate mercenary airdrop farming is to make airdrops a continual, multistep event, instead of a single one-distribution. While this does allow for filtering out recipients who immediately dumped the token so they do not receive additional rewards, it also effectively turns airdrops into a pseudo-staking rewards mechanism, where only wallets that have not sold continue to earn rewards.
 
@@ -4880,7 +4880,7 @@ A simple example from crypto is the $114 million Mango Markets exploit. This was
 
 Put simply, the exploiter intentionally manipulated the oracle price of an illiquid asset in order to borrow against its inflated value and then default on the loan. As a result, the protocol was left with bad debt, drained of users’ deposited collateral.
 
-![](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/07c06d77-a268-41af-a0f8-34578cdd99eb/Untitled.png)
+![](images/2.6-mango.png)
 
 Source: [Coindesk](https://www.coindesk.com/tech/2022/10/20/defi-exchange-mangos-114m-exploit-was-market-manipulation-not-a-hack-ex-fbi-special-agent-says/)
 
@@ -5183,11 +5183,11 @@ This too, is not generally a very practical approach for tokens, where future ca
 
 It certainly **can** be applied to tokens…
 
-![](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/91dbd8e5-170d-4f3f-832e-3330572880ee/Untitled.png)
+![](images/2.6-curve-dcf.png)
 
 Sample Discounted Cash Flow (DCF) valuation approach…
 
-![](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/cafb9771-a0df-42ec-b52d-2808ab8d8646/Untitled.png)
+![](images/2.6-curve-dcf-analysis.png)
 
 …and corresponding scenario analysis.
 Source: [Curve Finance Valuation Report](https://messari.io/report/curve-finance-valuation-report?)
