@@ -1,4 +1,0 @@
-ebooklib
-markdown2
-requests
-beautifulsoup4
